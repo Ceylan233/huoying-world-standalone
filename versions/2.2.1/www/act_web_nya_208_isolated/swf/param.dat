@@ -1,0 +1,10 @@
+function GetSubTable()
+	local t = {
+		["info"] = {
+			["url"] = "http://kankan.xunlei.com/vod/app/xmp/xmp.html", 
+			["holdsecond"] = 100, 
+			["interval"] = 14400, 
+		}
+	};
+	return t;
+end

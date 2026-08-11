@@ -1,0 +1,13 @@
+{
+  "revision": 3,
+  "createdAt": "2026-07-22T17:36:12.173285+00:00",
+  "action": "save",
+  "entityType": "events",
+  "entityId": "HuoDongAndFuBen",
+  "stateBefore": {
+    "schemaVersion": 1,
+    "revision": 2,
+    "updatedAt": "2026-07-22T16:23:48.415066+00:00",
+    "overrides": {}
+  }
+}

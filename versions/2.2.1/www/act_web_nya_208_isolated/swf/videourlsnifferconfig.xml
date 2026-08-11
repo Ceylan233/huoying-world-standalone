@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XmpVideoUrlSnifferConfig>
+	<Setting>				
+		<!--isstatloadinfo ipeerid="[001,HZZ]">1</isstatloadinfo-->
+		<isstatieprocess ipeerid="[001,MZZ]">1</isstatieprocess>
+		<isiemousedowntoplay>1</isiemousedowntoplay>
+		<iswork>1</iswork>
+	</Setting>
+</XmpVideoUrlSnifferConfig>

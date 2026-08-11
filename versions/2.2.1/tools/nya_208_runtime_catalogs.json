@@ -1,0 +1,4259 @@
+{
+  "exchange": [
+    {
+      "sn": 1,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210252,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          1210242,
+          1
+        ],
+        [
+          1210208,
+          1
+        ],
+        [
+          16000106,
+          70
+        ]
+      ]
+    },
+    {
+      "sn": 2,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 2,
+      "single_exchanged": 0,
+      "target_id": 2050015,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          2050012,
+          3
+        ]
+      ]
+    },
+    {
+      "sn": 3,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 2050013,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          2050012,
+          3
+        ]
+      ]
+    },
+    {
+      "sn": 4,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 7,
+      "single_exchanged": 0,
+      "target_id": 2050012,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          2050010,
+          5
+        ]
+      ]
+    },
+    {
+      "sn": 5,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 1,
+      "single_exchanged": 0,
+      "target_id": 1210209,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          2050010,
+          3
+        ]
+      ]
+    },
+    {
+      "sn": 6,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 1,
+      "single_exchanged": 0,
+      "target_id": 1210211,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          2050010,
+          3
+        ]
+      ]
+    },
+    {
+      "sn": 7,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210250,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          2050011,
+          3
+        ]
+      ]
+    },
+    {
+      "sn": 8,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 1,
+      "single_exchanged": 0,
+      "target_id": 1210242,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          1210243,
+          3
+        ]
+      ]
+    },
+    {
+      "sn": 9,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 1,
+      "single_exchanged": 0,
+      "target_id": 1210208,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          1210207,
+          3
+        ]
+      ]
+    },
+    {
+      "sn": 10,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 302,
+      "single_exchanged": 0,
+      "target_id": 16000016,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000001,
+          1
+        ]
+      ]
+    },
+    {
+      "sn": 11,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 27,
+      "single_exchanged": 0,
+      "target_id": 16000016,
+      "target_quantity": 10,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000027,
+          1
+        ]
+      ]
+    },
+    {
+      "sn": 12,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 408,
+      "single_exchanged": 0,
+      "target_id": 16000012,
+      "target_quantity": 5,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000013,
+          3
+        ]
+      ]
+    },
+    {
+      "sn": 13,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 54,
+      "single_exchanged": 0,
+      "target_id": 16000014,
+      "target_quantity": 5,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000013,
+          1
+        ]
+      ]
+    },
+    {
+      "sn": 14,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 15,
+      "single_exchanged": 0,
+      "target_id": 16000053,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000055,
+          5
+        ]
+      ]
+    },
+    {
+      "sn": 15,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 5,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210250,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          15008002,
+          500
+        ],
+        [
+          15008003,
+          500
+        ],
+        [
+          15008004,
+          500
+        ]
+      ]
+    },
+    {
+      "sn": 16,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210353,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000156,
+          200
+        ]
+      ]
+    },
+    {
+      "sn": 17,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210292,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          19070001,
+          1
+        ]
+      ]
+    },
+    {
+      "sn": 18,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210295,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          19070001,
+          1
+        ]
+      ]
+    },
+    {
+      "sn": 19,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210298,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11000353,
+          30
+        ]
+      ]
+    },
+    {
+      "sn": 20,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210301,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11000353,
+          30
+        ]
+      ]
+    },
+    {
+      "sn": 21,
+      "limited": true,
+      "rest_time": 13842428,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 11000294,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000041,
+          300
+        ]
+      ]
+    },
+    {
+      "sn": 22,
+      "limited": true,
+      "rest_time": 13842428,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 11000295,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000041,
+          600
+        ]
+      ]
+    },
+    {
+      "sn": 23,
+      "limited": true,
+      "rest_time": 13842428,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 11000296,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000041,
+          1000
+        ]
+      ]
+    },
+    {
+      "sn": 24,
+      "limited": true,
+      "rest_time": 13842428,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 7,
+      "single_exchanged": 0,
+      "target_id": 15008005,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000040,
+          50
+        ]
+      ]
+    },
+    {
+      "sn": 25,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210304,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          1210308,
+          1
+        ],
+        [
+          11000353,
+          8
+        ]
+      ]
+    },
+    {
+      "sn": 26,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210328,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          1210308,
+          1
+        ],
+        [
+          11000353,
+          8
+        ]
+      ]
+    },
+    {
+      "sn": 27,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210303,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          1210244,
+          3
+        ]
+      ]
+    },
+    {
+      "sn": 28,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210343,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          1210303,
+          3
+        ]
+      ]
+    },
+    {
+      "sn": 29,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210408,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          1210244,
+          1
+        ],
+        [
+          11000353,
+          1
+        ]
+      ]
+    },
+    {
+      "sn": 30,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 16000115,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          15023001,
+          1
+        ]
+      ]
+    },
+    {
+      "sn": 31,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210427,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          1210243,
+          1
+        ],
+        [
+          11000353,
+          8
+        ]
+      ]
+    },
+    {
+      "sn": 32,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 4,
+      "single_exchanged": 0,
+      "target_id": 11000353,
+      "target_quantity": 8,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          15026007,
+          3
+        ]
+      ]
+    },
+    {
+      "sn": 33,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 11010091,
+      "target_quantity": 100,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          15040001,
+          1
+        ]
+      ]
+    },
+    {
+      "sn": 35,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 8,
+      "single_exchanged": 0,
+      "target_id": 11010114,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11000353,
+          1
+        ]
+      ]
+    },
+    {
+      "sn": 36,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 11,
+      "single_exchanged": 0,
+      "target_id": 11010114,
+      "target_quantity": 11,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11000353,
+          10
+        ]
+      ]
+    },
+    {
+      "sn": 37,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 11000353,
+      "target_quantity": 40,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          1210439,
+          1
+        ]
+      ]
+    },
+    {
+      "sn": 39,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 5,
+      "single_exchanged": 0,
+      "target_id": 11020016,
+      "target_quantity": 10,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11000353,
+          6
+        ]
+      ]
+    },
+    {
+      "sn": 40,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210324,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          1210285,
+          2
+        ],
+        [
+          1210286,
+          2
+        ],
+        [
+          1210287,
+          2
+        ],
+        [
+          1210288,
+          2
+        ]
+      ]
+    },
+    {
+      "sn": 41,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210338,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11000353,
+          30
+        ]
+      ]
+    },
+    {
+      "sn": 42,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 97,
+      "single_exchanged": 0,
+      "target_id": 11020017,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11020016,
+          6
+        ]
+      ]
+    },
+    {
+      "sn": 47,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210350,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11000353,
+          115
+        ]
+      ]
+    },
+    {
+      "sn": 48,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210431,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11000353,
+          115
+        ]
+      ]
+    },
+    {
+      "sn": 49,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210350,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000142,
+          500
+        ]
+      ]
+    },
+    {
+      "sn": 50,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210431,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000142,
+          500
+        ]
+      ]
+    },
+    {
+      "sn": 54,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 4,
+      "single_exchanged": 0,
+      "target_id": 11000353,
+      "target_quantity": 20,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11010115,
+          100
+        ]
+      ]
+    },
+    {
+      "sn": 55,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 3,
+      "single_exchanged": 0,
+      "target_id": 11000353,
+      "target_quantity": 19,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          13100009,
+          2
+        ]
+      ]
+    },
+    {
+      "sn": 56,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 11000353,
+      "target_quantity": 10,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000010,
+          100000
+        ]
+      ]
+    },
+    {
+      "sn": 57,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 32,
+      "single_exchanged": 0,
+      "target_id": 11000353,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000041,
+          750
+        ],
+        [
+          16000040,
+          750
+        ]
+      ]
+    },
+    {
+      "sn": 58,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 40,
+      "single_exchanged": 0,
+      "target_id": 11000353,
+      "target_quantity": 10,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          15028002,
+          680
+        ]
+      ]
+    },
+    {
+      "sn": 60,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 3,
+      "single_exchanged": 0,
+      "target_id": 11000353,
+      "target_quantity": 5,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000018,
+          10000
+        ]
+      ]
+    },
+    {
+      "sn": 61,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 2,
+      "single_exchanged": 0,
+      "target_id": 11000353,
+      "target_quantity": 20,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          1210211,
+          2
+        ]
+      ]
+    },
+    {
+      "sn": 62,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 11,
+      "single_exchanged": 0,
+      "target_id": 15029001,
+      "target_quantity": 200,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000035,
+          200
+        ]
+      ]
+    },
+    {
+      "sn": 63,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 2,
+      "single_exchanged": 0,
+      "target_id": 11010073,
+      "target_quantity": 1300,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000035,
+          200
+        ]
+      ]
+    },
+    {
+      "sn": 69,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210357,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          1210101,
+          10
+        ],
+        [
+          1210102,
+          10
+        ],
+        [
+          1210103,
+          10
+        ],
+        [
+          1210104,
+          10
+        ],
+        [
+          1210105,
+          10
+        ],
+        [
+          1210106,
+          10
+        ],
+        [
+          11030001,
+          55
+        ]
+      ]
+    },
+    {
+      "sn": 70,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 55,
+      "single_exchanged": 0,
+      "target_id": 11010119,
+      "target_quantity": 10,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11000353,
+          1
+        ],
+        [
+          11030001,
+          1
+        ]
+      ]
+    },
+    {
+      "sn": 71,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 8,
+      "single_exchanged": 0,
+      "target_id": 11010120,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11020016,
+          1
+        ],
+        [
+          11030001,
+          1
+        ]
+      ]
+    },
+    {
+      "sn": 72,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 11010120,
+      "target_quantity": 110,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11020016,
+          100
+        ],
+        [
+          11030001,
+          10
+        ]
+      ]
+    },
+    {
+      "sn": 75,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 16000035,
+      "target_quantity": 625,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          15040001,
+          100
+        ],
+        [
+          11030001,
+          10
+        ]
+      ]
+    },
+    {
+      "sn": 76,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 1,
+      "single_exchanged": 0,
+      "target_id": 11000353,
+      "target_quantity": 8,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          15008004,
+          1000
+        ],
+        [
+          11030001,
+          1
+        ]
+      ]
+    },
+    {
+      "sn": 77,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 11010073,
+      "target_quantity": 31,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000178,
+          40
+        ]
+      ]
+    },
+    {
+      "sn": 79,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 11010115,
+      "target_quantity": 100,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11000353,
+          25
+        ],
+        [
+          11030001,
+          1
+        ]
+      ]
+    },
+    {
+      "sn": 80,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 48,
+      "single_exchanged": 0,
+      "target_id": 11010121,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11000353,
+          1
+        ]
+      ]
+    },
+    {
+      "sn": 81,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 32,
+      "single_exchanged": 0,
+      "target_id": 11010121,
+      "target_quantity": 11,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11000353,
+          10
+        ],
+        [
+          11030001,
+          1
+        ]
+      ]
+    },
+    {
+      "sn": 82,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 11,
+      "single_exchanged": 0,
+      "target_id": 11010122,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11020016,
+          1
+        ]
+      ]
+    },
+    {
+      "sn": 83,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 11010122,
+      "target_quantity": 110,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11020016,
+          100
+        ],
+        [
+          11030001,
+          1
+        ]
+      ]
+    },
+    {
+      "sn": 84,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 38,
+      "single_exchanged": 0,
+      "target_id": 16000057,
+      "target_quantity": 1000,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11000353,
+          11
+        ],
+        [
+          16000037,
+          200
+        ]
+      ]
+    },
+    {
+      "sn": 85,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 1,
+      "single_exchanged": 0,
+      "target_id": 11000353,
+      "target_quantity": 60,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11020016,
+          103
+        ],
+        [
+          16000556,
+          7
+        ]
+      ]
+    },
+    {
+      "sn": 86,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 11000353,
+      "target_quantity": 20,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000555,
+          1
+        ],
+        [
+          11030001,
+          1
+        ]
+      ]
+    },
+    {
+      "sn": 87,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210284,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          1210285,
+          3
+        ],
+        [
+          1210286,
+          3
+        ],
+        [
+          1210287,
+          3
+        ],
+        [
+          1210288,
+          3
+        ]
+      ]
+    },
+    {
+      "sn": 88,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210484,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          1210285,
+          2
+        ],
+        [
+          1210286,
+          2
+        ],
+        [
+          1210287,
+          2
+        ],
+        [
+          1210288,
+          2
+        ]
+      ]
+    },
+    {
+      "sn": 89,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210433,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          1210284,
+          2
+        ],
+        [
+          1210484,
+          2
+        ],
+        [
+          1210244,
+          1
+        ]
+      ]
+    },
+    {
+      "sn": 91,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 11000353,
+      "target_quantity": 55,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11010014,
+          105
+        ]
+      ]
+    },
+    {
+      "sn": 95,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 1,
+      "single_exchanged": 0,
+      "target_id": 11000353,
+      "target_quantity": 59,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000012,
+          5000
+        ]
+      ]
+    },
+    {
+      "sn": 96,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 4,
+      "single_exchanged": 0,
+      "target_id": 15026007,
+      "target_quantity": 3,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11000353,
+          9
+        ]
+      ]
+    },
+    {
+      "sn": 97,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 4,
+      "single_exchanged": 0,
+      "target_id": 16000062,
+      "target_quantity": 840,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11000353,
+          11
+        ],
+        [
+          16000037,
+          240
+        ]
+      ]
+    },
+    {
+      "sn": 98,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 16000181,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11000353,
+          5
+        ]
+      ]
+    },
+    {
+      "sn": 99,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 3,
+      "single_exchanged": 0,
+      "target_id": 11010045,
+      "target_quantity": 3,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11000353,
+          15
+        ],
+        [
+          11030001,
+          15
+        ]
+      ]
+    },
+    {
+      "sn": 100,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 13200000,
+      "target_quantity": 2000,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11000353,
+          22
+        ],
+        [
+          16000037,
+          400
+        ]
+      ]
+    },
+    {
+      "sn": 101,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 131,
+      "single_exchanged": 0,
+      "target_id": 11000353,
+      "target_quantity": 4,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000169,
+          1
+        ]
+      ]
+    },
+    {
+      "sn": 102,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 8,
+      "single_exchanged": 0,
+      "target_id": 11000353,
+      "target_quantity": 40,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000170,
+          1
+        ]
+      ]
+    },
+    {
+      "sn": 103,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210524,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000170,
+          3
+        ],
+        [
+          11000353,
+          90
+        ]
+      ]
+    },
+    {
+      "sn": 104,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210524,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000170,
+          1
+        ],
+        [
+          11000353,
+          188
+        ]
+      ]
+    },
+    {
+      "sn": 105,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 2,
+      "single_exchanged": 0,
+      "target_id": 1210535,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000170,
+          3
+        ],
+        [
+          11000353,
+          90
+        ]
+      ]
+    },
+    {
+      "sn": 110,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 1,
+      "single_exchanged": 0,
+      "target_id": 16000150,
+      "target_quantity": 91,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000150,
+          33
+        ],
+        [
+          16000151,
+          33
+        ],
+        [
+          16000152,
+          33
+        ]
+      ]
+    },
+    {
+      "sn": 111,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 16000151,
+      "target_quantity": 91,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000150,
+          33
+        ],
+        [
+          16000151,
+          33
+        ],
+        [
+          16000152,
+          33
+        ]
+      ]
+    },
+    {
+      "sn": 112,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 67,
+      "single_exchanged": 0,
+      "target_id": 16000152,
+      "target_quantity": 91,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000150,
+          33
+        ],
+        [
+          16000151,
+          33
+        ],
+        [
+          16000152,
+          33
+        ]
+      ]
+    },
+    {
+      "sn": 113,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 29,
+      "single_exchanged": 0,
+      "target_id": 11010133,
+      "target_quantity": 6,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11000353,
+          1
+        ]
+      ]
+    },
+    {
+      "sn": 114,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210442,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          1210441,
+          13
+        ]
+      ]
+    },
+    {
+      "sn": 115,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 16000057,
+      "target_quantity": 20,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000058,
+          1
+        ]
+      ]
+    },
+    {
+      "sn": 116,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 191,
+      "single_exchanged": 0,
+      "target_id": 11000353,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000142,
+          5
+        ]
+      ]
+    },
+    {
+      "sn": 117,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 1,
+      "single_exchanged": 0,
+      "target_id": 1210516,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000142,
+          128
+        ]
+      ]
+    },
+    {
+      "sn": 118,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210347,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000142,
+          180
+        ]
+      ]
+    },
+    {
+      "sn": 119,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 3,
+      "single_exchanged": 0,
+      "target_id": 1210308,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000142,
+          16
+        ]
+      ]
+    },
+    {
+      "sn": 120,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 1,
+      "single_exchanged": 0,
+      "target_id": 1210330,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000142,
+          32
+        ]
+      ]
+    },
+    {
+      "sn": 121,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210527,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000142,
+          1066
+        ]
+      ]
+    },
+    {
+      "sn": 122,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210536,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000142,
+          1066
+        ]
+      ]
+    },
+    {
+      "sn": 123,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 1,
+      "single_exchanged": 0,
+      "target_id": 1210518,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000142,
+          16
+        ]
+      ]
+    },
+    {
+      "sn": 124,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 2,
+      "single_exchanged": 0,
+      "target_id": 1210512,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000142,
+          99
+        ]
+      ]
+    },
+    {
+      "sn": 125,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 4,
+      "single_exchanged": 0,
+      "target_id": 1210514,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000142,
+          99
+        ]
+      ]
+    },
+    {
+      "sn": 130,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210529,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000169,
+          30
+        ],
+        [
+          16000170,
+          2
+        ],
+        [
+          16000142,
+          20
+        ]
+      ]
+    },
+    {
+      "sn": 131,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 1,
+      "single_exchanged": 0,
+      "target_id": 1210537,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000169,
+          30
+        ],
+        [
+          16000170,
+          2
+        ],
+        [
+          16000142,
+          20
+        ]
+      ]
+    },
+    {
+      "sn": 132,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 6,
+      "single_exchanged": 0,
+      "target_id": 1210207,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000142,
+          8
+        ]
+      ]
+    },
+    {
+      "sn": 133,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 5,
+      "single_exchanged": 0,
+      "target_id": 1210243,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000142,
+          8
+        ]
+      ]
+    },
+    {
+      "sn": 134,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 41,
+      "single_exchanged": 0,
+      "target_id": 2050010,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000142,
+          16
+        ]
+      ]
+    },
+    {
+      "sn": 135,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 6000129,
+      "target_quantity": 1,
+      "target_bind": true,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000108,
+          1
+        ],
+        [
+          16000169,
+          3
+        ]
+      ]
+    },
+    {
+      "sn": 136,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 537,
+      "single_exchanged": 0,
+      "target_id": 11010135,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          11000353,
+          4
+        ]
+      ]
+    },
+    {
+      "sn": 139,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210538,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000170,
+          3
+        ],
+        [
+          11000353,
+          90
+        ]
+      ]
+    },
+    {
+      "sn": 140,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210538,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000170,
+          1
+        ],
+        [
+          11000353,
+          188
+        ]
+      ]
+    },
+    {
+      "sn": 141,
+      "limited": false,
+      "rest_time": 0,
+      "total_limit": 0,
+      "single_limit": 0,
+      "exchange_count": 0,
+      "single_exchanged": 0,
+      "target_id": 1210539,
+      "target_quantity": 1,
+      "target_bind": false,
+      "jinbi": 0,
+      "lijin": 0,
+      "yuanbao": 0,
+      "needs": [
+        [
+          16000170,
+          3
+        ],
+        [
+          11000353,
+          90
+        ]
+      ]
+    }
+  ],
+  "merchants": [
+    {
+      "npc_id": 2,
+      "tabs": [
+        {
+          "name": "武器",
+          "items": [
+            {
+              "item_id": 1010011,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1010012,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1010013,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1010014,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1020010,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1010021,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1010022,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1010023,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1010024,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1020020,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npc_id": 3,
+      "tabs": [
+        {
+          "name": "火遁",
+          "items": [
+            {
+              "item_id": 1030011,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1040011,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1050011,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1060011,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1030021,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1040021,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1050021,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1060021,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            }
+          ]
+        },
+        {
+          "name": "水遁",
+          "items": [
+            {
+              "item_id": 1030012,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1040012,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1050012,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1060012,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1030022,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1040022,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1050022,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1060022,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            }
+          ]
+        },
+        {
+          "name": "雷遁",
+          "items": [
+            {
+              "item_id": 1030013,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1040013,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1050013,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1060013,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1030023,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1040023,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1050023,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1060023,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            }
+          ]
+        },
+        {
+          "name": "风遁",
+          "items": [
+            {
+              "item_id": 1030014,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1040014,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1050014,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1060014,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1030024,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1040024,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1050024,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1060024,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npc_id": 4,
+      "tabs": [
+        {
+          "name": "药品",
+          "items": [
+            {
+              "item_id": 3000001,
+              "price": 20,
+              "slot_max": 999,
+              "item_type": 3,
+              "can_recharge": false
+            },
+            {
+              "item_id": 4000001,
+              "price": 20,
+              "slot_max": 999,
+              "item_type": 4,
+              "can_recharge": false
+            },
+            {
+              "item_id": 3000002,
+              "price": 80,
+              "slot_max": 999,
+              "item_type": 3,
+              "can_recharge": false
+            },
+            {
+              "item_id": 4000002,
+              "price": 80,
+              "slot_max": 999,
+              "item_type": 4,
+              "can_recharge": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npc_id": 8,
+      "tabs": [
+        {
+          "name": "饰品",
+          "items": [
+            {
+              "item_id": 1070010,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1080010,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1090010,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1100010,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1110010,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1120010,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1070020,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1080020,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1090020,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1100020,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1110020,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1120020,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npc_id": 7,
+      "tabs": [
+        {
+          "name": "杂货",
+          "items": [
+            {
+              "item_id": 15006001,
+              "price": 1000,
+              "slot_max": 99,
+              "item_type": 15,
+              "can_recharge": false
+            },
+            {
+              "item_id": 15015001,
+              "price": 100,
+              "slot_max": 99,
+              "item_type": 15,
+              "can_recharge": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npc_id": 10,
+      "tabs": [
+        {
+          "name": "宠物",
+          "items": [
+            {
+              "item_id": 2010010,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 2,
+              "can_recharge": false
+            },
+            {
+              "item_id": 2020010,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 2,
+              "can_recharge": false
+            },
+            {
+              "item_id": 2030010,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 2,
+              "can_recharge": false
+            },
+            {
+              "item_id": 2040010,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 2,
+              "can_recharge": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npc_id": 15,
+      "tabs": [
+        {
+          "name": "饰品",
+          "items": [
+            {
+              "item_id": 1070010,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1080010,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1090010,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1100010,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1110010,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1120010,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1070020,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1080020,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1090020,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1100020,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1110020,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1120020,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1070030,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1080030,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1090030,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1100030,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1110030,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1120030,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1070040,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1080040,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1090040,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1100040,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1110040,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1120040,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npc_id": 24,
+      "tabs": [
+        {
+          "name": "火遁",
+          "items": [
+            {
+              "item_id": 1030011,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1040011,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1050011,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1060011,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1030021,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1040021,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1050021,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1060021,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1030031,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1040031,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1050031,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1060031,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1030041,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1040041,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1050041,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1060041,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            }
+          ]
+        },
+        {
+          "name": "水遁",
+          "items": [
+            {
+              "item_id": 1030012,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1040012,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1050012,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1060012,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1030022,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1040022,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1050022,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1060022,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1030032,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1040032,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1050032,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1060032,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1030042,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1040042,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1050042,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1060042,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            }
+          ]
+        },
+        {
+          "name": "雷遁",
+          "items": [
+            {
+              "item_id": 1030013,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1040013,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1050013,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1060013,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1030023,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1040023,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1050023,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1060023,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1030033,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1040033,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1050033,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1060033,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1030043,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1040043,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1050043,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1060043,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            }
+          ]
+        },
+        {
+          "name": "风遁",
+          "items": [
+            {
+              "item_id": 1030014,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1040014,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1050014,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1060014,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1030024,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1040024,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1050024,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1060024,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1030034,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1040034,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1050034,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1060034,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1030044,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1040044,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1050044,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1060044,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npc_id": 25,
+      "tabs": [
+        {
+          "name": "杂货",
+          "items": [
+            {
+              "item_id": 15006001,
+              "price": 1000,
+              "slot_max": 99,
+              "item_type": 15,
+              "can_recharge": false
+            },
+            {
+              "item_id": 15015001,
+              "price": 100,
+              "slot_max": 99,
+              "item_type": 15,
+              "can_recharge": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npc_id": 26,
+      "tabs": [
+        {
+          "name": "宠物",
+          "items": [
+            {
+              "item_id": 2010010,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 2,
+              "can_recharge": false
+            },
+            {
+              "item_id": 2020010,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 2,
+              "can_recharge": false
+            },
+            {
+              "item_id": 2030010,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 2,
+              "can_recharge": false
+            },
+            {
+              "item_id": 2040010,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 2,
+              "can_recharge": false
+            },
+            {
+              "item_id": 2010020,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 2,
+              "can_recharge": false
+            },
+            {
+              "item_id": 2020020,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 2,
+              "can_recharge": false
+            },
+            {
+              "item_id": 2030020,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 2,
+              "can_recharge": false
+            },
+            {
+              "item_id": 2040020,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 2,
+              "can_recharge": false
+            },
+            {
+              "item_id": 2010030,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 2,
+              "can_recharge": false
+            },
+            {
+              "item_id": 2020030,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 2,
+              "can_recharge": false
+            },
+            {
+              "item_id": 2030030,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 2,
+              "can_recharge": false
+            },
+            {
+              "item_id": 2040030,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 2,
+              "can_recharge": false
+            },
+            {
+              "item_id": 2010040,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 2,
+              "can_recharge": false
+            },
+            {
+              "item_id": 2020040,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 2,
+              "can_recharge": false
+            },
+            {
+              "item_id": 2030040,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 2,
+              "can_recharge": false
+            },
+            {
+              "item_id": 2040040,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 2,
+              "can_recharge": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npc_id": 31,
+      "tabs": [
+        {
+          "name": "武器",
+          "items": [
+            {
+              "item_id": 1010011,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1010012,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1010013,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1010014,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1020010,
+              "price": 150,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1010021,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1010022,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1010023,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1010024,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1020020,
+              "price": 500,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1010031,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1010032,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1010033,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1010034,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1020030,
+              "price": 3000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1010041,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1010042,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1010043,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1010044,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            },
+            {
+              "item_id": 1020040,
+              "price": 5000,
+              "slot_max": 1,
+              "item_type": 1,
+              "can_recharge": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npc_id": 58,
+      "tabs": [
+        {
+          "name": "技能",
+          "items": [
+            {
+              "item_id": 6000001,
+              "price": 1000,
+              "slot_max": 99,
+              "item_type": 6,
+              "can_recharge": false
+            },
+            {
+              "item_id": 6000002,
+              "price": 1000,
+              "slot_max": 99,
+              "item_type": 6,
+              "can_recharge": false
+            },
+            {
+              "item_id": 6000003,
+              "price": 1000,
+              "slot_max": 99,
+              "item_type": 6,
+              "can_recharge": false
+            },
+            {
+              "item_id": 6000004,
+              "price": 1000,
+              "slot_max": 99,
+              "item_type": 6,
+              "can_recharge": false
+            },
+            {
+              "item_id": 6000005,
+              "price": 1000,
+              "slot_max": 99,
+              "item_type": 6,
+              "can_recharge": false
+            },
+            {
+              "item_id": 6000006,
+              "price": 1000,
+              "slot_max": 99,
+              "item_type": 6,
+              "can_recharge": false
+            },
+            {
+              "item_id": 6000007,
+              "price": 1000,
+              "slot_max": 99,
+              "item_type": 6,
+              "can_recharge": false
+            },
+            {
+              "item_id": 6000008,
+              "price": 1000,
+              "slot_max": 99,
+              "item_type": 6,
+              "can_recharge": false
+            },
+            {
+              "item_id": 6000009,
+              "price": 1000,
+              "slot_max": 99,
+              "item_type": 6,
+              "can_recharge": false
+            },
+            {
+              "item_id": 6000013,
+              "price": 1000,
+              "slot_max": 99,
+              "item_type": 6,
+              "can_recharge": false
+            },
+            {
+              "item_id": 6000014,
+              "price": 1000,
+              "slot_max": 99,
+              "item_type": 6,
+              "can_recharge": false
+            },
+            {
+              "item_id": 6000015,
+              "price": 1000,
+              "slot_max": 99,
+              "item_type": 6,
+              "can_recharge": false
+            }
+          ]
+        },
+        {
+          "name": "被动",
+          "items": [
+            {
+              "item_id": 6000038,
+              "price": 30000,
+              "slot_max": 99,
+              "item_type": 6,
+              "can_recharge": false
+            },
+            {
+              "item_id": 6000039,
+              "price": 30000,
+              "slot_max": 99,
+              "item_type": 6,
+              "can_recharge": false
+            },
+            {
+              "item_id": 6000040,
+              "price": 30000,
+              "slot_max": 99,
+              "item_type": 6,
+              "can_recharge": false
+            },
+            {
+              "item_id": 6000041,
+              "price": 30000,
+              "slot_max": 99,
+              "item_type": 6,
+              "can_recharge": false
+            },
+            {
+              "item_id": 6000042,
+              "price": 30000,
+              "slot_max": 99,
+              "item_type": 6,
+              "can_recharge": false
+            },
+            {
+              "item_id": 6000043,
+              "price": 30000,
+              "slot_max": 99,
+              "item_type": 6,
+              "can_recharge": false
+            }
+          ]
+        },
+        {
+          "name": "主动",
+          "items": [
+            {
+              "item_id": 6000032,
+              "price": 30000,
+              "slot_max": 99,
+              "item_type": 6,
+              "can_recharge": false
+            },
+            {
+              "item_id": 6000033,
+              "price": 30000,
+              "slot_max": 99,
+              "item_type": 6,
+              "can_recharge": false
+            },
+            {
+              "item_id": 6000034,
+              "price": 30000,
+              "slot_max": 99,
+              "item_type": 6,
+              "can_recharge": false
+            },
+            {
+              "item_id": 6000035,
+              "price": 30000,
+              "slot_max": 99,
+              "item_type": 6,
+              "can_recharge": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "npc_id": 14,
+      "tabs": [
+        {
+          "name": "药品",
+          "items": [
+            {
+              "item_id": 3000001,
+              "price": 20,
+              "slot_max": 999,
+              "item_type": 3,
+              "can_recharge": false
+            },
+            {
+              "item_id": 4000001,
+              "price": 20,
+              "slot_max": 999,
+              "item_type": 4,
+              "can_recharge": false
+            },
+            {
+              "item_id": 3000002,
+              "price": 80,
+              "slot_max": 999,
+              "item_type": 3,
+              "can_recharge": false
+            },
+            {
+              "item_id": 4000002,
+              "price": 80,
+              "slot_max": 999,
+              "item_type": 4,
+              "can_recharge": false
+            },
+            {
+              "item_id": 3000003,
+              "price": 180,
+              "slot_max": 999,
+              "item_type": 3,
+              "can_recharge": false
+            },
+            {
+              "item_id": 4000003,
+              "price": 180,
+              "slot_max": 999,
+              "item_type": 4,
+              "can_recharge": false
+            },
+            {
+              "item_id": 3000004,
+              "price": 360,
+              "slot_max": 999,
+              "item_type": 3,
+              "can_recharge": false
+            },
+            {
+              "item_id": 4000004,
+              "price": 360,
+              "slot_max": 999,
+              "item_type": 4,
+              "can_recharge": false
+            }
+          ]
+        },
+        {
+          "name": "藏品",
+          "items": [
+            {
+              "item_id": 11010113,
+              "price": 250000,
+              "slot_max": 99,
+              "item_type": 11,
+              "can_recharge": false
+            },
+            {
+              "item_id": 11010118,
+              "price": 1000000,
+              "slot_max": 99,
+              "item_type": 11,
+              "can_recharge": false
+            },
+            {
+              "item_id": 11010133,
+              "price": 1000000,
+              "slot_max": 99,
+              "item_type": 11,
+              "can_recharge": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

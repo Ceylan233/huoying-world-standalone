@@ -1,0 +1,352 @@
+{
+  "build_id": "nya-mainlib-208-forbidden-targeting-v212",
+  "generated_at": "2026-08-03T17:12:00+08:00",
+  "migration_status": "formal_feature_parity_in_progress",
+  "manifest_scope": "Current core protocol, GameData authority, client and focused regression evidence. Older acceptance prose below is historical and is not a claim that the current full suite passes.",
+  "current_core_audit": {
+    "server_source_sha256": "59737EA8FEF015CFDB15E4FE9EF48CDF9531797BCFA60ED46B1FA40A1C10D589",
+    "main_test_sha256": "944167C628E09A0A07DED5A96E5AE77A03A433CC228088A3A42A55C506142827",
+    "protocol_adapter_sha256": "F37D0C1F8681064B2241CB42FDF8EBCB9B0BC07F189DDB413797886D37A02CB7",
+    "migration_auditor_sha256": "6EEF2E2A6164A2136FAD74B0A53A9C2262B235A785BDF98A21B7C15E9E9DE586",
+    "adapter_test_sha256": "5BD54AFFE50FC87F03B3A90BF868D69A458C15AACB3CEA8F6C0A481069FC2238",
+    "capture_contract_test_sha256": "2C47995DEFABE2136BAE93C82C4965D4092B0EFDA859995890C8ED2C3FAE40EA",
+    "mainlib_sha256": "C7F99AC4209A6376C40E0ED6B3318A0E7D7836DC883E31D7D68A7EAF119A9A26",
+    "runtime_gamedata_sha256": "5B45BD0ED888143CC238C7A08952C20DC3788B12257B6A3E88F5A01D26547251",
+    "migration_audit_json_sha256": "565F7FC5E6519BBDC38A7F1172CF3CBDA4CFA3B751D99F0D5344F16B28E52C0F",
+    "migration_audit_markdown_sha256": "62F1904781DB3EDF10372CA9BFAADFEED0D3208C2424F3AAC49D0CF1F69E53C5",
+    "migration_audit": "14 shared codec differences, 14 reviewed, 0 unreviewed; no shared opcode renumbering; no routed request reachability gaps",
+    "focused_character_full_info": "6/6 passed",
+    "capture_contracts": "9/9 passed",
+    "adapter_isolated_full": "75/75 passed in 16.6s; 0 failures, 0 errors, 0 timeouts",
+    "focused_monster_boss_aoe": "17/17 passed",
+    "focused_nya_adapter_combat": "2/2 passed",
+    "focused_skill_status": "63/63 passed",
+    "focused_skill_status_edges": "6/6 passed",
+    "skill_status_matrix_tests": "5/5 passed",
+    "main_server_full": "full replay attempted: 857 tests, 27 failures, 8 errors; failures are historical/cross-module contracts outside this cluster",
+    "focused_mouse_and_guaji": "3/3 passed",
+    "focused_forbidden_skills": "forbidden 4/4; skill 52/52; buff 33/33; PVP 15/15; revive 10/10 passed; MainLib four-class round-trip verified",
+    "merchant_authority_cluster": {
+      "report": "reports/NYA_MERCHANT_AUTHORITY_CLUSTER_20260802.md",
+      "report_sha256": "26BA8B73A9B9FA5B01107A36BB5E5CC76FDCE1FC0A5B671EB9BD4CAA9B146226",
+      "roadmap": "reports/NYA_COMPLETE_RESTORATION_PLAN_20260802.md",
+      "roadmap_sha256": "D5938D243B21277BFEF5DFBD7EC1AAECBA21FD7C08521BACB6D4CF7C67E80FF1",
+      "catalog_builder": "tools/build_nya_208_runtime_catalogs.py",
+      "catalog_builder_sha256": "688762C8002E8B26CF360AC896BAA46E74C9229BEF52582C849AA99C29D1D832",
+      "runtime_catalog": "tools/nya_208_runtime_catalogs.json",
+      "runtime_catalog_sha256": "4C4DD656BDA49E81B300275062E433C6193BE7201333A471E0A4AFDB197EB830",
+      "capture_contract_log": "logs/test-nya-capture-contracts-v39.log",
+      "capture_contract_log_sha256": "15601E1202E2DFE18EE4800CF8CF051526A96709497504D584ABFC6914B495BA",
+      "adapter_test_log": "logs/test-nya-208-adapter-merchant-v39.log",
+      "adapter_test_log_sha256": "5982C5A51E267C21C0FAD6D96C8030832C179A22D16F0D85FCFC66BFF6D97015",
+      "main_test_log": "logs/test-fake-flash-server-merchant-authority-v39.log",
+      "main_test_log_sha256": "0CD72C974CA2A511D2862B6CB78512D8ECF108B19F0F57DB75B0BC6E0A929B81",
+      "catalog_counts": "109 exchange recipes, 13 merchants, 223 merchant rows",
+      "production_server_source_changed": false,
+      "production_runtime_catalog_changed": true,
+      "runtime_pid": 16748,
+      "runtime_instance_id": "16748-1785678289366877200",
+      "runtime_ports": [843, 19280, 19281, 19284, 19285, 19286],
+      "save_sha256_after_restart": "B1636570E0D136070D0704F6AEF91496AA45752E4F48FAFC63AF5562915BADAA"
+    },
+    "focused_native_packet_selection": "core 2/2, all original-named paths 127/127, adapter/multiplayer/capture 119/119 passed",
+    "native_packet_selection_cleanup": {
+      "report": "reports/NYA_NATIVE_PACKET_SELECTION_CONTRACT_20260802.md",
+      "report_sha256": "888290CB6B0F25B23535AB8B90B47D4D8629DF0E64982BEC33B6CF6D97E6E1D2",
+      "roadmap": "reports/NYA_COMPLETE_RESTORATION_PLAN_20260802.md",
+      "roadmap_sha256": "344841DFC60A10FFA30D82A1F9DBC2E6CD7D44EE94527043CAFF98F3CC89EFD7",
+      "full_test_log": "logs/test-fake-flash-server-native-packet-selection-v38.log",
+      "full_test_log_sha256": "713458D44F6585D6285684478B7242E1468BA86F5B08C4004823D6627D31DAC3",
+      "production_server_changed": false,
+      "selection_contract": "select EQUIPPED_INFO and SPAWN_PLAYER by opcode while preserving complete payload decoding"
+    },
+    "focused_adapter_contract": "binary fixtures 2/2, portals 10/10, Mai/resource/bond 3/3, full adapter 75/75 passed",
+    "adapter_contract_cleanup": {
+      "report": "reports/NYA_208_ADAPTER_CONTRACT_CLEANUP_20260802.md",
+      "report_sha256": "5E31471539A80D131C36B052C71F76139566A70B9C1DD42FC354C581FD1B3E6D",
+      "roadmap": "reports/NYA_COMPLETE_RESTORATION_PLAN_20260802.md",
+      "roadmap_sha256": "C5B163D55A64F71511D2AC01AD5CF72D4EE8637ED4CA6DAF571AB7C642E3E438",
+      "adapter_test_log": "logs/test-nya-208-adapter-v37.log",
+      "adapter_test_log_sha256": "33AD12BB937BC7673A2F0E5AC80D13816C03C7B0F5CBC3F7089A95E300EB196C",
+      "main_test_log": "logs/test-fake-flash-server-adapter-contract-v37.log",
+      "main_test_log_sha256": "80699172C39359F56FBF392BF9A1CC6A89DC66B9DCFA0C09B9766D8E0B2C89E5",
+      "production_python_changed": false,
+      "known_shared_resource_overrides": 45,
+      "restored_formal_resources": {
+        "swf/UISwf/UISwf_KuaFu.swf": "301FA21590313CC6699885A06C48F2E6E4928D76C1C5149F74D6022408FA657B",
+        "swf/UISwf/UISwf_ZhongRenUI.swf": "1D843C12E9E7C406DBA7292C76BFA0E930FFBD72AE7948129B2ABEA4AC143EDB",
+        "swf/UISwf/UISwf_KeYinHelp.swf": "F91539310382659ADE6000DE31E54CE5C623FF10A834FA11E8E88D13FDEFF7DC",
+        "swf/UISwf/UISwf_ZhongRen.swf": "CC6963DD0736536BBDAC65C1DBBBA09541C086B3C0D41C19C49D8853F73867EA"
+      }
+    },
+    "focused_skill_replay": "core 4/4, all replay-named paths 19/19, capture contracts 9/9, skill matrix 5/5 passed",
+    "skill_replay_contract_cleanup": {
+      "report": "reports/NYA_SKILL_REPLAY_GUARD_CONTRACT_20260802.md",
+      "report_sha256": "FE9262BE5B58C57ACC7A0626976A12783FE47A35541A20DE219E96B844B86904",
+      "roadmap": "reports/NYA_COMPLETE_RESTORATION_PLAN_20260802.md",
+      "roadmap_sha256": "7CC3D4A65592C55AA2B264F430EF9828C02340675B8A52E5B070D302E1EB329E",
+      "full_test_log": "logs/test-fake-flash-server-skill-replay-v36.log",
+      "full_test_log_sha256": "45EA0DCDCC6BDFA361426BB4681726A1542899DD09C51272EA0EDB8BC570B070",
+      "production_server_changed": false,
+      "native_evidence": "SkillHandler blocks after fired_not_replay_count exceeds three; SKILL_BACK releases one count and clamps below zero",
+      "original_login_order": "4 replay resets, 8 line availability packets, then equipped/character/bag/map bootstrap"
+    },
+    "focused_character_body": "core appearance 4/4, face 2/2, body 3/3, native creation 1/1, multiplayer 35/35 passed",
+    "character_body_contract_cleanup": {
+      "report": "reports/NYA_CHARACTER_BODY_APPEARANCE_CONTRACT_20260802.md",
+      "report_sha256": "BF9832342D807732E92D426DFA559C3FE9AB3146C14F0AF0059E28B406344635",
+      "full_test_log": "logs/test-fake-flash-server-character-body-v35.log",
+      "full_test_log_sha256": "4B018E2B391338D09FF605DBB0D77E5A8A2A0D4B8F851086ABFB814CDD44DFE0",
+      "production_server_changed": false,
+      "native_evidence": "MainCreateChar submits the selected 100/200/300/400 job while face and gender are zero; Fire/Lightning use male body and Water/Wind use female body"
+    },
+    "focused_public_runtime": "runtime 15/15, public 17/17, native_flash 4/4 passed",
+    "public_host_contract_cleanup": {
+      "report": "reports/NYA_PUBLIC_HOST_RUNTIME_CONTRACT_20260802.md",
+      "report_sha256": "5B2FD6E1E075F6C562DCCF326BFC7A6F339AC77E8CFA04E955AF2440AEDD788F",
+      "full_test_log": "logs/test-fake-flash-server-public-host-v34.log",
+      "full_test_log_sha256": "3611E99ADCD8D4D480DA6BC7CB9D233C302B473AF4269B12E246CC5725C67DBE",
+      "production_server_changed": false,
+      "live_public_native_http": "http://27.184.1.224:19280/flash-native.php returned HTTP 200",
+      "proxy_keys": ["request host", "advertise host", "127.0.0.1 compatibility"]
+    },
+    "focused_tower_runtime": "6/6 passed",
+    "tower_brand_cleanup": {
+      "report": "reports/NYA_TOWER_BRAND_CLEANUP_20260802.md",
+      "report_sha256": "EC132F1C9E1B7FF67B415CF3827CA82CA8EF7824BEBE1B6A01401085AB4ED7DA",
+      "full_test_log": "logs/test-fake-flash-server-tower-brand-v33.log",
+      "full_test_log_sha256": "CEF42552C45F19D971C425CB1A8834B31572EFC854F3C5CBA59C71A92DED8B24",
+      "authority_contract": "raw Nya 2.1.1 map name remains unchanged; only the player-visible runtime MapDefinition is brand-free"
+    },
+    "focused_multiplayer_pvp_wars": "8/8 passed",
+    "multiplayer_cluster": {
+      "test_source": "tools/test_multiplayer_backend.py",
+      "test_source_sha256": "012976BAE84B1307290658C17FCE6DB3B10637FFE11C92D2EE229352BC38BBFE",
+      "report": "reports/NYA_PVP_3V3_CROSS_SERVER_PARTY_CLUSTER_20260802.md",
+      "report_sha256": "87B96A2FEC1228C93CEA075A3F9C52247C14899E620F5F60A747A1AD59495866",
+      "automated_scope": "ordinary PVP authorization/protection/death cleanup, party resource sync, 3v3 registration/refusal/match/kill/flag/settlement/exit/disconnect restoration, cross-server war combat/ranking/return",
+      "manual_parallel_clients": "pending 2-6 real Ruffle/native clients"
+    },
+    "skill_status_matrix": {
+      "generator": "tools/audit_nya_208_skill_status_matrix.py",
+      "generator_sha256": "B6E8E963487311BCFDCD8FA8AA9FD0A8E534F52639154C36A800BA343755D079",
+      "test_source": "tools/test_nya_208_skill_status_matrix.py",
+      "test_source_sha256": "EDB5B4833C3E110695BC5733F43AD69D70472E981EF930720C690745CC555891",
+      "json": "reports/nya-208-skill-status-matrix.json",
+      "json_sha256": "1DDFB246F82F972281E76AA1A39153DC4BBF852009E4CB11D43CAEA65B72A1FC",
+      "markdown": "reports/NYA_SKILL_STATUS_MATRIX_20260802.md",
+      "markdown_sha256": "BF1662F2AE67EB6538090A3384915A081AEBDABF188CE8C88EB4674505F29E3A",
+      "cluster_report": "reports/NYA_BUFF_DEBUFF_RESISTANCE_CLUSTER_20260802.md",
+      "cluster_report_sha256": "1F6870C7198A3838AFCF240F4997E7A78DE0E073356AFAFE1B5087FF788D143F",
+      "skills": 128,
+      "implemented_runtime_paths": 124,
+      "data_conflicts": [3334, 3336],
+      "unresolved": [8100, 8101],
+      "manual_ruffle": "skill 3002 cast three times after cooldown without replay lock; native Buff icon appeared"
+    },
+    "multiplayer_backend_full": "35/35 passed; 0 failures, 0 errors",
+    "multiplayer_contract_cleanup": {
+      "report": "reports/NYA_MULTIPLAYER_CONTRACT_CLEANUP_20260802.md",
+      "report_sha256": "2DC82DB4EAFF21CC8E2479F37A6C27C776A723CB71C009EF627219C0C7F4730A",
+      "focused_stale_contracts": "3/3 passed",
+      "focused_stall_tutor_native": "8/8 passed",
+      "production_server_changed": false,
+      "evidence": "Nya StallProcessor and StallUpShelfWindow plus selected-job character normalization"
+    },
+    "combat_soak": {
+      "source": "tools/soak_nya_208_combat.py",
+      "source_sha256": "68759F1CE8E4BA9B1626749A94F18DFD76E475FB02AD10B045181BD1C5FF7824",
+      "default_duration_seconds": 3600,
+      "smoke_report": "reports/nya-208-combat-soak-smoke.json",
+      "smoke_report_sha256": "8C395B1D8EC6CB7AB281FAA407ED70E1CB5BD6CB72AAB0CC5797FC406AE52A85",
+      "smoke_result": "60.0s, 1049 ticks, 9131 movement packets, 6 AOE casts, 3 reconnects, 0 errors",
+      "full_60_minute_run": "not run in this cluster"
+    },
+    "known_adapter_failures": []
+  },
+  "completion_audit": "reports/nya-208-completion-audit-20260727.md",
+  "resource_root": "www/act_web_nya_208_isolated",
+  "base_resource_root": "www/act_web_hysj_original",
+  "ports": {
+    "http": 19280,
+    "websocket": 19281,
+    "game_tcp": 19284
+  },
+  "save_root": "save/multiplayer",
+  "save_policy": "Use the formal account-managed character store; the legacy isolated JSON is not authoritative",
+  "logs": "logs/nya-mainlib-208-isolated",
+  "server_source": "tools/fake_flash_server.py",
+  "server_source_sha256": "56DA1F83A2AE33CB7CE3C39E5FA387A6A4332636A2531B10EC528AA4E94FE07F",
+  "multiplayer_backend": {
+    "source": "tools/multiplayer_backend.py",
+    "sha256": "5A8FB05E326D0B2ACB254FF349C67ABADF35281873C7A327F27F98C0FDE396B4",
+    "reason": "Persists accounts, friends, family invitations and tutor eligibility; normalizes new-character gender and base body to the selected elemental job"
+  },
+  "shared_bootstrap": "tools/fake_flash_server.py::_finish_game_bootstrap",
+  "legacy_server_snapshot": "tools/fake_flash_server_nya208.pyc",
+  "legacy_server_snapshot_sha256": "2A5596E476C6EED66BA8DE16F8607BA2107E2360D96A8F27CB26BE0D5D73237F",
+  "protocol_adapter": {
+    "source": "tools/start_nya_208_isolated.py",
+    "sha256": "9B7A534D429F06C6F6D8199693EDA8FE6B5A54308F6EB0B7B8FE31CE40A7891A",
+    "reason": "Loads the current formal server and changes only Nya-specific packet fields and request decoding; formal business handlers and server-owned monsters remain authoritative",
+    "cash_catalog": {
+      "source": "tools/nya_208_cash_catalog.json",
+      "sha256": "C57F28FB59E2F1F07FC02FF4BA38BE10C1FC6F117F908EAED9AFF03AF0426DCF",
+      "reason": "Captured Nya product sn, item, price, discount and flag rows; purchases settle through the shared formal transaction"
+    }
+  },
+  "manual_acceptance_fixtures": {
+    "source": "tools/prepare_nya_208_acceptance.py",
+    "sha256": "5061EDAA19EA344836368EAC0DC0EC0CA63706CE470E8638DB438B9ED449738D",
+    "guide": "reports/nya-208-v24-manual-acceptance.md",
+    "guide_sha256": "B1CB063B807FEF6D0DEC627C6A23EBC3CE7BE10A4482D97B62EEAA02247475D1",
+    "password": "accept208",
+    "accounts": [
+      "accept_leader",
+      "accept_member",
+      "accept_guest",
+      "accept_level8",
+      "accept_student",
+      "accept_full90"
+    ]
+  },
+  "top_links": {
+    "source": "tools/static_flash_http.py:/api/runtime/config",
+    "server_sha256": "5DFB05032762843BFACAC3831F30BF8132170A26E2BE218F2CCE4689EE195E62",
+    "launcher": "www/ruffle.html",
+    "launcher_sha256": "A2B2D8DD523E8BE5EAA16208423F3D0C852B5E8FD092D26CC61BD930B34ECECA",
+    "legacy_preview_launcher": "www/nya-208-preview.html",
+    "legacy_preview_launcher_sha256": "F2365FE007C8A24950F3CDFCBA72E37EE30536F28CD8C332835BD245BEA6E32D",
+    "highlight": "Server-controlled; download receives the reference client's -38 hue filter without the flicker glow",
+    "environment": [
+      "NARUTO_OFFICIAL_URL",
+      "NARUTO_FAVORITE_URL",
+      "NARUTO_DOWNLOAD_URL"
+    ]
+  },
+  "parallel_clients": {
+    "shared_account_service": true,
+    "shared_save_root": "save/multiplayer",
+    "shared_game_tcp": 19284,
+    "shared_multiplayer_hub": true,
+    "ruffle": {
+      "source": "www/ruffle.html",
+      "sha256": "A2B2D8DD523E8BE5EAA16208423F3D0C852B5E8FD092D26CC61BD930B34ECECA",
+      "transport": "WebSocket 19281 to shared TCP 19284"
+    },
+    "native_flash": {
+      "source": "www/flash-native.html",
+      "sha256": "F9A6808303EB8C2790B6A25191A2C17F82FB2CE6A11B36B7428C3E751A199567",
+      "uses_ruffle": false,
+      "transport": "Adobe Flash Player direct TCP 19284",
+      "policy": "The shared game port answers the native Flash cross-domain policy request"
+    },
+    "guide": "reports/nya-208-native-flash-parallel-test.md",
+    "guide_sha256": "68A46EBDF6520E6D6B94BBBEBE2FE7211455B1EC7866E8C252D48FB64E655B81",
+    "account_rule": "Use different accounts concurrently; the formal same-account replacement rule remains enabled"
+  },
+  "gamedata": {
+    "source": "Nya 2.1.1 authoritative GameData with old fields used only as fallback",
+    "source_sha256": "E77578F4AFCE7F1D76CE7D5916CB5DCF3359405EEAC184C51D2C5C6BF54E36FD",
+    "runtime": "www/act_web_nya_208_isolated/dat/GameData.dat",
+    "runtime_sha256": "C0786ED1290BCB05355F19A5DDDF124BDC4A69301CB6DEA4C9129B910F4B977E",
+    "authority_manifest": "www/act_web_nya_208_isolated/nya211-gamedata-authority.json",
+    "contract": "Nya 2.1.1 values and entries are authoritative. Legacy GameData may add missing fields only and may not overwrite new values or restore deleted entries."
+  },
+  "overrides": {
+    "Main.swf": {
+      "source": "logs/diagnostics/nya-client-208-audit-20260727/main-208-local-v8-create-enter/NyaMain_208_local_v8.swf",
+      "sha256": "9304285A3266A04245D771183E0591B1E25ECB0F2FF0EC14EFFD953A9394EF36",
+      "reason": "Nya 2.0.8 native loader with local resource loading, child-domain login/create bridges, post-create login-state continuation, and a boolean-returning Ruffle-safe top-link bridge"
+    },
+    "asset/MainLib.swf": {
+      "source": "development/forbidden-balance-v211/MainLib-targeted-revive-v212.swf",
+      "sha256": "6BDC043DA09FDBBF29B54CA485D7518A72970B02ECCA4D189FAA32F56FD91764",
+      "reason": "Nya compatibility build with project-balanced forbidden-skill rules; Edo Tensei and Rinne Rebirth require a server-confirmed dead-player target before local cast feedback"
+    },
+    "asset/MainLoginServer.swf": {
+      "source": "www/act_web_hysj_original/asset/MainLoginServer.swf",
+      "sha256": "0ECEE50A8CC5BB63B87640994FA02FCB65E443A7D2348E5A84323D4AD63E60F6",
+      "reason": "Ruffle-compatible local login bridge; gameplay and UI remain Nya MainLib 2.0.8"
+    },
+    "asset/MainCreateChar.swf": {
+      "source": "logs/diagnostics/createchar-enter-fix-v75/MainCreateChar.v83.swf",
+      "sha256": "EAFD50D683415366A286ACC507A3A026410E1E81D70088C6A0C4ED68158076F5",
+      "reason": "Native Nya character-creation compatibility build with the working four-job selection and enter-game flow"
+    },
+    "swf/UIBmp/UIBmp_Tongshu_bakcground.swf": {
+      "source": "formal runtime compatibility override",
+      "sha256": "E82CB93949D82E8BC9DDAE538BBA22834296CF0D9B6B18C42212657591063490",
+      "reason": "Preserves the formal Tongshu panel artwork in the Nya resource superset"
+    }
+  },
+  "isolation": {
+    "overwrites_official_instance": false,
+    "copies_existing_save": false,
+    "uses_protected_mainlib_at_runtime": false,
+    "nya_client_core_frozen": true,
+    "protocol_compatibility_owner": "tools/start_nya_208_isolated.py"
+  },
+  "acceptance": {
+    "verified": [
+      "formal account login into Nya client",
+      "registration uses the successful register response directly without a duplicate login race",
+      "zero-character login opens the complete name and four-job character-creation UI",
+      "a newly registered account receives LOGIN_STATUS success, one native ADD_NEW_CHAR_ENTRY and SERVER_IP after job selection, then enters the rendered map without reloading",
+      "all four jobs create and enter the rendered map; duplicate-name validation remains on the creation screen and displays a visible message box",
+      "the shared launcher versions Main.swf with the live runtime instance ID so a restarted adapter cannot leave the profession screen on stale client bytecode",
+      "newly created and revived characters enter with full HP",
+      "formal GameData and resource loading",
+      "map/player/NPC/monster/portal rendering",
+      "Nya attacks enter formal authoritative damage, drop, EXP, kill and quest-credit code",
+      "authored portal warp, map reload, save, and relog restoration",
+      "formal quests, NPC dialogs, NPC shop, cash shop and storage transactions",
+      "all 13 captured formal merchants expose their exact tabs, item IDs and captured prices",
+      "new characters receive one level-5 growth gift exactly once",
+      "family list, character family name and world flags share one real account-family record; the public 木叶家族 is created idempotently and its first real member becomes leader",
+      "party and family PK modes require actual membership and preserve the previous mode when rejected",
+      "different authored skills preserve their own skill ID, level, stance and direction in attack-result packets",
+      "Nya startup resets the client's placeholder +10/+20 skill bonuses from authoritative server stats",
+      "native peers receive complete player and monster movement fragments plus immediate character appearance state",
+      "each map instance has one server-owned monster world; clients cannot move monsters or settle incoming damage, while native movement and attack packets are broadcast to every player",
+      "map transitions reuse the shared live monster state before spawning the destination scene and never grant duplicate monster control",
+      "general, world, whisper, party and family chat use lossless native ChatMessage packets with their real visibility scopes",
+      "ranking menus and online ranking rows use stable numeric and descending-value order",
+      "formal inventory, equipment, skill, pet, auto-potion, settings and keymap persistence",
+      "real Nya settings changed HP threshold from 70 to 35, persisted it, restored 35 after relog, and restored the test account to 70",
+      "real Nya shortcut scheme 2 save and activation persistence",
+      "real Nya second-level password setup dialog workflow opens",
+      "real Nya Eight Gates pending transaction settles through the formal handler and persists after relog",
+      "real Nya transform-card collection renders all 92 GameData-authored cards through shared opcode 2342",
+      "family summary and member management use persisted contribution, skill, Eight Gates, achievement, reputation and weekly boss fields without undefined values",
+      "family creation timestamps are encoded in milliseconds for the Nya Date contract",
+      "level rankings are generated from authoritative character saves in descending order and character search refreshes stale account summaries",
+      "activity and quest route links turn red on hover under Ruffle and restore their authored color on mouse-out",
+      "server-owned monsters patrol only their authored foothold, interpolate sloped ground height and publish frame-aligned continuous motion with native walk, turn, stop and periodic correction packets",
+      "idle monsters use independent formal-style walk/rest phases instead of synchronized patrols; attacks stop movement, select an authored GameData stance and skill, hold through attackAfter, then return to stand or chase",
+      "friend requests retain a stable visible 38x38 clickable cue when the original exported icon is absent",
+      "job transfer consumes one transfer token atomically, rejects missing tokens without changing gear, and publishes the new job immediately",
+      "transfer token 16000182 has a real Nya GameData name, description, stack contract and reusable auxiliary-item icon",
+      "the bag title recovers the authoritative 96-slot capacity when Nya initializes its inventory window before commonSlots",
+      "Nya cash pages use captured products while direct formal cash requests keep formal currency semantics",
+      "formal copies, bosses, PVP, family, party, trade, auction, activities and rankings",
+      "formal account, editor-backed GameData and multiplayer behavior",
+      "single meditation grants one complete split reward every 30 seconds; double meditation grants each player the same complete reward every 25 seconds for exactly 20 percent higher gain per unit time",
+      "the native seven-day daily reward pane queries and atomically grants GameData-authored bound items with streak, same-day, bag-capacity and persistence checks",
+      "server-controlled top links opening new tabs",
+      "native Flash and Ruffle launchers load the same Nya resources and join the same account-backed multiplayer world through direct TCP and WebSocket transports respectively",
+      "real Nya session produced no client errors or newly unhandled opcodes",
+      "Nya process connections remained localhost-only"
+    ],
+    "deferred_nya_only": [
+      "Nya 2.0.8-only gameplay that does not exist in the formal server is a separate later phase",
+      "opcode 2344 bounty mutations remain intentionally disabled until their Nya-only settlement rules are implemented"
+    ],
+      "historical_regression": {
+        "date": "2026-07-28",
+        "status": "historical-only; superseded by current_core_audit",
+        "total": "772/772 at that historical revision"
+      },
+    "completion_rule": "Formal feature parity is complete only while the current formal suite, Nya contract suite, formal-through-Nya replay, real-client error check, persistence check and localhost isolation all pass"
+  }
+}

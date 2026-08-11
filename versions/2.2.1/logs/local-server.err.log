@@ -1,0 +1,84 @@
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 19013)
+Traceback (most recent call last):
+  File "socketserver.py", line 697, in process_request_thread
+  File "socketserver.py", line 362, in finish_request
+  File "F:\NarutoSingleplayer\.codex-temp\Nya-2.2.0-本地一键端-当前状态-20260810-final\tools\static_flash_http.py", line 222, in __init__
+    super().__init__(*args, directory=directory or str(WWW_ROOT), **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "http\server.py", line 683, in __init__
+  File "socketserver.py", line 766, in __init__
+  File "http\server.py", line 447, in handle
+  File "http\server.py", line 415, in handle_one_request
+  File "socket.py", line 723, in readinto
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+----------------------------------------
+127.0.0.1 - - [10/Aug/2026 19:14:28] "GET /api_servers.php HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2026 19:14:45] "GET /api_servers.php HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2026 19:14:45] "GET /api_launcher_news.php HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2026 19:14:45] "GET /api_launcher_routes.php HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2026 19:15:49] "POST /api_login.php HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2026 19:15:49] "POST /api_login.php HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2026 19:15:49] "POST /api_login.php HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2026 19:15:49] "POST /api_login.php HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2026 19:15:50] "POST /api_login.php HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2026 19:15:50] "POST /api_login.php HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2026 19:15:59] "POST /api_login.php HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2026 19:15:59] "GET /api_game_launch.php?serverid=1 HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2026 19:16:28] "POST /api_login.php HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2026 19:16:28] "GET /api_game_launch.php?serverid=1 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2026 19:16:39] "GET /api/gm/status HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 19381)
+Traceback (most recent call last):
+  File "socketserver.py", line 697, in process_request_thread
+  File "socketserver.py", line 362, in finish_request
+  File "F:\NarutoSingleplayer\.codex-temp\Nya-2.2.0-本地一键端-当前状态-20260810-final\tools\static_flash_http.py", line 222, in __init__
+    super().__init__(*args, directory=directory or str(WWW_ROOT), **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "http\server.py", line 683, in __init__
+  File "socketserver.py", line 766, in __init__
+  File "http\server.py", line 447, in handle
+  File "http\server.py", line 435, in handle_one_request
+  File "F:\NarutoSingleplayer\.codex-temp\Nya-2.2.0-本地一键端-当前状态-20260810-final\tools\static_flash_http.py", line 292, in do_GET
+    if not operations_request and not self._require_gm_auth():
+                                      ~~~~~~~~~~~~~~~~~~~~~^^
+  File "F:\NarutoSingleplayer\.codex-temp\Nya-2.2.0-本地一键端-当前状态-20260810-final\tools\static_flash_http.py", line 585, in _require_gm_auth
+    if any(value and hmac.compare_digest(supplied, value) for value in accepted):
+       ~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\NarutoSingleplayer\.codex-temp\Nya-2.2.0-本地一键端-当前状态-20260810-final\tools\static_flash_http.py", line 585, in <genexpr>
+    if any(value and hmac.compare_digest(supplied, value) for value in accepted):
+                     ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+TypeError: comparing strings with non-ASCII characters is not supported
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 19382)
+Traceback (most recent call last):
+  File "socketserver.py", line 697, in process_request_thread
+  File "socketserver.py", line 362, in finish_request
+  File "F:\NarutoSingleplayer\.codex-temp\Nya-2.2.0-本地一键端-当前状态-20260810-final\tools\static_flash_http.py", line 222, in __init__
+    super().__init__(*args, directory=directory or str(WWW_ROOT), **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "http\server.py", line 683, in __init__
+  File "socketserver.py", line 766, in __init__
+  File "http\server.py", line 447, in handle
+  File "http\server.py", line 435, in handle_one_request
+  File "F:\NarutoSingleplayer\.codex-temp\Nya-2.2.0-本地一键端-当前状态-20260810-final\tools\static_flash_http.py", line 292, in do_GET
+    if not operations_request and not self._require_gm_auth():
+                                      ~~~~~~~~~~~~~~~~~~~~~^^
+  File "F:\NarutoSingleplayer\.codex-temp\Nya-2.2.0-本地一键端-当前状态-20260810-final\tools\static_flash_http.py", line 585, in _require_gm_auth
+    if any(value and hmac.compare_digest(supplied, value) for value in accepted):
+       ~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\NarutoSingleplayer\.codex-temp\Nya-2.2.0-本地一键端-当前状态-20260810-final\tools\static_flash_http.py", line 585, in <genexpr>
+    if any(value and hmac.compare_digest(supplied, value) for value in accepted):
+                     ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+TypeError: comparing strings with non-ASCII characters is not supported
+----------------------------------------
+127.0.0.1 - - [10/Aug/2026 19:16:39] "GET /api/gm/status HTTP/1.1" 401 -
+127.0.0.1 - - [10/Aug/2026 19:17:25] "HEAD /act_web_nya_208_isolated/Main.swf HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2026 19:20:57] "GET /api_servers.php HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2026 19:21:49] "POST /api_login.php HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2026 19:21:49] "GET /api_game_launch.php?serverid=1 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2026 19:25:04] "POST /api_login.php HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2026 19:25:04] "GET /api_game_launch.php?serverid=1 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Aug/2026 19:25:04] "GET /api/gm/status HTTP/1.1" 200 -

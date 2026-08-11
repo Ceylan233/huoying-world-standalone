@@ -1,0 +1,9 @@
+{
+  "family": "SimSun",
+  "localizedFamily": "宋体",
+  "style": "Regular",
+  "source": "/fonts/simsun.ttf?v=20260726",
+  "bytes": 18314228,
+  "sha256": "62EC29A0D500CE0EE63141AD9AC633DA64CCBFA6D6CB80B2D5A4BB379FA25882",
+  "purpose": "Deterministic Simplified and Traditional Chinese device font for Ruffle"
+}

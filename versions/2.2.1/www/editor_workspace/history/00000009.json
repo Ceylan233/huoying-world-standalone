@@ -1,0 +1,31 @@
+{
+  "revision": 9,
+  "createdAt": "2026-07-31T14:46:07.824248+00:00",
+  "action": "save",
+  "entityType": "maps",
+  "entityId": "464040000",
+  "stateBefore": {
+    "schemaVersion": 1,
+    "revision": 8,
+    "updatedAt": "2026-07-31T14:46:07.715278+00:00",
+    "overrides": {
+      "maps": {
+        "464010000": {
+          "info": {
+            "bgm": "10"
+          }
+        },
+        "464020000": {
+          "info": {
+            "bgm": "11"
+          }
+        },
+        "464030000": {
+          "info": {
+            "bgm": "12"
+          }
+        }
+      }
+    }
+  }
+}

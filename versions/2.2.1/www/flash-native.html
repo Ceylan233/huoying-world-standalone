@@ -1,0 +1,265 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <script>
+    (function () {
+      function opsRequest(path, payload) {
+        return fetch(path, {
+          method: "POST",
+          credentials: "same-origin",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(payload || {})
+        });
+      }
+      window.narutoArmOperationsFromKeyboardFrame = function () {
+        opsRequest("/api/ops/arm", {}).catch(function () {});
+        return true;
+      };
+      window.narutoDisarmOperationsFromKeyboardFrame = function () {
+        opsRequest("/api/ops/disarm", {}).catch(function () {});
+        return true;
+      };
+      window.narutoOpenOperationsFromKeyboardFrame = function (code) {
+        opsRequest("/api/ops/unlock", { code: String(code || "") })
+          .then(function (response) {
+            if (response.ok) window.location.assign("/ops/");
+          })
+          .catch(function () {});
+        return true;
+      };
+    }());
+  </script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>火影世界 - 原生 Flash</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body { width: 100%; height: 100%; overflow: hidden; background: #100e0c; }
+    body { color: #eee; font: 14px "Microsoft YaHei", "SimSun", sans-serif; }
+    #launcher { display: table; width: 100%; height: 100%; }
+    #launcher-inner { display: table-cell; text-align: center; vertical-align: middle; }
+    #login-panel { display: inline-block; width: 520px; max-width: 92%; padding: 26px; text-align: left;
+      border: 1px solid #8e6b37; background: #211a14; }
+    h1 { margin-bottom: 6px; color: #f5cf83; font-size: 24px; font-weight: normal; }
+    .sub { margin-bottom: 18px; color: #aaa095; line-height: 1.7; }
+    .row { margin: 10px 0; white-space: nowrap; }
+    .row label { display: inline-block; width: 82px; color: #d5c6b3; }
+    .row input { width: calc(100% - 88px); padding: 9px 10px; color: #fff;
+      border: 1px solid #66523b; background: #130f0c; outline: none; }
+    .actions { margin: 16px 0 0 88px; }
+    button { margin-right: 8px; padding: 8px 18px; color: #211509; font-weight: bold;
+      border: 1px solid #e3b85f; background: #d49b3e; cursor: pointer; }
+    button.secondary { color: #ddd; border-color: #62584d; background: #37302a; }
+    button:disabled { cursor: default; opacity: .55; }
+    #message { min-height: 22px; margin: 12px 0 0 88px; color: #ffad72; line-height: 1.6; }
+    #message.success { color: #9dda80; }
+  </style>
+</head>
+<body>
+  <div id="launcher">
+    <div id="launcher-inner">
+      <div id="login-panel">
+        <h1>火影世界 - 原生 Flash</h1>
+        <div class="sub">登录后将在当前网页中加载原生 Flash。它与 Ruffle 使用同一服务端，可用不同账号同时测试多人功能。</div>
+        <div class="row"><label for="account-name">账号</label><input id="account-name" autocomplete="username"></div>
+        <div class="row"><label for="account-password">密码</label><input id="account-password" type="password" autocomplete="current-password"></div>
+        <div class="actions">
+          <button id="login-button" type="button">登录</button>
+          <button id="register-button" class="secondary" type="button">注册新账号</button>
+        </div>
+        <div id="message"></div>
+      </div>
+    </div>
+  </div>
+  <script>
+    window.openNarutoTopLink = function (url, target) {
+      var safeUrl = String(url || "");
+      if (!/^https?:\/\//i.test(safeUrl)) return false;
+      window.open(safeUrl, target || "_blank", "noopener,noreferrer");
+      return true;
+    };
+
+    (function () {
+      var ROOT_DEFAULT = "act_web_nya_208_isolated";
+      var PORT_DEFAULT = "19284";
+      var loginButton = document.getElementById("login-button");
+      var registerButton = document.getElementById("register-button");
+      var message = document.getElementById("message");
+      var pageToken = String(Date.now()) + "-" + Math.random();
+      var launchLockKey = "";
+      var launchLockTimer = 0;
+
+      function releaseLaunchLock() {
+        if (launchLockTimer) window.clearInterval(launchLockTimer);
+        launchLockTimer = 0;
+        if (!launchLockKey) return;
+        try {
+          var current = JSON.parse(window.localStorage.getItem(launchLockKey) || "null");
+          if (current && current.token === pageToken) {
+            window.localStorage.removeItem(launchLockKey);
+          }
+        } catch (error) {}
+        launchLockKey = "";
+      }
+
+      function acquireLaunchLock(username) {
+        var key = "nya-native-account:" + String(username).toLowerCase();
+        var now = Date.now();
+        try {
+          var current = JSON.parse(window.localStorage.getItem(key) || "null");
+          if (current && current.token !== pageToken && Number(current.expires || 0) > now) {
+            return false;
+          }
+          launchLockKey = key;
+          var refresh = function () {
+            window.localStorage.setItem(key, JSON.stringify({
+              token: pageToken,
+              expires: Date.now() + 15000
+            }));
+          };
+          refresh();
+          launchLockTimer = window.setInterval(refresh, 5000);
+          return true;
+        } catch (error) {
+          return true;
+        }
+      }
+
+      function queryValue(name, fallback) {
+        var params = new URLSearchParams(window.location.search);
+        return params.has(name) ? params.get(name) : fallback;
+      }
+
+      function request(method, path, body, done) {
+        var xhr = new XMLHttpRequest();
+        xhr.open(method, path, true);
+        xhr.onreadystatechange = function () {
+          if (xhr.readyState !== 4) return;
+          var payload = {};
+          try { payload = JSON.parse(xhr.responseText || "{}"); } catch (error) {}
+          if (xhr.status < 200 || xhr.status >= 300 || !payload.ok) {
+            done(new Error(payload.error || "请求失败"));
+            return;
+          }
+          done(null, payload);
+        };
+        xhr.onerror = function () { done(new Error("无法连接本机启动服务")); };
+        if (body) xhr.setRequestHeader("Content-Type", "application/json");
+        xhr.send(body ? JSON.stringify(body) : null);
+      }
+
+      function buildTopLinks(entries) {
+        var rows = [];
+        entries = entries && entries.length ? entries : [];
+        for (var index = 0; index < entries.length; index++) {
+          var entry = entries[index] || {};
+          var label = String(entry.label || "").replace(/[;,]/g, "");
+          var url = String(entry.url || "").replace(/;/g, "%3B").replace(/,/g, "%2C");
+          if (label && /^https?:\/\//i.test(url)) {
+            rows.push([label, "url", url, entry.highlight ? "1" : "0"].join(","));
+          }
+        }
+        return rows.join(";");
+      }
+
+      function launch(account, username, launchToken, runtime) {
+        var character = account.characters && account.characters.length ? account.characters[0] : null;
+        var host = queryValue("gameHost", runtime.advertiseHost || "127.0.0.1");
+        var port = String(runtime.nativeGamePort || runtime.gamePort || PORT_DEFAULT);
+        var origin = window.location.protocol + "//" + window.location.host;
+        var assetBaseUrl = String(runtime.nativeAssetBaseUrl || "");
+        var expectedAssetBaseUrl = origin + "/" + ROOT_DEFAULT + "/";
+        if (assetBaseUrl !== expectedAssetBaseUrl) {
+          unlock("本机原生 Flash 客户端地址无效，请重启测试服务。");
+          return;
+        }
+        var flashvars = {
+          ip: host, server: host, port: port,
+          baseUrl: assetBaseUrl,
+          language: "zh-Hans", simplifiedChinese: "1",
+          userName: username, username: username,
+          password: "launch:" + launchToken,
+          userId: String(character ? character.id : 0),
+          characterId: String(character ? character.id : 0),
+          serverId: "1", line: "1",
+          linkButtons: buildTopLinks(runtime.topLinks),
+          partner: "gongyi", local: "1", enableDownload: "1",
+          forbidXiaoFei: "0", fightNotice: "0", hideXianFa: "0",
+          hideFavMenu: "0", kuafucharge: "1", huigui: "1", shituSwitch: "1",
+          gameSwitch: "lunhuiyan:0_kunchong:0_jieyin:0_zhongrenkaoshi:0_huoyuedu:0_chongwuroughun:0_famillyshop:0_mysteryshop:0_juedou:0"
+        };
+        var encodedFlashvars = Object.keys(flashvars).map(function (key) {
+          return encodeURIComponent(key) + "=" + encodeURIComponent(flashvars[key]);
+        }).join("&");
+        var root = assetBaseUrl.replace(/\/+$/, "");
+        var movie = root + "/Main.swf?runtime=" +
+          encodeURIComponent(runtime.runtimeInstanceId || "native-standalone-v1") +
+          "&create=native-create-v94";
+        document.title = "火影世界 - " + username;
+        document.body.innerHTML = "";
+        var plugin = document.createElement("embed");
+        plugin.setAttribute("id", "nya-native-flash");
+        plugin.setAttribute("name", "nya-native-flash");
+        plugin.setAttribute("src", movie);
+        plugin.setAttribute("type", "application/x-shockwave-flash");
+        plugin.setAttribute("width", "100%");
+        plugin.setAttribute("height", "100%");
+        plugin.setAttribute("quality", "high");
+        plugin.setAttribute("menu", "false");
+        plugin.setAttribute("allowScriptAccess", "always");
+        plugin.setAttribute("allowFullScreen", "false");
+        plugin.setAttribute("wmode", "window");
+        plugin.setAttribute("bgcolor", "#000000");
+        plugin.setAttribute("flashvars", encodedFlashvars);
+        document.body.appendChild(plugin);
+      }
+
+      function startGame(account, username, launchToken) {
+        if (!acquireLaunchLock(username)) {
+          unlock("\u8be5\u8d26\u53f7\u5df2\u5728\u53e6\u4e00\u4e2a\u539f\u751f Flash \u9875\u9762\u4e2d\u542f\u52a8\uff0c\u8bf7\u5148\u5173\u95ed\u65e7\u9875\u9762\u3002");
+          return;
+        }
+        request("GET", "/api/runtime/config?nativeFlash=1", null, function (error, runtime) {
+          if (error) { releaseLaunchLock(); unlock(error.message); return; }
+          launch(account, username, launchToken, runtime);
+        });
+      }
+
+      function unlock(text) {
+        loginButton.disabled = false;
+        registerButton.disabled = false;
+        message.className = "";
+        message.textContent = text || "";
+      }
+
+      function submit(registering) {
+        var username = document.getElementById("account-name").value.trim();
+        var password = document.getElementById("account-password").value;
+        if (!username || !password) { unlock("请输入账号和密码。"); return; }
+        loginButton.disabled = true;
+        registerButton.disabled = true;
+        message.className = "";
+        message.textContent = registering ? "正在注册..." : "正在登录...";
+        request(
+          "POST",
+          registering ? "/api/account/register" : "/api/account/login",
+          { username: username, password: password, nativeFlash: true },
+          function (error, result) {
+            if (error) { unlock(error.message); return; }
+            if (!result.nativeLaunchToken) { unlock("无法取得原生 Flash 启动票据，请重新登录。"); return; }
+            startGame(result.account, username, result.nativeLaunchToken);
+          }
+        );
+      }
+
+      loginButton.onclick = function () { submit(false); };
+      registerButton.onclick = function () { submit(true); };
+      document.getElementById("account-password").onkeydown = function (event) {
+        if ((event.keyCode || event.which) === 13) submit(false);
+      };
+      document.getElementById("account-name").value = queryValue("username", "");
+      window.addEventListener("beforeunload", releaseLaunchLock);
+    })();
+  </script>
+</body>
+</html>

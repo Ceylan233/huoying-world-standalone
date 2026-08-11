@@ -1,1 +1,18 @@
 res/*.zip filter=lfs diff=lfs merge=lfs -text
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.swf binary
+*.mp3 binary
+*.wav binary
+*.ttf binary
+*.otf binary
+*.exe binary
+*.dll binary
+*.pyd binary
+*.ocx binary
+*.dat binary
+*.db binary
+*.dds binary

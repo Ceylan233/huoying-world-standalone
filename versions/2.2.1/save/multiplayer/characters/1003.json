@@ -1,0 +1,966 @@
+{
+  "version": 41,
+  "character": {
+    "character_id": 1003,
+    "name": "神月焰",
+    "gender": 1,
+    "skin_color": 0,
+    "face": 2,
+    "hair": 0,
+    "level": 9,
+    "job": 400,
+    "hp": 740,
+    "max_hp": 700,
+    "mp": 300,
+    "max_mp": 280,
+    "ap_atk": 8,
+    "ap_def": 8,
+    "ap_dex": 8,
+    "ap_phy": 8,
+    "remaining_ap": 32,
+    "remaining_sp": 0,
+    "exp": 629,
+    "zq": 840,
+    "fame": 0,
+    "map_id": 101010000,
+    "x": 477,
+    "y": 490,
+    "foothold": 20,
+    "vip": false,
+    "shengwang": 0,
+    "crime": 0,
+    "char_type": 0,
+    "ling_face": 0,
+    "ling_color": 0
+  },
+  "inventory": {
+    "1": {
+      "item_id": 3000001,
+      "slot": 1,
+      "quantity": 20,
+      "unique_id": 7555756800,
+      "can_trade": true,
+      "aptitude": 2,
+      "max_endure": 100,
+      "endure": 100,
+      "base_attr_type": 4,
+      "base_attr_value": 40,
+      "born_attr_value": 0,
+      "strength_value": 0,
+      "plus_attributes": [],
+      "tale_attr_type": -1,
+      "tale_attr_value": 0,
+      "special_attributes": [],
+      "special_level": 0,
+      "special_effect_type": 0,
+      "afterimage_flag": 0,
+      "forge_additive_ratio": 0,
+      "inlays": [],
+      "strength_level": 0,
+      "strength_info": [],
+      "crash_time": 0,
+      "carve_id": 0,
+      "carve_type": 0,
+      "carve_value": 0,
+      "stageup120_percent": 0,
+      "reforge_time": 0,
+      "zb_ling_hua": 0,
+      "myth_forge_type": 0,
+      "myth_forge_count": 0,
+      "myth_wuxing": 0,
+      "myth_skill_id": 0,
+      "myth_skill_level": 0,
+      "myth_wuxing_level": 0,
+      "myth_attributes": []
+    },
+    "2": {
+      "item_id": 4000001,
+      "slot": 2,
+      "quantity": 20,
+      "unique_id": 7555764801,
+      "can_trade": true,
+      "aptitude": 2,
+      "max_endure": 100,
+      "endure": 100,
+      "base_attr_type": 4,
+      "base_attr_value": 40,
+      "born_attr_value": 0,
+      "strength_value": 0,
+      "plus_attributes": [],
+      "tale_attr_type": -1,
+      "tale_attr_value": 0,
+      "special_attributes": [],
+      "special_level": 0,
+      "special_effect_type": 0,
+      "afterimage_flag": 0,
+      "forge_additive_ratio": 0,
+      "inlays": [],
+      "strength_level": 0,
+      "strength_info": [],
+      "crash_time": 0,
+      "carve_id": 0,
+      "carve_type": 0,
+      "carve_value": 0,
+      "stageup120_percent": 0,
+      "reforge_time": 0,
+      "zb_ling_hua": 0,
+      "myth_forge_type": 0,
+      "myth_forge_count": 0,
+      "myth_wuxing": 0,
+      "myth_skill_id": 0,
+      "myth_skill_level": 0,
+      "myth_wuxing_level": 0,
+      "myth_attributes": []
+    },
+    "3": {
+      "item_id": 11000001,
+      "slot": 3,
+      "quantity": 1,
+      "unique_id": 7555767202,
+      "can_trade": true,
+      "aptitude": 2,
+      "max_endure": 100,
+      "endure": 100,
+      "base_attr_type": 4,
+      "base_attr_value": 40,
+      "born_attr_value": 0,
+      "strength_value": 0,
+      "plus_attributes": [],
+      "tale_attr_type": -1,
+      "tale_attr_value": 0,
+      "special_attributes": [],
+      "special_level": 0,
+      "special_effect_type": 0,
+      "afterimage_flag": 0,
+      "forge_additive_ratio": 0,
+      "inlays": [],
+      "strength_level": 0,
+      "strength_info": [],
+      "crash_time": 0,
+      "carve_id": 0,
+      "carve_type": 0,
+      "carve_value": 0,
+      "stageup120_percent": 0,
+      "reforge_time": 0,
+      "zb_ling_hua": 0,
+      "myth_forge_type": 0,
+      "myth_forge_count": 0,
+      "myth_wuxing": 0,
+      "myth_skill_id": 0,
+      "myth_skill_level": 0,
+      "myth_wuxing_level": 0,
+      "myth_attributes": []
+    },
+    "4": {
+      "item_id": 11000001,
+      "slot": 4,
+      "quantity": 1,
+      "unique_id": 4070452600,
+      "can_trade": false,
+      "aptitude": 2,
+      "max_endure": 100,
+      "endure": 100,
+      "base_attr_type": 4,
+      "base_attr_value": 40,
+      "born_attr_value": 0,
+      "strength_value": 0,
+      "plus_attributes": [],
+      "tale_attr_type": -1,
+      "tale_attr_value": 0,
+      "special_attributes": [],
+      "special_level": 0,
+      "special_effect_type": 0,
+      "afterimage_flag": 0,
+      "forge_additive_ratio": 0,
+      "inlays": [],
+      "strength_level": 0,
+      "strength_info": [],
+      "crash_time": 0,
+      "carve_id": 0,
+      "carve_type": 0,
+      "carve_value": 0,
+      "stageup120_percent": 0,
+      "reforge_time": 0,
+      "zb_ling_hua": 0,
+      "myth_forge_type": 0,
+      "myth_forge_count": 0,
+      "myth_wuxing": 0,
+      "myth_skill_id": 0,
+      "myth_skill_level": 0,
+      "myth_wuxing_level": 0,
+      "myth_attributes": []
+    }
+  },
+  "storage": {},
+  "bag_capacity": 30,
+  "storage_capacity": 96,
+  "pet_capacity": 4,
+  "skills": {},
+  "pets": {},
+  "progression": {
+    "stages": {},
+    "stage_progress": {},
+    "visited_maps": [],
+    "total_monster_kills": 0,
+    "boss_weekly_kills": 0,
+    "lianzhan_best": 0,
+    "lianzhan_count": 0,
+    "lianzhan_stage": 0,
+    "lianzhan_buff_expires_at": 0,
+    "pve_progress": 0,
+    "pve_points": 0,
+    "wu_gong_progress": 0,
+    "flower_sent": 0,
+    "local_pk_points": 0,
+    "local_pk_day_key": "",
+    "local_pk_battles": 0,
+    "local_pk_wins": 0,
+    "local_pk_win_streak": 0,
+    "local_pk_lose_streak": 0,
+    "local_pk_best_win_streak": 0,
+    "local_pk_best_win_streak_today": 0,
+    "local_pk_claimed_prizes": [],
+    "lunhui_pvp_soul_claimed": false,
+    "arena_day_key": "2026-08-10",
+    "arena_used_count": 0,
+    "arena_max_count": 15,
+    "arena_cooldown_until": 0,
+    "arena_win_streak": 0,
+    "arena_rank": 1000,
+    "arena_rank_reward_day_key": "",
+    "effect_xielunyan_stage": 0,
+    "effect_skill_jingjie": -1,
+    "arena_return_map_id": 0,
+    "arena_return_x": 0,
+    "arena_return_y": 0,
+    "arena_reports": [],
+    "tower_season_key": "2026-W33",
+    "tower_day_key": "2026-08-10",
+    "tower_max_level": 0,
+    "tower_attempts_used": 0,
+    "tower_purchased_attempts": 0,
+    "tower_records": {},
+    "tower_claimed_milestones": [],
+    "tower_active_level": 0,
+    "tower_active_started_at": 0,
+    "tower_active_spawn_at": 0,
+    "tower_return_map_id": 0,
+    "tower_return_x": 0,
+    "tower_return_y": 0,
+    "fb_use_time_short": 0,
+    "claimed_achievements": [],
+    "notified_achievements": [
+      "1:1",
+      "1:2",
+      "1:3",
+      "3:26"
+    ],
+    "online_week_key": "2026-W33",
+    "online_week_seconds": 4501,
+    "online_last_week_minutes": 0,
+    "online_last_week_reward": 0,
+    "online_last_week_claimed": true,
+    "first_login_online_seconds": 1200,
+    "first_login_claimed_gifts": [],
+    "weekly_login_week_key": "2026-W33",
+    "weekly_login_dates": [
+      "2026-08-10"
+    ],
+    "weekly_login_claimed_days": [],
+    "level_gift_claimed_levels": [
+      5
+    ],
+    "claimed_activation_gift_codes": [],
+    "may7_gift_claimed": false,
+    "hero_day_key": "",
+    "hero_enter_counts": {},
+    "everyday_gift_last_claim_date": "",
+    "everyday_gift_accumulate_days": 0,
+    "meditation_experience_remainder": 40,
+    "meditation_chakra_remainder": 0,
+    "exchange_counts": {},
+    "mystery_shop_refresh_at": 0,
+    "mystery_shop_item_ids": [],
+    "mystery_shop_bought_ids": [],
+    "trial_active": false,
+    "trial_kills": 0,
+    "trial_best": 0,
+    "trial_return_map": 101010000,
+    "biguan_seconds": 0,
+    "biguan_updated_at": 1786350875,
+    "xiuxing_day_key": "",
+    "xiuxing_index": 0,
+    "xiuxing_cooldown_until": 0,
+    "xiuxing_problem_id": 0,
+    "xiuxing_xianfa_index": 0,
+    "xiuxing_yueli_index": 0,
+    "active_achievement_title": "",
+    "family_joined": false,
+    "family_contribution": 0,
+    "family_weekly_contribution": 0,
+    "family_fund": 0,
+    "family_flag_level": 1,
+    "family_flag_name": "木叶旗帜",
+    "family_flag_style": 1000,
+    "family_boss_time_indices": [],
+    "family_boss_set_count": 0,
+    "family_boss_week_key": "",
+    "family_quest_day_key": "2026-08-10",
+    "family_quest_count": 0,
+    "mai_shared_exp": 0,
+    "mai_shared_exp_count": 0,
+    "activity_day_key": "2026-08-10",
+    "activity_counts": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "activity_score": 0,
+    "activity_claimed_level": -1,
+    "activity_online_seconds": 4345,
+    "activity_online_updated_at": 1786358169,
+    "world_boss_damage": 0,
+    "world_boss_claimed_levels": [],
+    "world_boss_kills": 0,
+    "world_boss_kill_reward_claimed": false,
+    "world_boss_round_key": "",
+    "artifact_war_wins": 0,
+    "war_battle_kills_total": 0,
+    "war_battle_wins": 0,
+    "war_3v3_week_key": "",
+    "war_3v3_points_weekly": 0,
+    "war_3v3_wins": 0,
+    "chunin_wins": 0,
+    "chunin_losses": 0,
+    "spirit_items": [],
+    "spirit_panel_items": [],
+    "spirit_panel_obtained_at": [],
+    "spirit_pack_limit": 5,
+    "spirit_npc_status": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    "spirit_special_count": 0
+  },
+  "quest": {
+    "state": 0,
+    "kills": 0
+  },
+  "original_quests": {
+    "1003": {
+      "state": 1,
+      "progress": {
+        "1": 0
+      },
+      "finish_count": 0,
+      "difficulty_level": 5,
+      "rich_degree": 1,
+      "refresh_available_at": 0
+    }
+  },
+  "keymap": {
+    "2": {
+      "action": 0,
+      "position": 0,
+      "type": 1
+    },
+    "16": {
+      "action": 3,
+      "position": 0,
+      "type": 4
+    },
+    "17": {
+      "action": 56,
+      "position": 0,
+      "type": 5
+    },
+    "18": {
+      "action": 6,
+      "position": 0,
+      "type": 4
+    },
+    "19": {
+      "action": 16,
+      "position": 0,
+      "type": 4
+    },
+    "20": {
+      "action": 8,
+      "position": 0,
+      "type": 4
+    },
+    "21": {
+      "action": 10,
+      "position": 0,
+      "type": 4
+    },
+    "23": {
+      "action": 7,
+      "position": 0,
+      "type": 4
+    },
+    "24": {
+      "action": 22,
+      "position": 0,
+      "type": 4
+    },
+    "30": {
+      "action": 12,
+      "position": 0,
+      "type": 4
+    },
+    "31": {
+      "action": 9,
+      "position": 0,
+      "type": 4
+    },
+    "32": {
+      "action": 15,
+      "position": 0,
+      "type": 4
+    },
+    "33": {
+      "action": 4,
+      "position": 0,
+      "type": 4
+    },
+    "34": {
+      "action": 17,
+      "position": 0,
+      "type": 4
+    },
+    "35": {
+      "action": 55,
+      "position": 0,
+      "type": 5
+    },
+    "36": {
+      "action": 13,
+      "position": 0,
+      "type": 4
+    },
+    "37": {
+      "action": 14,
+      "position": 0,
+      "type": 4
+    },
+    "41": {
+      "action": 51,
+      "position": 0,
+      "type": 5
+    },
+    "44": {
+      "action": 50,
+      "position": 0,
+      "type": 5
+    },
+    "45": {
+      "action": 54,
+      "position": 0,
+      "type": 5
+    },
+    "46": {
+      "action": 2,
+      "position": 0,
+      "type": 4
+    },
+    "47": {
+      "action": 1,
+      "position": 0,
+      "type": 4
+    },
+    "48": {
+      "action": 0,
+      "position": 0,
+      "type": 4
+    },
+    "49": {
+      "action": 23,
+      "position": 0,
+      "type": 4
+    },
+    "50": {
+      "action": 5,
+      "position": 0,
+      "type": 4
+    },
+    "51": {
+      "action": 57,
+      "position": 0,
+      "type": 5
+    },
+    "57": {
+      "action": 53,
+      "position": 0,
+      "type": 5
+    },
+    "90": {
+      "action": 70,
+      "position": 0,
+      "type": 7
+    },
+    "91": {
+      "action": 72,
+      "position": 0,
+      "type": 7
+    },
+    "92": {
+      "action": 71,
+      "position": 0,
+      "type": 7
+    },
+    "93": {
+      "action": 73,
+      "position": 0,
+      "type": 7
+    }
+  },
+  "character_config": {
+    "isCollectMoney": true,
+    "isCollectCaiLiao": true,
+    "banghuiAutoAcceptMember": true,
+    "autoUseChongWuEpDrug": false,
+    "troopAutoAcceptInvite": true,
+    "autoUseEpDrug": false,
+    "autoDaZuo": true,
+    "forbidFamilyInvite": false,
+    "autoReplyHp": true,
+    "isCollectDrug": true,
+    "autoChongwuSkillId": 101,
+    "autoChongWuSkillType": 0,
+    "banghuiAutoAcceptInvite": true,
+    "autoShouhu": true,
+    "collectProfession": 0,
+    "auotReplyHpType": 0,
+    "collectLevelType": 0,
+    "forbidWhisper": false,
+    "forbidAddFriend": false,
+    "autoZaiSheng": true,
+    "banghuiAutoEnterFlagWindow": false,
+    "autoZhanYiEffect": true,
+    "auotReplyMpType": 0,
+    "troopAutoAcceptApply": true,
+    "forbidTradeInvite": false,
+    "autoSkillType": 0,
+    "autoZhangXian": true,
+    "autoAvoidBoss": false,
+    "auotReplyHpValue": 70,
+    "autoUseZhenQiDrug": false,
+    "closeCommitQuest": false,
+    "autoBattleRange": 20,
+    "autoChongWuEat": true,
+    "autoWulinEffect": true,
+    "autoReply": false,
+    "forbidTroopInvite": false,
+    "autoBattleTime": 240,
+    "collectLevel": -1,
+    "isCollectQuestion": true,
+    "auotReplyMpValue": 50,
+    "autoSkillId": 0,
+    "autoCollect": true,
+    "autoReplyMp": true,
+    "isCollectOthers": true,
+    "collectQuality": 0,
+    "hideCharAnimation": false,
+    "hideCharName": false,
+    "hideOthersSkillEffect": false,
+    "forbidEarthQuake": false,
+    "forbidHeartBreak": false,
+    "hideQuestTrackPane": false,
+    "hideTroopInfoPane": false,
+    "forbidMapBackgoundMusic": true,
+    "forbidActionVoice": true,
+    "bgmVolume": 1.0,
+    "sfxVolume": 1.0,
+    "isCloseLingQiTeXiao": false,
+    "simplifiedChinese": true,
+    "_initialCultivationProgressV57": true,
+    "autoSellPickedEquip": false,
+    "autoUpgradeSkill": false,
+    "unlimitedAutoBattleTime": false,
+    "activeKeyScheme": 1,
+    "hidePetTransformAppearance": false,
+    "splitEquipExtraTooltip": true,
+    "equipExtraTooltipColumns": 4,
+    "keySchemes": {
+      "1": {
+        "36": {
+          "action": 13,
+          "position": 0,
+          "type": 4
+        },
+        "21": {
+          "action": 10,
+          "position": 0,
+          "type": 4
+        },
+        "32": {
+          "action": 15,
+          "position": 0,
+          "type": 4
+        },
+        "17": {
+          "action": 56,
+          "position": 0,
+          "type": 5
+        },
+        "2": {
+          "action": 0,
+          "position": 0,
+          "type": 1
+        },
+        "51": {
+          "action": 57,
+          "position": 0,
+          "type": 5
+        },
+        "44": {
+          "action": 50,
+          "position": 0,
+          "type": 5
+        },
+        "93": {
+          "action": 73,
+          "position": 0,
+          "type": 7
+        },
+        "37": {
+          "action": 14,
+          "position": 0,
+          "type": 4
+        },
+        "48": {
+          "action": 0,
+          "position": 0,
+          "type": 4
+        },
+        "33": {
+          "action": 4,
+          "position": 0,
+          "type": 4
+        },
+        "18": {
+          "action": 6,
+          "position": 0,
+          "type": 4
+        },
+        "45": {
+          "action": 54,
+          "position": 0,
+          "type": 5
+        },
+        "30": {
+          "action": 12,
+          "position": 0,
+          "type": 4
+        },
+        "41": {
+          "action": 51,
+          "position": 0,
+          "type": 5
+        },
+        "90": {
+          "action": 70,
+          "position": 0,
+          "type": 7
+        },
+        "23": {
+          "action": 7,
+          "position": 0,
+          "type": 4
+        },
+        "49": {
+          "action": 23,
+          "position": 0,
+          "type": 4
+        },
+        "34": {
+          "action": 17,
+          "position": 0,
+          "type": 4
+        },
+        "19": {
+          "action": 16,
+          "position": 0,
+          "type": 4
+        },
+        "46": {
+          "action": 2,
+          "position": 0,
+          "type": 4
+        },
+        "31": {
+          "action": 9,
+          "position": 0,
+          "type": 4
+        },
+        "57": {
+          "action": 53,
+          "position": 0,
+          "type": 5
+        },
+        "91": {
+          "action": 72,
+          "position": 0,
+          "type": 7
+        },
+        "20": {
+          "action": 8,
+          "position": 0,
+          "type": 4
+        },
+        "16": {
+          "action": 3,
+          "position": 0,
+          "type": 4
+        },
+        "50": {
+          "action": 5,
+          "position": 0,
+          "type": 4
+        },
+        "35": {
+          "action": 55,
+          "position": 0,
+          "type": 5
+        },
+        "92": {
+          "action": 71,
+          "position": 0,
+          "type": 7
+        },
+        "47": {
+          "action": 1,
+          "position": 0,
+          "type": 4
+        },
+        "24": {
+          "action": 22,
+          "position": 0,
+          "type": 4
+        }
+      }
+    },
+    "mapData": {
+      "_mapBgmChoices": {
+        "111040000": [
+          "30"
+        ],
+        "104040000": [
+          "23"
+        ],
+        "464010000": [
+          "10"
+        ],
+        "409000000": [
+          "15"
+        ],
+        "105040000": [
+          "14",
+          "32"
+        ],
+        "108030000": [
+          "17",
+          "18"
+        ],
+        "109040000": [
+          "27",
+          "28"
+        ],
+        "401000000": [
+          "15"
+        ],
+        "106020000": [
+          "38"
+        ],
+        "107040000": [
+          "25",
+          "26"
+        ],
+        "112020000": [
+          "44",
+          "45"
+        ],
+        "112010000": [
+          "44",
+          "45"
+        ],
+        "110030000": [
+          "33",
+          "40"
+        ],
+        "112030000": [
+          "44",
+          "45"
+        ],
+        "100000000": [
+          "1"
+        ],
+        "101010000": [
+          "16"
+        ],
+        "105030000": [
+          "37"
+        ],
+        "108020000": [
+          "17",
+          "18"
+        ],
+        "464040000": [
+          "13"
+        ],
+        "102030000": [
+          "21"
+        ],
+        "107010000": [
+          "39"
+        ],
+        "464050000": [
+          "14",
+          "32"
+        ],
+        "108010000": [
+          "17",
+          "18"
+        ],
+        "109020000": [
+          "41"
+        ],
+        "110040000": [
+          "29"
+        ],
+        "111020000": [
+          "43"
+        ],
+        "110010000": [
+          "33",
+          "40"
+        ],
+        "110020000": [
+          "33",
+          "40"
+        ],
+        "464020000": [
+          "11"
+        ],
+        "104020000": [
+          "34",
+          "35"
+        ],
+        "104030000": [
+          "34",
+          "35"
+        ],
+        "107020000": [
+          "39"
+        ],
+        "105010000": [
+          "37"
+        ],
+        "105020000": [
+          "37"
+        ],
+        "106040000": [
+          "24"
+        ],
+        "109010000": [
+          "41"
+        ],
+        "109030000": [
+          "42"
+        ],
+        "106030000": [
+          "38"
+        ],
+        "111010000": [
+          "46@99",
+          "47@1"
+        ],
+        "107030000": [
+          "39"
+        ],
+        "106010000": [
+          "38"
+        ],
+        "464030000": [
+          "12"
+        ],
+        "111030000": [
+          "43"
+        ],
+        "103030000": [
+          "22"
+        ],
+        "112040000": [
+          "31"
+        ]
+      },
+      "_waveMemorialSnowMapIds": {}
+    }
+  },
+  "second_level_password": {
+    "password_hash": "",
+    "contact_configured": false,
+    "question1": "",
+    "answer1_hash": "",
+    "question2": "",
+    "answer2_hash": "",
+    "questions_confirmed": false,
+    "update_attempts_remaining": 5,
+    "delete_attempts_remaining": 5
+  },
+  "money": 0,
+  "bound_money": 0,
+  "cash_money": 0,
+  "coupon_money": 0,
+  "recharge_total": 0,
+  "first_charge_claimed": false,
+  "limited_recharge_total_claims": [],
+  "limited_recharge_each_claims": [],
+  "new_server_claimed_ids": [],
+  "new_server_cashbind_remaining": 579,
+  "storage_money": 0,
+  "vip_item_id": 0,
+  "vip_expires_at": 0,
+  "vip_sweep_pending": [],
+  "vip_pve_sweep_week_key": "",
+  "active_item_effects": {},
+  "auto_consume_effects": {},
+  "item_cooldowns": {},
+  "skill_cooldowns": {},
+  "pvp_mode": 1,
+  "yata_resistance_element": 2,
+  "active_skill_buffs": {},
+  "fudai_transaction": null,
+  "pending_mai_explosion": null,
+  "card_submissions": {},
+  "card_claimed_nodes": [],
+  "transform_card_collection": [],
+  "transform_card_storage": {},
+  "charm_claimed_reward_ids": [],
+  "charm_name_color_reward_id": 0,
+  "charm_text_color_reward_id": 0,
+  "shown_tutorials": [],
+  "gm_notifications": [],
+  "ring_daily_day_key": "2026-08-10",
+  "ring_daily_count": 0,
+  "ring_week_key": "2026-W33",
+  "ring_weekly_count": 0,
+  "ring_active_mode": "",
+  "ring_quest_modes": {}
+}

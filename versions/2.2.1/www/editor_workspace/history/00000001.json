@@ -1,0 +1,13 @@
+{
+  "revision": 1,
+  "createdAt": "2026-07-22T16:23:47.737623+00:00",
+  "action": "save",
+  "entityType": "formulas",
+  "entityId": "combat",
+  "stateBefore": {
+    "schemaVersion": 1,
+    "revision": 0,
+    "updatedAt": null,
+    "overrides": {}
+  }
+}

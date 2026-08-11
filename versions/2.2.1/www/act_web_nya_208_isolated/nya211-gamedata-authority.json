@@ -1,0 +1,60 @@
+{
+  "policy": "nya-2.1.1-authoritative-old-fields-only",
+  "authoritativeJson": "F:/NarutoSingleplayer/Nya-2.1.1-已解包GameData与美术-20260729/GameData/GameData-nya-2.1.1-20260728.json",
+  "authoritativeJsonSha256": "e77578f4afce7f1d76ce7d5916cb5dcf3359405eeac184c51d2c5c6bf54e36fd",
+  "authoritativeAmf": "F:/NarutoSingleplayer/Nya-2.1.1-已解包GameData与美术-20260729/GameData/GameData-nya-2.1.1-20260728.amf3.dat",
+  "authoritativeAmfSha256": "3957118bfc9b433ba05120fc0b5b6130891063877817ea4c348b0b5f7f553983",
+  "legacyFieldSource": "F:/NarutoSingleplayer/analysis/gamedata/back_GameData_decoded.dat",
+  "legacyFieldSourceSha256": "2177687b4921cebfb723f38f845a4e4951151e4c647a4fa2f5c50813cbc0b136",
+  "runtimeGameDataSha256": "6e7f7639f4a2ce14feded18609b17d858b35f655f76f0e470990360d87b19f86",
+  "topLevelSections": 56,
+  "addedFields": [
+    "LiBao/11010063/spec/params/items/0/3/bind",
+    "LiBao/11010063/spec/params/items/0/2/bind",
+    "LiBao/11010063/spec/params/items/0/1/bind",
+    "LiBao/11010063/spec/params/items/0/0/bind",
+    "Obj/acc/shuizhiguo/nature/19/0/z",
+    "Obj/acc/shuizhiguo/nature/19/4/z"
+  ],
+  "projectOverlays": [
+    "permanent-map-weather-visuals",
+    "training-copy",
+    "skill-effects-fixed-shinra-cooldown-and-localized-labels",
+    "forbidden-skill-missing-visual-compatibility",
+    "forbidden-skill-cast-range-and-thunder-fireball-knockback",
+    "forbidden-skill-runtime-descriptions-and-authored-visuals",
+    "forbidden-skill-self-and-revival-target-semantics",
+    "project-special-shadow-clone-and-flying-raijin",
+    "project-special-dedicated-art-and-combat-targets",
+    "project-special-mobile-unpack-icons-and-effects",
+    "project-special-flying-raijin-two-cast-window",
+    "project-special-per-level-attribute-cost-and-cooldown-growth",
+    "project-spirit-pack-slots-21-through-30"
+  ],
+  "missingFromSuppliedNya211ArtPackage": [
+    "swf/ZhuangBei/ZhuangBei_01210316_info.swf",
+    "swf/ZhuangBei/ZhuangBei_01210697_info.swf",
+    "swf/Char/Char_10000050.swf",
+    "swf/Char/Char_10000200.swf",
+    "swf/Char/Char_10000201.swf",
+    "swf/Char/Char_10000202.swf",
+    "swf/Char/Char_10000203.swf",
+    "swf/Char/Char_10000206.swf",
+    "swf/Char/Char_10000207.swf",
+    "swf/Char/Char_10000208.swf",
+    "swf/Char/Char_10000209.swf"
+  ],
+  "clientCatalogCounts": {
+    "XiaoHao": 13,
+    "ZhuangBei": 632,
+    "JiNengShu": 95,
+    "JiNengCanJuan": 66,
+    "LiBao": 652,
+    "RenWuWuPin": 9,
+    "CaiLiao": 225,
+    "BaoShi": 430,
+    "TeShuWuPin": 279,
+    "FuZhuWuPin": 209,
+    "BuffWuPin": 21
+  }
+}

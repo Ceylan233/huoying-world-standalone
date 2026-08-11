@@ -1,0 +1,55 @@
+{
+  "expected": 1307,
+  "cached": 1295,
+  "missing": 12,
+  "missingAssets": [
+    {
+      "category": "BuffWuPin",
+      "swf_name": "BuffWuPin_18000001_info"
+    },
+    {
+      "category": "BuffWuPin",
+      "swf_name": "BuffWuPin_18002001_info"
+    },
+    {
+      "category": "BuffWuPin",
+      "swf_name": "BuffWuPin_18004001_info"
+    },
+    {
+      "category": "ZhuangBei",
+      "swf_name": "ZhuangBei_01210316_info"
+    },
+    {
+      "category": "ZhuangBei",
+      "swf_name": "ZhuangBei_01210319_info"
+    },
+    {
+      "category": "ZhuangBei",
+      "swf_name": "ZhuangBei_01210332_info"
+    },
+    {
+      "category": "ZhuangBei",
+      "swf_name": "ZhuangBei_01210356_info"
+    },
+    {
+      "category": "ZhuangBei",
+      "swf_name": "ZhuangBei_01210357_info"
+    },
+    {
+      "category": "ZhuangBei",
+      "swf_name": "ZhuangBei_01210396_info"
+    },
+    {
+      "category": "ZhuangBei",
+      "swf_name": "ZhuangBei_02050019_info"
+    },
+    {
+      "category": "ZhuangBei",
+      "swf_name": "ZhuangBei_02050021_info"
+    },
+    {
+      "category": "ZhuangBei",
+      "swf_name": "ZhuangBei_02050023_info"
+    }
+  ]
+}

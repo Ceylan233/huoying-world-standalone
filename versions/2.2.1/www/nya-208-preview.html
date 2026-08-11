@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <script>
+    (function () {
+      function opsRequest(path, payload) {
+        return fetch(path, {
+          method: "POST",
+          credentials: "same-origin",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(payload || {})
+        });
+      }
+      window.narutoArmOperationsFromKeyboardFrame = function () {
+        opsRequest("/api/ops/arm", {}).catch(function () {});
+        return true;
+      };
+      window.narutoDisarmOperationsFromKeyboardFrame = function () {
+        opsRequest("/api/ops/disarm", {}).catch(function () {});
+        return true;
+      };
+      window.narutoOpenOperationsFromKeyboardFrame = function (code) {
+        opsRequest("/api/ops/unlock", { code: String(code || "") })
+          .then(function (response) {
+            if (response.ok) window.location.assign("/ops/");
+          })
+          .catch(function () {});
+        return true;
+      };
+    }());
+  </script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nya MainLib 2.0.8 隔离版</title>
+  <style>
+    @font-face { font-family: "SimSun"; src: url("/fonts/simsun.ttf?v=20260726") format("truetype"); }
+    @font-face { font-family: "SimHei"; src: url("/fonts/simhei.ttf") format("truetype"); }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body, #game { width: 100%; height: 100%; overflow: hidden; background: #000; }
+    #status { position: fixed; inset: 0; display: grid; place-items: center; color: #ddd; background: #000; font: 14px "Microsoft YaHei", sans-serif; }
+  </style>
+  <script>
+    window.__nya208Diagnostics = [];
+    window.openNarutoTopLink = function (url, target) {
+      var safeUrl = String(url || "");
+      if (!/^https?:\/\//i.test(safeUrl)) return false;
+      window.open(
+        safeUrl,
+        target || "_blank",
+        "noopener,noreferrer"
+      );
+      return true;
+    };
+    ["log", "warn", "error"].forEach(function (level) {
+      var original = console[level];
+      console[level] = function () {
+        var message = Array.prototype.map.call(arguments, function (value) {
+          if (value instanceof Error) return value.stack || value.message;
+          if (typeof value === "string") return value;
+          try { return JSON.stringify(value); } catch (_) { return String(value); }
+        }).join(" ");
+        window.__nya208Diagnostics.push({ level: level, message: message });
+        if (window.__nya208Diagnostics.length > 500) window.__nya208Diagnostics.shift();
+        return original.apply(console, arguments);
+      };
+    });
+    window.addEventListener("error", function (event) {
+      window.__nya208Diagnostics.push({
+        level: "window-error",
+        message: event.message + "\n" + (event.error && event.error.stack || "")
+      });
+    });
+    window.addEventListener("unhandledrejection", function (event) {
+      var reason = event.reason;
+      window.__nya208Diagnostics.push({
+        level: "unhandled-rejection",
+        message: reason && (reason.stack || reason.message) || String(reason)
+      });
+    });
+    window.RufflePlayer = window.RufflePlayer || {};
+    window.RufflePlayer.config = {
+      publicPath: "/ruffle/",
+      autoplay: "on",
+      unmuteOverlay: "hidden",
+      backgroundColor: "#000000",
+      letterbox: "fullscreen",
+      logLevel: "info",
+      warnOnUnsupportedContent: false,
+      contextMenu: "off",
+      allowNetworking: "all",
+      deviceFontRenderer: "embedded",
+      fontSources: [
+        "/fonts/simsun.ttf?v=20260726",
+        "/fonts/simhei.ttf",
+        "/fonts/NotoSansSC-VF.ttf"
+      ],
+      defaultFonts: {
+        sans: ["SimSun", "Noto Sans SC"],
+        serif: ["SimSun", "Noto Sans SC"],
+        typewriter: ["SimSun", "Noto Sans SC"],
+        simplifiedChinese: ["SimSun", "Noto Sans SC"],
+        traditionalChinese: ["SimSun", "Noto Sans SC"]
+      }
+    };
+  </script>
+  <script src="/ruffle/ruffle.js"></script>
+</head>
+<body>
+  <div id="game"></div>
+  <div id="status">正在加载 Nya MainLib 2.0.8 隔离版…</div>
+  <script>
+    (async function () {
+      var host = location.hostname || "127.0.0.1";
+      var httpHost = location.host || host + ":19180";
+      var root = "act_web_nya_208_isolated";
+      var gamePort = "19184";
+      var proxyPort = "19181";
+      var query = new URLSearchParams(location.search);
+      var previewUsername = query.get("username") || "Nya208Isolated";
+      var previewPassword = query.get("password") || "preview";
+      var previewUserId = query.get("userId") || "9208";
+      var baseUrl = location.protocol + "//" + httpHost + "/" + root + "/";
+      var runtimeConfig = {};
+      try {
+        var runtimeResponse = await fetch("/api/runtime/config", { cache: "no-store" });
+        if (runtimeResponse.ok) runtimeConfig = await runtimeResponse.json();
+      } catch (_) {
+        runtimeConfig = {};
+      }
+      var topLinks = Array.isArray(runtimeConfig.topLinks) ? runtimeConfig.topLinks : [];
+      var linkButtons = topLinks.map(function (entry) {
+        var label = String(entry.label || "").replace(/[;,]/g, "");
+        var target = String(entry.url || "")
+          .replace(/;/g, "%3B")
+          .replace(/,/g, "%2C");
+        return label && /^https?:\/\//i.test(target)
+          ? [label, "url", target, entry.highlight ? "1" : "0"].join(",")
+          : "";
+      }).filter(Boolean).join(";");
+      var player = window.RufflePlayer.newest().createPlayer();
+      var status = document.getElementById("status");
+      player.style.width = "100%";
+      player.style.height = "100%";
+      document.getElementById("game").appendChild(player);
+      player.ruffle().traceObserver = function (message) {
+        window.__nya208Diagnostics.push({ level: "swf-trace", message: String(message) });
+        console.log("[SWF TRACE]", message);
+      };
+      await player.ruffle().load({
+        url: "/" + root + "/Main.swf?nya-208-isolated-v11",
+        parameters: {
+          ip: host,
+          server: host,
+          port: gamePort,
+          baseUrl: baseUrl,
+          userName: previewUsername,
+          username: previewUsername,
+          password: previewPassword,
+          userId: previewUserId,
+          serverId: "1",
+          partner: "gongyi",
+          local: "1",
+          linkButtons: linkButtons,
+          enableDownload: "1",
+          forbidXiaoFei: "0",
+          hideXianFa: "0",
+          huigui: "1",
+          shituSwitch: "1",
+          gameSwitch: "lunhuiyan:1_kunchong:1_jieyin:1_zhongrenkaoshi:1_huoyuedu:1_chongwuroughun:1_famillyshop:1_mysteryshop:1_juedou:1"
+        },
+        allowScriptAccess: true,
+        allowNetworking: "all",
+        autoplay: "on",
+        socketProxy: [{ host: host, port: gamePort, proxyUrl: "ws://" + host + ":" + proxyPort + "/ruffle-socket" }]
+      });
+      status.remove();
+    })().catch(function (error) {
+      document.getElementById("status").textContent =
+        "Nya MainLib 2.0.8 隔离版启动失败：" + (error && error.message ? error.message : String(error));
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rankings": {
+    "MENGMEI_PH": [],
+    "REBUG_CHARA": [],
+    "SHUAIGE_PH": []
+  },
+  "weather": {
+    "type": -1,
+    "expiresAt": 0
+  },
+  "events": {}
+}

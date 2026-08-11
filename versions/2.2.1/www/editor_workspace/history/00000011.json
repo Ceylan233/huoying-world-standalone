@@ -1,0 +1,41 @@
+{
+  "revision": 11,
+  "createdAt": "2026-07-31T14:50:13.227878+00:00",
+  "action": "save",
+  "entityType": "maps",
+  "entityId": "401000000",
+  "stateBefore": {
+    "schemaVersion": 1,
+    "revision": 10,
+    "updatedAt": "2026-07-31T14:46:07.958955+00:00",
+    "overrides": {
+      "maps": {
+        "464010000": {
+          "info": {
+            "bgm": "10"
+          }
+        },
+        "464020000": {
+          "info": {
+            "bgm": "11"
+          }
+        },
+        "464030000": {
+          "info": {
+            "bgm": "12"
+          }
+        },
+        "464040000": {
+          "info": {
+            "bgm": "13"
+          }
+        },
+        "464050000": {
+          "info": {
+            "bgm": "14"
+          }
+        }
+      }
+    }
+  }
+}

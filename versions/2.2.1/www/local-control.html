@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Nya 本地端控制台</title>
+  <style>
+    *{box-sizing:border-box}body{margin:0;color:#202124;background:#f5f6f7;font:14px "Microsoft YaHei",sans-serif}
+    header{height:58px;display:flex;align-items:center;justify-content:space-between;padding:0 28px;color:#fff;background:#24272b;border-bottom:3px solid #d64038}
+    h1{font-size:18px;font-weight:600;letter-spacing:0;margin:0}.status{display:flex;align-items:center;gap:8px}.dot{width:9px;height:9px;border-radius:50%;background:#999}.dot.ok{background:#42b867}
+    main{max-width:980px;margin:34px auto;padding:0 20px}.lead{margin:0 0 18px;color:#59616a}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+    a{display:flex;align-items:center;justify-content:space-between;min-height:74px;padding:16px 18px;color:#202124;text-decoration:none;background:#fff;border:1px solid #d9dde1;border-radius:6px}
+    a:hover{border-color:#d64038;box-shadow:0 2px 8px rgba(0,0,0,.08)}a strong{display:block;font-size:16px;margin-bottom:4px}a span{color:#737b84;font-size:12px}.arrow{font-size:20px;color:#d64038}
+    .info{margin-top:20px;padding:16px 18px;background:#fff;border-left:3px solid #d64038}.info p{margin:4px 0}.mono{font-family:Consolas,monospace}
+    @media(max-width:620px){header{padding:0 16px}.grid{grid-template-columns:1fr}main{margin-top:22px}}
+  </style>
+</head>
+<body>
+  <header><h1>Nya 2.1.1 本地端</h1><div class="status"><i id="dot" class="dot"></i><span id="status">正在检查服务</span></div></header>
+  <main>
+    <p class="lead">本页面和游戏服务仅监听本机，不向公网开放。</p>
+    <div class="grid">
+      <a href="/ruffle.html?fresh=local-control"><div><strong>Ruffle 客户端</strong><span>浏览器运行，推荐日常使用</span></div><b class="arrow">›</b></a>
+      <a href="/flash-native.php"><div><strong>原生 Flash 客户端</strong><span>调用随包附带的本地宿主</span></div><b class="arrow">›</b></a>
+      <a href="/gm/"><div><strong>GM 后台</strong><span>货币、道具、事件、天气与玩家管理</span></div><b class="arrow">›</b></a>
+      <a href="/index.php"><div><strong>Web 入口</strong><span>本地注册、登录与游戏入口</span></div><b class="arrow">›</b></a>
+    </div>
+    <div class="info"><p>GM 密码：<span class="mono">NyaLocal#208</span></p><p>服务地址：<span class="mono">127.0.0.1:19280</span></p><p>关闭服务请运行根目录的 <span class="mono">99_关闭本地端.bat</span>。</p></div>
+  </main>
+  <script>
+    fetch('/api/runtime/config',{cache:'no-store'}).then(function(r){if(!r.ok)throw Error();return r.json()}).then(function(data){
+      document.getElementById('dot').className='dot ok';document.getElementById('status').textContent='本地服务正常';
+    }).catch(function(){document.getElementById('status').textContent='服务未就绪'});
+  </script>
+</body>
+</html>

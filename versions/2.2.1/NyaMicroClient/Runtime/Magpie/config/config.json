@@ -1,0 +1,52 @@
+{
+  "language": "zh-Hans",
+  "theme": 2,
+  "countdownSeconds": 1,
+  "allowScalingMaximized": false,
+  "simulateExclusiveFullscreen": false,
+  "alwaysRunAsAdmin": false,
+  "showNotifyIcon": true,
+  "autoCheckForUpdates": false,
+  "checkForPreviewUpdates": false,
+  "overlay": {
+    "fullscreenInitialToolbarState": 0,
+    "windowedInitialToolbarState": 0
+  },
+  "scalingModes": [
+    {
+      "name": "Nya FSR 清晰平衡",
+      "effects": [
+        { "name": "FSR\\FSR_EASU", "scalingType": 1 },
+        { "name": "FSR\\FSR_RCAS", "parameters": { "sharpness": 0.85 } }
+      ]
+    },
+    {
+      "name": "Nya CuNNy 动漫增强",
+      "effects": [
+        { "name": "CuNNy2\\CuNNy-4x12-NVL" }
+      ]
+    },
+    {
+      "name": "Nya Anime4K 线条增强",
+      "effects": [
+        { "name": "Anime4K\\Anime4K_Upscale_Denoise_L" }
+      ]
+    }
+  ],
+  "profiles": [
+    {
+      "scalingMode": 0,
+      "captureMethod": 0,
+      "multiMonitorUsage": 0,
+      "initialWindowedScaleFactor": 0,
+      "customInitialWindowedScaleFactor": 1.25,
+      "maxFrameRate": 60,
+      "frameRateLimiterEnabled": true,
+      "adjustCursorSpeed": true,
+      "cursorScaling": 2,
+      "cursorInterpolationMode": 0,
+      "autoHideCursorEnabled": false,
+      "croppingEnabled": false
+    }
+  ]
+}

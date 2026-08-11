@@ -1,0 +1,1214 @@
+2026-08-07 21:54:01.925|info|main.cpp:76|wWinMain|程序启动
+	版本: v0.12.1
+	OS 版本: 10.0.19045
+	管理员: 是
+2026-08-07 21:54:01.945|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\ACNet.hlsl
+2026-08-07 21:54:01.945|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_3D_AA_Upscale_US.hlsl
+2026-08-07 21:54:01.945|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_3D_Upscale_US.hlsl
+2026-08-07 21:54:01.945|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Denoise_Bilateral_Mean.hlsl
+2026-08-07 21:54:01.945|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Denoise_Bilateral_Median.hlsl
+2026-08-07 21:54:01.945|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Denoise_Bilateral_Mode.hlsl
+2026-08-07 21:54:01.945|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_L.hlsl
+2026-08-07 21:54:01.945|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_M.hlsl
+2026-08-07 21:54:01.945|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_S.hlsl
+2026-08-07 21:54:01.945|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_L.hlsl
+2026-08-07 21:54:01.945|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_M.hlsl
+2026-08-07 21:54:01.945|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_S.hlsl
+2026-08-07 21:54:01.946|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_UL.hlsl
+2026-08-07 21:54:01.946|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_VL.hlsl
+2026-08-07 21:54:01.946|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_UL.hlsl
+2026-08-07 21:54:01.946|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_VL.hlsl
+2026-08-07 21:54:01.946|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Thin_HQ.hlsl
+2026-08-07 21:54:01.946|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_Denoise_L.hlsl
+2026-08-07 21:54:01.946|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_Denoise_S.hlsl
+2026-08-07 21:54:01.946|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_Denoise_UL.hlsl
+2026-08-07 21:54:01.946|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_Denoise_VL.hlsl
+2026-08-07 21:54:01.946|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_GAN_x2_M.hlsl
+2026-08-07 21:54:01.946|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_GAN_x2_S.hlsl
+2026-08-07 21:54:01.946|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_GAN_x3_L.hlsl
+2026-08-07 21:54:01.946|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_L.hlsl
+2026-08-07 21:54:01.947|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_S.hlsl
+2026-08-07 21:54:01.947|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_UL.hlsl
+2026-08-07 21:54:01.947|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_VL.hlsl
+2026-08-07 21:54:01.947|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Bicubic.hlsl
+2026-08-07 21:54:01.947|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Bilinear.hlsl
+2026-08-07 21:54:01.947|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CAS\CAS.hlsl
+2026-08-07 21:54:01.947|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CAS\CAS_Scaling.hlsl
+2026-08-07 21:54:01.947|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\CRT_Easymode.hlsl
+2026-08-07 21:54:01.947|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\CRT_Geom.hlsl
+2026-08-07 21:54:01.947|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\CRT_Hyllian.hlsl
+2026-08-07 21:54:01.947|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\CRT_Lottes.hlsl
+2026-08-07 21:54:01.947|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\GTU_v050.hlsl
+2026-08-07 21:54:01.947|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-16x16C-NVL-DN.hlsl
+2026-08-07 21:54:01.947|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-16x16C-NVL.hlsl
+2026-08-07 21:54:01.947|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-2x4C-NVL-DN.hlsl
+2026-08-07 21:54:01.947|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-2x4C-NVL.hlsl
+2026-08-07 21:54:01.947|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-3x4C-NVL-DN.hlsl
+2026-08-07 21:54:01.947|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-3x4C-NVL.hlsl
+2026-08-07 21:54:01.947|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x16C-NVL-DN.hlsl
+2026-08-07 21:54:01.948|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x16C-NVL.hlsl
+2026-08-07 21:54:01.948|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x4C-NVL-DN.hlsl
+2026-08-07 21:54:01.948|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x4C-NVL.hlsl
+2026-08-07 21:54:01.948|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x8C-NVL-DN.hlsl
+2026-08-07 21:54:01.948|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x8C-NVL.hlsl
+2026-08-07 21:54:01.948|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-6x8C-NVL-DN.hlsl
+2026-08-07 21:54:01.948|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-6x8C-NVL.hlsl
+2026-08-07 21:54:01.948|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x16C-NVL-DN.hlsl
+2026-08-07 21:54:01.948|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x16C-NVL.hlsl
+2026-08-07 21:54:01.948|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x4C-NVL-DN.hlsl
+2026-08-07 21:54:01.948|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x4C-NVL.hlsl
+2026-08-07 21:54:01.948|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x8C-NVL-DN.hlsl
+2026-08-07 21:54:01.948|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x8C-NVL.hlsl
+2026-08-07 21:54:01.948|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-3x12-NVL.hlsl
+2026-08-07 21:54:01.948|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-4x12-NVL.hlsl
+2026-08-07 21:54:01.948|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-4x16-NVL.hlsl
+2026-08-07 21:54:01.948|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-4x24-NVL.hlsl
+2026-08-07 21:54:01.948|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-4x32-NVL.hlsl
+2026-08-07 21:54:01.948|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-8x32-NVL.hlsl
+2026-08-07 21:54:01.949|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-fast-NVL.hlsl
+2026-08-07 21:54:01.949|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-faster-NVL.hlsl
+2026-08-07 21:54:01.949|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-veryfast-NVL.hlsl
+2026-08-07 21:54:01.949|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Deband.hlsl
+2026-08-07 21:54:01.949|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSR\FSR_EASU.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSR\FSR_RCAS.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSRCNNX\FSRCNNX.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSRCNNX\FSRCNNX_LineArt.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FXAA\FXAA_High.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FXAA\FXAA_Medium.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FXAA\FXAA_Ultra.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\ImageAdjustment.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Jinc.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Lanczos.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Nearest.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NIS\NIS.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NIS\NVSharpen.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns128_win8x4.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns128_win8x6.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns16_win8x4.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns16_win8x6.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns256_win8x4.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns256_win8x6.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns32_win8x4.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns32_win8x6.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns64_win8x4.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Pixel Art\MMPX.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns64_win8x6.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R2.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Pixel Art\SharpBilinear.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R2_RGB.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R3.hlsl
+2026-08-07 21:54:01.950|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Pixel Art\Pixellate.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R3_RGB.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R4.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R4_RGB.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_AR_R2.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_AR_R3.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_AR_R4.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_R2.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_R3.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_R4.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R2.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R2_RGB.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R3.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R3_RGB.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R4.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R4_RGB.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_AR_R2.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_AR_R2_RGB.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_AR_R3.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_AR_R3_RGB.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_R2.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_R2_RGB.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_R3.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_R3_RGB.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Sharpen\AdaptiveSharpen.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Sharpen\FineSharp.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Sharpen\LCAS.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Sharpen\LumaSharpen.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SMAA\SMAA_High.hlsl
+2026-08-07 21:54:01.951|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SMAA\SMAA_Low.hlsl
+2026-08-07 21:54:01.952|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SMAA\SMAA_Medium.hlsl
+2026-08-07 21:54:01.952|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SMAA\SMAA_Ultra.hlsl
+2026-08-07 21:54:01.952|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SSimDownscaler.hlsl
+2026-08-07 21:54:01.952|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_2x.hlsl
+2026-08-07 21:54:01.952|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_3x.hlsl
+2026-08-07 21:54:01.952|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_4x.hlsl
+2026-08-07 21:54:01.952|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_5x.hlsl
+2026-08-07 21:54:01.952|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_6x.hlsl
+2026-08-07 21:54:01.952|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_Freescale.hlsl
+2026-08-07 21:54:02.450|info|AppSettings.cpp:213|Initialize|便携模式: 是
+2026-08-07 21:54:02.450|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: H:\火影开发项目\Nya-2.1.1-本地一键端-集成微端版本\NyaMicroClient\src\NyaLauncher\bin\Release\微端程序\Runtime\Magpie\config\config.json
+2026-08-07 21:54:02.450|info|Win32Helper.cpp:372|WriteTextFile|写入文本文件: H:\火影开发项目\Nya-2.1.1-本地一键端-集成微端版本\NyaMicroClient\src\NyaLauncher\bin\Release\微端程序\Runtime\Magpie\config\config.json
+2026-08-07 21:54:09.913|info|Win32Helper.cpp:372|WriteTextFile|写入文本文件: H:\火影开发项目\Nya-2.1.1-本地一键端-集成微端版本\NyaMicroClient\src\NyaLauncher\bin\Release\微端程序\Runtime\Magpie\config\config.json
+2026-08-07 22:47:31.314|info|Win32Helper.cpp:372|WriteTextFile|写入文本文件: H:\火影开发项目\Nya-2.1.1-本地一键端-集成微端版本\NyaMicroClient\src\NyaLauncher\bin\Release\微端程序\Runtime\Magpie\config\config.json
+2026-08-07 22:47:31.396|info|App.cpp:221|Run|程序退出
+2026-08-08 00:05:22.585|info|main.cpp:76|wWinMain|程序启动
+	版本: v0.12.1
+	OS 版本: 10.0.19045
+	管理员: 是
+2026-08-08 00:05:22.602|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\ACNet.hlsl
+2026-08-08 00:05:22.602|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_3D_AA_Upscale_US.hlsl
+2026-08-08 00:05:22.602|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_3D_Upscale_US.hlsl
+2026-08-08 00:05:22.602|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Denoise_Bilateral_Mean.hlsl
+2026-08-08 00:05:22.602|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Denoise_Bilateral_Median.hlsl
+2026-08-08 00:05:22.602|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Denoise_Bilateral_Mode.hlsl
+2026-08-08 00:05:22.602|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_L.hlsl
+2026-08-08 00:05:22.602|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_M.hlsl
+2026-08-08 00:05:22.602|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_S.hlsl
+2026-08-08 00:05:22.602|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_L.hlsl
+2026-08-08 00:05:22.603|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_M.hlsl
+2026-08-08 00:05:22.603|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_S.hlsl
+2026-08-08 00:05:22.603|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_UL.hlsl
+2026-08-08 00:05:22.603|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_VL.hlsl
+2026-08-08 00:05:22.603|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_UL.hlsl
+2026-08-08 00:05:22.603|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_VL.hlsl
+2026-08-08 00:05:22.603|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Thin_HQ.hlsl
+2026-08-08 00:05:22.603|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_Denoise_L.hlsl
+2026-08-08 00:05:22.603|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_Denoise_S.hlsl
+2026-08-08 00:05:22.603|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_Denoise_UL.hlsl
+2026-08-08 00:05:22.603|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_Denoise_VL.hlsl
+2026-08-08 00:05:22.603|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_GAN_x2_M.hlsl
+2026-08-08 00:05:22.603|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_GAN_x2_S.hlsl
+2026-08-08 00:05:22.603|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_GAN_x3_L.hlsl
+2026-08-08 00:05:22.603|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_L.hlsl
+2026-08-08 00:05:22.603|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_S.hlsl
+2026-08-08 00:05:22.603|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_UL.hlsl
+2026-08-08 00:05:22.603|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_VL.hlsl
+2026-08-08 00:05:22.603|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Bicubic.hlsl
+2026-08-08 00:05:22.603|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Bilinear.hlsl
+2026-08-08 00:05:22.603|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CAS\CAS.hlsl
+2026-08-08 00:05:22.603|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CAS\CAS_Scaling.hlsl
+2026-08-08 00:05:22.603|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\CRT_Easymode.hlsl
+2026-08-08 00:05:22.603|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\CRT_Geom.hlsl
+2026-08-08 00:05:22.603|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\CRT_Hyllian.hlsl
+2026-08-08 00:05:22.604|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\CRT_Lottes.hlsl
+2026-08-08 00:05:22.604|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\GTU_v050.hlsl
+2026-08-08 00:05:22.604|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-16x16C-NVL-DN.hlsl
+2026-08-08 00:05:22.604|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-16x16C-NVL.hlsl
+2026-08-08 00:05:22.604|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-2x4C-NVL-DN.hlsl
+2026-08-08 00:05:22.604|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-2x4C-NVL.hlsl
+2026-08-08 00:05:22.604|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-3x4C-NVL-DN.hlsl
+2026-08-08 00:05:22.604|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-3x4C-NVL.hlsl
+2026-08-08 00:05:22.604|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x16C-NVL-DN.hlsl
+2026-08-08 00:05:22.604|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x4C-NVL-DN.hlsl
+2026-08-08 00:05:22.604|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x16C-NVL.hlsl
+2026-08-08 00:05:22.604|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x4C-NVL.hlsl
+2026-08-08 00:05:22.604|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x8C-NVL-DN.hlsl
+2026-08-08 00:05:22.604|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x8C-NVL.hlsl
+2026-08-08 00:05:22.604|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-6x8C-NVL-DN.hlsl
+2026-08-08 00:05:22.604|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-6x8C-NVL.hlsl
+2026-08-08 00:05:22.604|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x16C-NVL-DN.hlsl
+2026-08-08 00:05:22.605|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x16C-NVL.hlsl
+2026-08-08 00:05:22.605|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x4C-NVL-DN.hlsl
+2026-08-08 00:05:22.605|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x4C-NVL.hlsl
+2026-08-08 00:05:22.605|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x8C-NVL-DN.hlsl
+2026-08-08 00:05:22.605|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x8C-NVL.hlsl
+2026-08-08 00:05:22.605|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-3x12-NVL.hlsl
+2026-08-08 00:05:22.605|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-4x12-NVL.hlsl
+2026-08-08 00:05:22.605|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-4x16-NVL.hlsl
+2026-08-08 00:05:22.605|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-4x24-NVL.hlsl
+2026-08-08 00:05:22.605|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-4x32-NVL.hlsl
+2026-08-08 00:05:22.605|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-8x32-NVL.hlsl
+2026-08-08 00:05:22.605|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-fast-NVL.hlsl
+2026-08-08 00:05:22.605|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-faster-NVL.hlsl
+2026-08-08 00:05:22.605|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-veryfast-NVL.hlsl
+2026-08-08 00:05:22.605|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Deband.hlsl
+2026-08-08 00:05:22.605|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSR\FSR_EASU.hlsl
+2026-08-08 00:05:22.605|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSR\FSR_RCAS.hlsl
+2026-08-08 00:05:22.605|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSRCNNX\FSRCNNX.hlsl
+2026-08-08 00:05:22.605|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSRCNNX\FSRCNNX_LineArt.hlsl
+2026-08-08 00:05:22.605|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FXAA\FXAA_High.hlsl
+2026-08-08 00:05:22.605|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FXAA\FXAA_Medium.hlsl
+2026-08-08 00:05:22.605|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FXAA\FXAA_Ultra.hlsl
+2026-08-08 00:05:22.605|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\ImageAdjustment.hlsl
+2026-08-08 00:05:22.605|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Jinc.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Lanczos.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Nearest.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NIS\NIS.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NIS\NVSharpen.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns128_win8x4.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns128_win8x6.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns16_win8x4.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns16_win8x6.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns256_win8x4.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns256_win8x6.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns32_win8x4.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns32_win8x6.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns64_win8x4.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns64_win8x6.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Pixel Art\MMPX.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Pixel Art\Pixellate.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Pixel Art\SharpBilinear.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R2.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R2_RGB.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R3.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R3_RGB.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R4.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R4_RGB.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_AR_R2.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_AR_R3.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_AR_R4.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文2026-08-08 00:05:24.842|info|main.cpp:76|wWinMain|程序启动
+	版本: v0.12.1
+	OS 版本: 10.0.19045
+	管理员: 是
+2026-08-08 00:05:24.855|info|App.cpp:118|Initialize|已经有一个实例正在运行
+2026-08-08 00:05:25.674|info|main.cpp:76|wWinMain|程序启动
+	版本: v0.12.1
+	OS 版本: 10.0.19045
+	管理员: 是
+2026-08-08 00:05:25.686|info|App.cpp:118|Initialize|已经有一个实例正在运行
+本文件: effects\RAVU\RAVU_Lite_R2.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_R3.hlsl
+2026-08-08 00:05:22.606|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_R4.hlsl
+2026-08-08 00:05:22.607|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R2.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R2_RGB.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R3.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R3_RGB.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R4.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R4_RGB.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_AR_R2.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_AR_R2_RGB.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_AR_R3.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_AR_R3_RGB.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_R2.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_R2_RGB.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_R3.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_R3_RGB.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Sharpen\AdaptiveSharpen.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Sharpen\FineSharp.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Sharpen\LCAS.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Sharpen\LumaSharpen.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SMAA\SMAA_High.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SMAA\SMAA_Low.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SMAA\SMAA_Ultra.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SMAA\SMAA_Medium.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SSimDownscaler.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_2x.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_3x.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_4x.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_5x.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_6x.hlsl
+2026-08-08 00:05:22.608|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_Freescale.hlsl
+2026-08-08 00:05:22.657|info|AppSettings.cpp:213|Initialize|便携模式: 是
+2026-08-08 00:05:22.657|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: H:\火影开发项目\Nya-2.1.1-本地一键端-集成微端版本\NyaMicroClient\publish\Runtime\Magpie\config\config.json
+2026-08-08 00:06:11.297|info|Win32Helper.cpp:372|WriteTextFile|写入文本文件: H:\火影开发项目\Nya-2.1.1-本地一键端-集成微端版本\NyaMicroClient\publish\Runtime\Magpie\config\config.json
+2026-08-08 00:11:11.104|info|main.cpp:76|wWinMain|程序启动
+	版本: v0.12.1
+	OS 版本: 10.0.19045
+	管理员: 是
+2026-08-08 00:11:11.117|info|App.cpp:118|Initialize|已经有一个实例正在运行
+2026-08-08 00:11:11.923|info|main.cpp:76|wWinMain|程序启动
+	版本: v0.12.1
+	OS 版本: 10.0.19045
+	管理员: 是
+2026-08-08 00:11:11.935|info|App.cpp:118|Initialize|已经有一个实例正在运行
+2026-08-08 00:11:23.796|info|Win32Helper.cpp:372|WriteTextFile|写入文本文件: H:\火影开发项目\Nya-2.1.1-本地一键端-集成微端版本\NyaMicroClient\publish\Runtime\Magpie\config\config.json
+2026-08-08 00:11:30.440|info|Win32Helper.cpp:372|WriteTextFile|写入文本文件: H:\火影开发项目\Nya-2.1.1-本地一键端-集成微端版本\NyaMicroClient\publish\Runtime\Magpie\config\config.json
+2026-08-08 00:11:36.478|info|Win32Helper.cpp:372|WriteTextFile|写入文本文件: H:\火影开发项目\Nya-2.1.1-本地一键端-集成微端版本\NyaMicroClient\publish\Runtime\Magpie\config\config.json
+2026-08-08 00:14:57.451|info|Win32Helper.cpp:372|WriteTextFile|写入文本文件: H:\火影开发项目\Nya-2.1.1-本地一键端-集成微端版本\NyaMicroClient\publish\Runtime\Magpie\config\config.json
+2026-08-08 00:17:55.190|info|App.cpp:221|Run|程序退出
+2026-08-08 00:22:05.069|info|main.cpp:76|wWinMain|程序启动
+	版本: v0.12.1
+	OS 版本: 10.0.19045
+	管理员: 是
+2026-08-08 00:22:05.089|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\ACNet.hlsl
+2026-08-08 00:22:05.089|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_3D_AA_Upscale_US.hlsl
+2026-08-08 00:22:05.089|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_3D_Upscale_US.hlsl
+2026-08-08 00:22:05.090|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Denoise_Bilateral_Mean.hlsl
+2026-08-08 00:22:05.090|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Denoise_Bilateral_Median.hlsl
+2026-08-08 00:22:05.090|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Denoise_Bilateral_Mode.hlsl
+2026-08-08 00:22:05.090|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_L.hlsl
+2026-08-08 00:22:05.090|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_M.hlsl
+2026-08-08 00:22:05.090|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_S.hlsl
+2026-08-08 00:22:05.090|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_L.hlsl
+2026-08-08 00:22:05.090|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_M.hlsl
+2026-08-08 00:22:05.090|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_S.hlsl
+2026-08-08 00:22:05.090|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_UL.hlsl
+2026-08-08 00:22:05.090|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_VL.hlsl
+2026-08-08 00:22:05.090|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_UL.hlsl
+2026-08-08 00:22:05.090|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_VL.hlsl
+2026-08-08 00:22:05.090|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Thin_HQ.hlsl
+2026-08-08 00:22:05.090|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_Denoise_L.hlsl
+2026-08-08 00:22:05.090|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_Denoise_S.hlsl
+2026-08-08 00:22:05.090|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_Denoise_UL.hlsl
+2026-08-08 00:22:05.090|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_Denoise_VL.hlsl
+2026-08-08 00:22:05.090|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_GAN_x2_M.hlsl
+2026-08-08 00:22:05.090|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_GAN_x2_S.hlsl
+2026-08-08 00:22:05.090|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_GAN_x3_L.hlsl
+2026-08-08 00:22:05.090|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_L.hlsl
+2026-08-08 00:22:05.090|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_S.hlsl
+2026-08-08 00:22:05.090|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_UL.hlsl
+2026-08-08 00:22:05.091|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_VL.hlsl
+2026-08-08 00:22:05.091|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Bicubic.hlsl
+2026-08-08 00:22:05.091|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Bilinear.hlsl
+2026-08-08 00:22:05.091|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CAS\CAS.hlsl
+2026-08-08 00:22:05.091|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CAS\CAS_Scaling.hlsl
+2026-08-08 00:22:05.091|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\CRT_Easymode.hlsl
+2026-08-08 00:22:05.091|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\CRT_Hyllian.hlsl
+2026-08-08 00:22:05.091|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\CRT_Lottes.hlsl
+2026-08-08 00:22:05.091|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\GTU_v050.hlsl
+2026-08-08 00:22:05.091|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\CRT_Geom.hlsl
+2026-08-08 00:22:05.091|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-16x16C-NVL-DN.hlsl
+2026-08-08 00:22:05.091|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-16x16C-NVL.hlsl
+2026-08-08 00:22:05.091|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-2x4C-NVL-DN.hlsl
+2026-08-08 00:22:05.091|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-2x4C-NVL.hlsl
+2026-08-08 00:22:05.091|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-3x4C-NVL-DN.hlsl
+2026-08-08 00:22:05.091|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-3x4C-NVL.hlsl
+2026-08-08 00:22:05.091|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x16C-NVL-DN.hlsl
+2026-08-08 00:22:05.091|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x16C-NVL.hlsl
+2026-08-08 00:22:05.091|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x4C-NVL-DN.hlsl
+2026-08-08 00:22:05.091|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x4C-NVL.hlsl
+2026-08-08 00:22:05.091|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x8C-NVL-DN.hlsl
+2026-08-08 00:22:05.091|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x8C-NVL.hlsl
+2026-08-08 00:22:05.091|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-6x8C-NVL-DN.hlsl
+2026-08-08 00:22:05.091|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-6x8C-NVL.hlsl
+2026-08-08 00:22:05.091|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x16C-NVL-DN.hlsl
+2026-08-08 00:22:05.092|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x16C-NVL.hlsl
+2026-08-08 00:22:05.092|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x4C-NVL-DN.hlsl
+2026-08-08 00:22:05.092|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x4C-NVL.hlsl
+2026-08-08 00:22:05.092|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x8C-NVL-DN.hlsl
+2026-08-08 00:22:05.092|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x8C-NVL.hlsl
+2026-08-08 00:22:05.092|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-3x12-NVL.hlsl
+2026-08-08 00:22:05.092|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-4x12-NVL.hlsl
+2026-08-08 00:22:05.092|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-4x16-NVL.hlsl
+2026-08-08 00:22:05.092|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-4x24-NVL.hlsl
+2026-08-08 00:22:05.092|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-4x32-NVL.hlsl
+2026-08-08 00:22:05.092|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-8x32-NVL.hlsl
+2026-08-08 00:22:05.092|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-fast-NVL.hlsl
+2026-08-08 00:22:05.092|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-faster-NVL.hlsl
+2026-08-08 00:22:05.092|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-veryfast-NVL.hlsl
+2026-08-08 00:22:05.093|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Deband.hlsl
+2026-08-08 00:22:05.093|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSR\FSR_EASU.hlsl
+2026-08-08 00:22:05.093|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSR\FSR_RCAS.hlsl
+2026-08-08 00:22:05.093|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSRCNNX\FSRCNNX.hlsl
+2026-08-08 00:22:05.093|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSRCNNX\FSRCNNX_LineArt.hlsl
+2026-08-08 00:22:05.093|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FXAA\FXAA_High.hlsl
+2026-08-08 00:22:05.093|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FXAA\FXAA_Medium.hlsl
+2026-08-08 00:22:05.093|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FXAA\FXAA_Ultra.hlsl
+2026-08-08 00:22:05.093|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\ImageAdjustment.hlsl
+2026-08-08 00:22:05.093|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Jinc.hlsl
+2026-08-08 00:22:05.093|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Lanczos.hlsl
+2026-08-08 00:22:05.093|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Nearest.hlsl
+2026-08-08 00:22:05.093|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NIS\NIS.hlsl
+2026-08-08 00:22:05.093|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NIS\NVSharpen.hlsl
+2026-08-08 00:22:05.093|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns128_win8x4.hlsl
+2026-08-08 00:22:05.093|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns128_win8x6.hlsl
+2026-08-08 00:22:05.093|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns16_win8x4.hlsl
+2026-08-08 00:22:05.093|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns16_win8x6.hlsl
+2026-08-08 00:22:05.093|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns256_win8x4.hlsl
+2026-08-08 00:22:05.093|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns256_win8x6.hlsl
+2026-08-08 00:22:05.093|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns32_win8x4.hlsl
+2026-08-08 00:22:05.093|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns32_win8x6.hlsl
+2026-08-08 00:22:05.094|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns64_win8x4.hlsl
+2026-08-08 00:22:05.094|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns64_win8x6.hlsl
+2026-08-08 00:22:05.094|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Pixel Art\MMPX.hlsl
+2026-08-08 00:22:05.094|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Pixel Art\Pixellate.hlsl
+2026-08-08 00:22:05.094|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Pixel Art\SharpBilinear.hlsl
+2026-08-08 00:22:05.094|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R2.hlsl
+2026-08-08 00:22:05.094|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R2_RGB.hlsl
+2026-08-08 00:22:05.094|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R3.hlsl
+2026-08-08 00:22:05.095|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R3_RGB.hlsl
+2026-08-08 00:22:05.095|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R4.hlsl
+2026-08-08 00:22:05.095|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R4_RGB.hlsl
+2026-08-08 00:22:05.095|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_AR_R2.hlsl
+2026-08-08 00:22:05.095|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_AR_R3.hlsl
+2026-08-08 00:22:05.095|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_AR_R4.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_R2.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_R3.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_R4.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R2.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R2_RGB.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R3.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R3_RGB.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R4.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R4_RGB.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_AR_R2.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_AR_R2_RGB.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_AR_R3.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_AR_R3_RGB.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_R2.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_R2_RGB.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_R3.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Sharpen\AdaptiveSharpen.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_R3_RGB.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Sharpen\FineSharp.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Sharpen\LCAS.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Sharpen\LumaSharpen.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SMAA\SMAA_High.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SMAA\SMAA_Low.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SMAA\SMAA_Medium.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SMAA\SMAA_Ultra.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SSimDownscaler.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_2x.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_3x.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_4x.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_5x.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_6x.hlsl
+2026-08-08 00:22:05.096|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_Freescale.hlsl
+2026-08-08 00:22:05.142|info|AppSettings.cpp:213|Initialize|便携模式: 是
+2026-08-08 00:22:05.142|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: H:\火影开发项目\Nya-2.1.1-本地一键端-集成微端版本\NyaMicroClient\publish\Runtime\Magpie\config\config.json
+2026-08-08 00:22:05.360|info|ShortcutService.cpp:79|_WndProc|热键 Scale 激活（Hotkey）
+2026-08-08 00:22:05.372|info|ScalingOptions.cpp:40|Log|缩放选项
+	IsWindowedMode: false
+	IsDebugMode: false
+	IsBenchmarkMode: false
+	IsFP16Disabled: false
+	IsEffectCacheDisabled: false
+	IsFontCacheDisabled: false
+	IsSaveEffectSources: false
+	IsWarningsAreErrors: false
+	IsStatisticsForDynamicDetectionEnabled: false
+	IsInlineParams: false
+	IsTouchSupportEnabled: false
+	IsAllowScalingMaximized: false
+	IsSimulateExclusiveFullscreen: false
+	Is3DGameMode: false
+	IsCaptureTitleBar: false
+	IsAdjustCursorSpeed: true
+	IsDirectFlipDisabled: false
+	cropping: 0,0,0,0
+	graphicsCardId:
+		idx: -1
+		venderId: 0
+		deviceId: 0
+	minFrameRate: 10
+	maxFrameRate: 60
+	cursorScaling: 1
+	captureMethod: 0
+	multiMonitorUsage: 0
+	cursorInterpolationMode: 0
+	duplicateFrameDetectionMode: 1
+	fullscreenInitialToolbarState: 0
+	windowedInitialToolbarState: 0
+	screenshotsDir: C:\Users\Administrator\Pictures\Screenshots
+	effects: 
+		FSR\FSR_EASU
+			scalingType: 1
+			scale: 1,1
+			parameters: 无
+		FSR\FSR_RCAS
+			scalingType: 0
+			scale: 1,1
+			parameters: 
+				sharpness: 0.85
+2026-08-08 00:22:05.372|info|ScalingWindow.cpp:54|_StartImpl|缩放开始
+	程序版本: v0.12.1
+	OS 版本: 10.0.19045
+	管理员: 是
+2026-08-08 00:22:05.378|info|ScalingWindow.cpp:40|LogRects|源矩形: 504,296,1516,928 (1012x632)
+2026-08-08 00:22:05.378|info|ScalingWindow.cpp:44|LogRects|渲染矩形: 0,0,2560,1600 (2560x1600)
+2026-08-08 00:22:05.378|info|ScalingWindow.cpp:48|LogRects|缩放窗口矩形: 0,0,2560,1600 (2560x1600)
+2026-08-08 00:22:05.378|info|DeviceResources.cpp:32|Initialize|可变刷新率支持: 是
+2026-08-08 00:22:05.379|info|DeviceResources.cpp:32|Initialize|可变刷新率支持: 是
+2026-08-08 00:22:05.393|info|DeviceResources.cpp:220|_TryCreateD3DDevice|已创建 D3D 设备
+	功能级别: 11.1
+2026-08-08 00:22:05.393|info|DeviceResources.cpp:245|_TryCreateD3DDevice|FP16 支持: 是
+2026-08-08 00:22:05.393|info|Renderer.cpp:61|LogAdapter|当前图形适配器: 
+	VendorId: 0x8086
+	DeviceId: 0xa788
+	Description: Intel(R) UHD Graphics
+2026-08-08 00:22:05.406|info|DeviceResources.cpp:220|_TryCreateD3DDevice|已创建 D3D 设备
+	功能级别: 11.1
+2026-08-08 00:22:05.406|info|DeviceResources.cpp:245|_TryCreateD3DDevice|FP16 支持: 是
+2026-08-08 00:22:05.406|info|Renderer.cpp:415|_InitFrameSource|当前捕获模式: Graphics Capture
+2026-08-08 00:22:05.500|info|GraphicsCaptureFrameSource.cpp:73|_Initialize|GraphicsCaptureFrameSource 初始化完成
+2026-08-08 00:22:05.500|info|Renderer.cpp:426|_InitFrameSource|捕获尺寸: 1012x632
+2026-08-08 00:22:05.500|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSR\FSR_EASU.hlsl
+2026-08-08 00:22:05.500|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSR\FSR_RCAS.hlsl
+2026-08-08 00:22:05.544|info|Win32Helper.cpp:326|WriteFile|写入文件: cache\FSR#FSR_RCAS_0000_144a205358c53429
+2026-08-08 00:22:05.544|info|EffectCacheManager.cpp:305|Save|已保存缓存 cache\FSR#FSR_RCAS_0000_144a205358c53429
+2026-08-08 00:22:05.544|info|Renderer.cpp:463|CompileEffect|编译 FSR\FSR_RCAS.hlsl 用时 44.645 毫秒
+2026-08-08 00:22:05.693|info|Win32Helper.cpp:326|WriteFile|写入文件: cache\FSR#FSR_EASU_0000_6110c4251b164378
+2026-08-08 00:22:05.695|info|EffectCacheManager.cpp:305|Save|已保存缓存 cache\FSR#FSR_EASU_0000_6110c4251b164378
+2026-08-08 00:22:05.695|info|Renderer.cpp:463|CompileEffect|编译 FSR\FSR_EASU.hlsl 用时 195.115 毫秒
+2026-08-08 00:22:05.695|info|Renderer.cpp:504|_BuildEffects|编译着色器总计用时 195.12701 毫秒
+2026-08-08 00:22:05.702|info|Renderer.cpp:122|Initialize|目标矩形: 0,0,2560,1599 (2560x1599)
+2026-08-08 00:22:05.704|info|Win32Helper.cpp:299|ReadFile|读取文件: C:\Windows\Fonts\segoeui.ttf
+2026-08-08 00:22:05.749|info|Win32Helper.cpp:326|WriteFile|写入文件: cache\fonts_zh-hans_144
+2026-08-08 00:23:02.820|info|ShortcutService.cpp:79|_WndProc|热键 Scale 激活（Hotkey）
+2026-08-08 00:23:02.821|info|ScalingWindow.cpp:855|_MessageHandler|缩放结束
+2026-08-08 00:23:02.832|info|ScalingWindow.cpp:870|_MessageHandler|CursorManager 已析构
+2026-08-08 00:23:02.911|info|ScalingWindow.cpp:873|_MessageHandler|Renderer 已析构
+2026-08-08 00:23:02.912|info|Win32Helper.cpp:372|WriteTextFile|写入文本文件: H:\火影开发项目\Nya-2.1.1-本地一键端-集成微端版本\NyaMicroClient\publish\Runtime\Magpie\config\config.json
+2026-08-08 00:23:46.568|info|App.cpp:221|Run|程序退出
+2026-08-08 00:31:59.115|info|main.cpp:76|wWinMain|程序启动
+	版本: v0.12.1
+	OS 版本: 10.0.19045
+	管理员: 是
+2026-08-08 00:31:59.133|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\ACNet.hlsl
+2026-08-08 00:31:59.133|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_3D_AA_Upscale_US.hlsl
+2026-08-08 00:31:59.133|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_3D_Upscale_US.hlsl
+2026-08-08 00:31:59.133|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Denoise_Bilateral_Mean.hlsl
+2026-08-08 00:31:59.133|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Denoise_Bilateral_Median.hlsl
+2026-08-08 00:31:59.133|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Denoise_Bilateral_Mode.hlsl
+2026-08-08 00:31:59.134|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_L.hlsl
+2026-08-08 00:31:59.134|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_M.hlsl
+2026-08-08 00:31:59.134|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_S.hlsl
+2026-08-08 00:31:59.134|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_L.hlsl
+2026-08-08 00:31:59.134|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_M.hlsl
+2026-08-08 00:31:59.134|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_S.hlsl
+2026-08-08 00:31:59.134|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_UL.hlsl
+2026-08-08 00:31:59.134|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_VL.hlsl
+2026-08-08 00:31:59.134|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_UL.hlsl
+2026-08-08 00:31:59.134|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_VL.hlsl
+2026-08-08 00:31:59.134|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Thin_HQ.hlsl
+2026-08-08 00:31:59.134|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_Denoise_L.hlsl
+2026-08-08 00:31:59.134|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_Denoise_S.hlsl
+2026-08-08 00:31:59.134|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_Denoise_UL.hlsl
+2026-08-08 00:31:59.134|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_Denoise_VL.hlsl
+2026-08-08 00:31:59.134|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_GAN_x2_M.hlsl
+2026-08-08 00:31:59.134|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_GAN_x2_S.hlsl
+2026-08-08 00:31:59.134|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_GAN_x3_L.hlsl
+2026-08-08 00:31:59.135|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_L.hlsl
+2026-08-08 00:31:59.135|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_S.hlsl
+2026-08-08 00:31:59.135|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_UL.hlsl
+2026-08-08 00:31:59.135|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_VL.hlsl
+2026-08-08 00:31:59.135|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Bicubic.hlsl
+2026-08-08 00:31:59.135|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Bilinear.hlsl
+2026-08-08 00:31:59.135|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CAS\CAS.hlsl
+2026-08-08 00:31:59.135|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CAS\CAS_Scaling.hlsl
+2026-08-08 00:31:59.135|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\CRT_Easymode.hlsl
+2026-08-08 00:31:59.135|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\CRT_Lottes.hlsl
+2026-08-08 00:31:59.135|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\CRT_Hyllian.hlsl
+2026-08-08 00:31:59.135|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\CRT_Geom.hlsl
+2026-08-08 00:31:59.135|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\GTU_v050.hlsl
+2026-08-08 00:31:59.135|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-16x16C-NVL-DN.hlsl
+2026-08-08 00:31:59.135|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-16x16C-NVL.hlsl
+2026-08-08 00:31:59.135|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-2x4C-NVL-DN.hlsl
+2026-08-08 00:31:59.135|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-2x4C-NVL.hlsl
+2026-08-08 00:31:59.135|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-3x4C-NVL-DN.hlsl
+2026-08-08 00:31:59.135|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-3x4C-NVL.hlsl
+2026-08-08 00:31:59.135|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x16C-NVL-DN.hlsl
+2026-08-08 00:31:59.136|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x16C-NVL.hlsl
+2026-08-08 00:31:59.136|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x4C-NVL-DN.hlsl
+2026-08-08 00:31:59.136|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x4C-NVL.hlsl
+2026-08-08 00:31:59.136|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x8C-NVL-DN.hlsl
+2026-08-08 00:31:59.136|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x8C-NVL.hlsl
+2026-08-08 00:31:59.136|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-6x8C-NVL-DN.hlsl
+2026-08-08 00:31:59.136|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-6x8C-NVL.hlsl
+2026-08-08 00:31:59.136|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x16C-NVL-DN.hlsl
+2026-08-08 00:31:59.136|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x16C-NVL.hlsl
+2026-08-08 00:31:59.136|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x4C-NVL-DN.hlsl
+2026-08-08 00:31:59.136|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x4C-NVL.hlsl
+2026-08-08 00:31:59.136|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x8C-NVL-DN.hlsl
+2026-08-08 00:31:59.136|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x8C-NVL.hlsl
+2026-08-08 00:31:59.136|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-3x12-NVL.hlsl
+2026-08-08 00:31:59.136|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-4x12-NVL.hlsl
+2026-08-08 00:31:59.136|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-4x16-NVL.hlsl
+2026-08-08 00:31:59.136|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-4x24-NVL.hlsl
+2026-08-08 00:31:59.136|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-4x32-NVL.hlsl
+2026-08-08 00:31:59.136|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-fast-NVL.hlsl
+2026-08-08 00:31:59.136|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-8x32-NVL.hlsl
+2026-08-08 00:31:59.136|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-faster-NVL.hlsl
+2026-08-08 00:31:59.136|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-veryfast-NVL.hlsl
+2026-08-08 00:31:59.137|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Deband.hlsl
+2026-08-08 00:31:59.137|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSR\FSR_EASU.hlsl
+2026-08-08 00:31:59.137|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSR\FSR_RCAS.hlsl
+2026-08-08 00:31:59.137|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSRCNNX\FSRCNNX.hlsl
+2026-08-08 00:31:59.137|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSRCNNX\FSRCNNX_LineArt.hlsl
+2026-08-08 00:31:59.137|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FXAA\FXAA_High.hlsl
+2026-08-08 00:31:59.137|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FXAA\FXAA_Medium.hlsl
+2026-08-08 00:31:59.137|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FXAA\FXAA_Ultra.hlsl
+2026-08-08 00:31:59.138|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\ImageAdjustment.hlsl
+2026-08-08 00:31:59.138|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Jinc.hlsl
+2026-08-08 00:31:59.138|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Lanczos.hlsl
+2026-08-08 00:31:59.138|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Nearest.hlsl
+2026-08-08 00:31:59.138|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NIS\NIS.hlsl
+2026-08-08 00:31:59.138|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NIS\NVSharpen.hlsl
+2026-08-08 00:31:59.138|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns128_win8x4.hlsl
+2026-08-08 00:31:59.138|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns128_win8x6.hlsl
+2026-08-08 00:31:59.138|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns16_win8x6.hlsl
+2026-08-08 00:31:59.138|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns16_win8x4.hlsl
+2026-08-08 00:31:59.138|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns256_win8x4.hlsl
+2026-08-08 00:31:59.138|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns256_win8x6.hlsl
+2026-08-08 00:31:59.138|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns32_win8x4.hlsl
+2026-08-08 00:31:59.139|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns32_win8x6.hlsl
+2026-08-08 00:31:59.139|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns64_win8x6.hlsl
+2026-08-08 00:31:59.139|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Pixel Art\MMPX.hlsl
+2026-08-08 00:31:59.139|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Pixel Art\Pixellate.hlsl
+2026-08-08 00:31:59.139|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Pixel Art\SharpBilinear.hlsl
+2026-08-08 00:31:59.139|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R2.hlsl
+2026-08-08 00:31:59.139|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R2_RGB.hlsl
+2026-08-08 00:31:59.139|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R3.hlsl
+2026-08-08 00:31:59.139|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R3_RGB.hlsl
+2026-08-08 00:31:59.139|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R4.hlsl
+2026-08-08 00:31:59.139|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R4_RGB.hlsl
+2026-08-08 00:31:59.139|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_AR_R2.hlsl
+2026-08-08 00:31:59.139|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns64_win8x4.hlsl
+2026-08-08 00:31:59.139|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_AR_R3.hlsl
+2026-08-08 00:31:59.139|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_AR_R4.hlsl
+2026-08-08 00:31:59.139|info|Win32Helper.cpp:350|ReadTextFile|读取文2026-08-08 00:32:01.296|info|main.cpp:76|wWinMain|程序启动
+	版本: v0.12.1
+	OS 版本: 10.0.19045
+	管理员: 是
+2026-08-08 00:32:01.311|info|App.cpp:118|Initialize|已经有一个实例正在运行
+2026-08-08 00:32:02.120|info|main.cpp:76|wWinMain|程序启动
+	版本: v0.12.1
+	OS 版本: 10.0.19045
+	管理员: 是
+2026-08-08 00:32:02.131|info|App.cpp:118|Initialize|已经有一个实例正在运行
+本文件: effects\RAVU\RAVU_Lite_R2.hlsl
+2026-08-08 00:31:59.139|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_R3.hlsl
+2026-08-08 00:31:59.139|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_R4.hlsl
+2026-08-08 00:31:59.139|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R2.hlsl
+2026-08-08 00:31:59.139|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R2_RGB.hlsl
+2026-08-08 00:31:59.139|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R3.hlsl
+2026-08-08 00:31:59.139|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R3_RGB.hlsl
+2026-08-08 00:31:59.139|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R4.hlsl
+2026-08-08 00:31:59.139|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R4_RGB.hlsl
+2026-08-08 00:31:59.139|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_AR_R2.hlsl
+2026-08-08 00:31:59.139|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_AR_R2_RGB.hlsl
+2026-08-08 00:31:59.139|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_AR_R3.hlsl
+2026-08-08 00:31:59.140|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_AR_R3_RGB.hlsl
+2026-08-08 00:31:59.140|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_R2.hlsl
+2026-08-08 00:31:59.140|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_R2_RGB.hlsl
+2026-08-08 00:31:59.140|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_R3.hlsl
+2026-08-08 00:31:59.140|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_R3_RGB.hlsl
+2026-08-08 00:31:59.140|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Sharpen\AdaptiveSharpen.hlsl
+2026-08-08 00:31:59.140|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Sharpen\LCAS.hlsl
+2026-08-08 00:31:59.140|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Sharpen\LumaSharpen.hlsl
+2026-08-08 00:31:59.140|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Sharpen\FineSharp.hlsl
+2026-08-08 00:31:59.140|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SMAA\SMAA_High.hlsl
+2026-08-08 00:31:59.140|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SMAA\SMAA_Low.hlsl
+2026-08-08 00:31:59.140|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SMAA\SMAA_Medium.hlsl
+2026-08-08 00:31:59.140|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SMAA\SMAA_Ultra.hlsl
+2026-08-08 00:31:59.140|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SSimDownscaler.hlsl
+2026-08-08 00:31:59.140|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_2x.hlsl
+2026-08-08 00:31:59.140|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_3x.hlsl
+2026-08-08 00:31:59.140|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_4x.hlsl
+2026-08-08 00:31:59.140|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_5x.hlsl
+2026-08-08 00:31:59.140|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_6x.hlsl
+2026-08-08 00:31:59.140|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_Freescale.hlsl
+2026-08-08 00:31:59.189|info|AppSettings.cpp:213|Initialize|便携模式: 是
+2026-08-08 00:31:59.189|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: H:\火影开发项目\Nya-2.1.1-本地一键端-集成微端版本\NyaMicroClient\publish\Runtime\Magpie\config\config.json
+2026-08-08 00:32:08.493|info|Win32Helper.cpp:372|WriteTextFile|写入文本文件: H:\火影开发项目\Nya-2.1.1-本地一键端-集成微端版本\NyaMicroClient\publish\Runtime\Magpie\config\config.json
+2026-08-08 00:33:19.217|info|ShortcutService.cpp:79|_WndProc|热键 WindowedModeScale 激活（Hotkey）
+2026-08-08 00:33:19.218|info|ScalingOptions.cpp:40|Log|缩放选项
+	IsWindowedMode: true
+	IsDebugMode: false
+	IsBenchmarkMode: false
+	IsFP16Disabled: false
+	IsEffectCacheDisabled: false
+	IsFontCacheDisabled: false
+	IsSaveEffectSources: false
+	IsWarningsAreErrors: false
+	IsStatisticsForDynamicDetectionEnabled: false
+	IsInlineParams: false
+	IsTouchSupportEnabled: false
+	IsAllowScalingMaximized: false
+	IsSimulateExclusiveFullscreen: false
+	Is3DGameMode: false
+	IsCaptureTitleBar: false
+	IsAdjustCursorSpeed: true
+	IsDirectFlipDisabled: false
+	cropping: 0,0,0,0
+	graphicsCardId:
+		idx: -1
+		venderId: 0
+		deviceId: 0
+	minFrameRate: 10
+	maxFrameRate: 60
+	cursorScaling: 1
+	captureMethod: 0
+	multiMonitorUsage: 0
+	cursorInterpolationMode: 0
+	duplicateFrameDetectionMode: 1
+	fullscreenInitialToolbarState: 0
+	windowedInitialToolbarState: 0
+	screenshotsDir: C:\Users\Administrator\Pictures\Screenshots
+	effects: 
+		FSR\FSR_EASU
+			scalingType: 1
+			scale: 1,1
+			parameters: 无
+		FSR\FSR_RCAS
+			scalingType: 0
+			scale: 1,1
+			parameters: 
+				sharpness: 0.85
+2026-08-08 00:33:19.218|info|ScalingWindow.cpp:54|_StartImpl|缩放开始
+	程序版本: v0.12.1
+	OS 版本: 10.0.19045
+	管理员: 是
+2026-08-08 00:33:19.225|info|ScalingWindow.cpp:40|LogRects|源矩形: 504,296,2056,1292 (1552x996)
+2026-08-08 00:33:19.225|info|ScalingWindow.cpp:44|LogRects|渲染矩形: 246,108,2315,1436 (2069x1328)
+2026-08-08 00:33:19.225|info|ScalingWindow.cpp:48|LogRects|缩放窗口矩形: 235,107,2326,1447 (2091x1340)
+2026-08-08 00:33:19.226|info|DeviceResources.cpp:32|Initialize|可变刷新率支持: 是
+2026-08-08 00:33:19.226|info|DeviceResources.cpp:32|Initialize|可变刷新率支持: 是
+2026-08-08 00:33:19.241|info|DeviceResources.cpp:220|_TryCreateD3DDevice|已创建 D3D 设备
+	功能级别: 11.1
+2026-08-08 00:33:19.241|info|DeviceResources.cpp:245|_TryCreateD3DDevice|FP16 支持: 是
+2026-08-08 00:33:19.241|info|Renderer.cpp:61|LogAdapter|当前图形适配器: 
+	VendorId: 0x8086
+	DeviceId: 0xa788
+	Description: Intel(R) UHD Graphics
+2026-08-08 00:33:19.253|info|DeviceResources.cpp:220|_TryCreateD3DDevice|已创建 D3D 设备
+	功能级别: 11.1
+2026-08-08 00:33:19.253|info|DeviceResources.cpp:245|_TryCreateD3DDevice|FP16 支持: 是
+2026-08-08 00:33:19.253|info|Renderer.cpp:415|_InitFrameSource|当前捕获模式: Graphics Capture
+2026-08-08 00:33:19.316|info|GraphicsCaptureFrameSource.cpp:73|_Initialize|GraphicsCaptureFrameSource 初始化完成
+2026-08-08 00:33:19.316|info|Renderer.cpp:426|_InitFrameSource|捕获尺寸: 1552x996
+2026-08-08 00:33:19.316|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSR\FSR_EASU.hlsl
+2026-08-08 00:33:19.316|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSR\FSR_RCAS.hlsl
+2026-08-08 00:33:19.317|info|Win32Helper.cpp:299|ReadFile|读取文件: cache\FSR#FSR_EASU_0000_6110c4251b164378
+2026-08-08 00:33:19.317|info|Win32Helper.cpp:299|ReadFile|读取文件: cache\FSR#FSR_RCAS_0000_144a205358c53429
+2026-08-08 00:33:19.318|info|EffectCacheManager.cpp:203|Load|已读取缓存 cache\FSR#FSR_RCAS_0000_144a205358c53429
+2026-08-08 00:33:19.318|info|Renderer.cpp:463|CompileEffect|编译 FSR\FSR_RCAS.hlsl 用时 1.156 毫秒
+2026-08-08 00:33:19.318|info|EffectCacheManager.cpp:203|Load|已读取缓存 cache\FSR#FSR_EASU_0000_6110c4251b164378
+2026-08-08 00:33:19.318|info|Renderer.cpp:463|CompileEffect|编译 FSR\FSR_EASU.hlsl 用时 1.202 毫秒
+2026-08-08 00:33:19.318|info|Renderer.cpp:504|_BuildEffects|编译着色器总计用时 1.21 毫秒
+2026-08-08 00:33:19.326|info|Renderer.cpp:122|Initialize|目标矩形: 246,108,2315,1436 (2069x1328)
+2026-08-08 00:33:19.328|info|Win32Helper.cpp:299|ReadFile|读取文件: cache\fonts_zh-hans_144
+2026-08-08 00:33:38.109|info|ShortcutService.cpp:79|_WndProc|热键 WindowedModeScale 激活（Hotkey）
+2026-08-08 00:33:38.112|info|ScalingWindow.cpp:855|_MessageHandler|缩放结束
+2026-08-08 00:33:38.121|info|ScalingWindow.cpp:870|_MessageHandler|CursorManager 已析构
+2026-08-08 00:33:38.150|info|ScalingWindow.cpp:873|_MessageHandler|Renderer 已析构
+2026-08-08 00:33:38.150|info|Win32Helper.cpp:372|WriteTextFile|写入文本文件: H:\火影开发项目\Nya-2.1.1-本地一键端-集成微端版本\NyaMicroClient\publish\Runtime\Magpie\config\config.json
+2026-08-08 00:33:39.885|info|App.cpp:221|Run|程序退出
+2026-08-08 00:34:31.399|info|main.cpp:76|wWinMain|程序启动
+	版本: v0.12.1
+	OS 版本: 10.0.19045
+	管理员: 是
+2026-08-08 00:34:31.420|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\ACNet.hlsl
+2026-08-08 00:34:31.420|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_3D_AA_Upscale_US.hlsl
+2026-08-08 00:34:31.420|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_3D_Upscale_US.hlsl
+2026-08-08 00:34:31.421|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Denoise_Bilateral_Mean.hlsl
+2026-08-08 00:34:31.421|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Denoise_Bilateral_Mode.hlsl
+2026-08-08 00:34:31.421|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Denoise_Bilateral_Median.hlsl
+2026-08-08 00:34:31.421|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_L.hlsl
+2026-08-08 00:34:31.421|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_M.hlsl
+2026-08-08 00:34:31.421|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_S.hlsl
+2026-08-08 00:34:31.421|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_L.hlsl
+2026-08-08 00:34:31.421|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_M.hlsl
+2026-08-08 00:34:31.421|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_S.hlsl
+2026-08-08 00:34:31.421|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_UL.hlsl
+2026-08-08 00:34:31.421|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_VL.hlsl
+2026-08-08 00:34:31.421|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_UL.hlsl
+2026-08-08 00:34:31.421|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_VL.hlsl
+2026-08-08 00:34:31.421|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Thin_HQ.hlsl
+2026-08-08 00:34:31.421|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_Denoise_L.hlsl
+2026-08-08 00:34:31.421|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_Denoise_S.hlsl
+2026-08-08 00:34:31.421|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_Denoise_UL.hlsl
+2026-08-08 00:34:31.421|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_Denoise_VL.hlsl
+2026-08-08 00:34:31.421|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_GAN_x2_M.hlsl
+2026-08-08 00:34:31.421|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_GAN_x2_S.hlsl
+2026-08-08 00:34:31.421|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_GAN_x3_L.hlsl
+2026-08-08 00:34:31.421|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_L.hlsl
+2026-08-08 00:34:31.422|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_S.hlsl
+2026-08-08 00:34:31.422|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_UL.hlsl
+2026-08-08 00:34:31.422|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_VL.hlsl
+2026-08-08 00:34:31.422|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Bicubic.hlsl
+2026-08-08 00:34:31.422|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Bilinear.hlsl
+2026-08-08 00:34:31.422|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CAS\CAS.hlsl
+2026-08-08 00:34:31.422|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CAS\CAS_Scaling.hlsl
+2026-08-08 00:34:31.422|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\CRT_Easymode.hlsl
+2026-08-08 00:34:31.422|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\CRT_Geom.hlsl
+2026-08-08 00:34:31.422|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\CRT_Hyllian.hlsl
+2026-08-08 00:34:31.422|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\CRT_Lottes.hlsl
+2026-08-08 00:34:31.422|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\GTU_v050.hlsl
+2026-08-08 00:34:31.422|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-16x16C-NVL-DN.hlsl
+2026-08-08 00:34:31.422|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-16x16C-NVL.hlsl
+2026-08-08 00:34:31.422|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-2x4C-NVL-DN.hlsl
+2026-08-08 00:34:31.422|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-2x4C-NVL.hlsl
+2026-08-08 00:34:31.422|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-3x4C-NVL-DN.hlsl
+2026-08-08 00:34:31.422|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-3x4C-NVL.hlsl
+2026-08-08 00:34:31.422|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x16C-NVL.hlsl
+2026-08-08 00:34:31.422|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x4C-NVL-DN.hlsl
+2026-08-08 00:34:31.422|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x16C-NVL-DN.hlsl
+2026-08-08 00:34:31.422|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x4C-NVL.hlsl
+2026-08-08 00:34:31.423|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x8C-NVL-DN.hlsl
+2026-08-08 00:34:31.423|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x8C-NVL.hlsl
+2026-08-08 00:34:31.423|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-6x8C-NVL-DN.hlsl
+2026-08-08 00:34:31.423|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-6x8C-NVL.hlsl
+2026-08-08 00:34:31.423|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x16C-NVL-DN.hlsl
+2026-08-08 00:34:31.423|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x16C-NVL.hlsl
+2026-08-08 00:34:31.423|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x4C-NVL-DN.hlsl
+2026-08-08 00:34:31.423|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x4C-NVL.hlsl
+2026-08-08 00:34:31.423|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x8C-NVL-DN.hlsl
+2026-08-08 00:34:31.423|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x8C-NVL.hlsl
+2026-08-08 00:34:31.423|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-3x12-NVL.hlsl
+2026-08-08 00:34:31.423|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-4x12-NVL.hlsl
+2026-08-08 00:34:31.423|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-4x16-NVL.hlsl
+2026-08-08 00:34:31.423|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-4x24-NVL.hlsl
+2026-08-08 00:34:31.424|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-4x32-NVL.hlsl
+2026-08-08 00:34:31.424|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-8x32-NVL.hlsl
+2026-08-08 00:34:31.424|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-fast-NVL.hlsl
+2026-08-08 00:34:31.424|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-faster-NVL.hlsl
+2026-08-08 00:34:31.424|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-veryfast-NVL.hlsl
+2026-08-08 00:34:31.424|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Deband.hlsl
+2026-08-08 00:34:31.424|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSR\FSR_EASU.hlsl
+2026-08-08 00:34:31.424|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSR\FSR_RCAS.hlsl
+2026-08-08 00:34:31.424|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSRCNNX\FSRCNNX.hlsl
+2026-08-08 00:34:31.424|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSRCNNX\FSRCNNX_LineArt.hlsl
+2026-08-08 00:34:31.424|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FXAA\FXAA_High.hlsl
+2026-08-08 00:34:31.424|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FXAA\FXAA_Medium.hlsl
+2026-08-08 00:34:31.424|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FXAA\FXAA_Ultra.hlsl
+2026-08-08 00:34:31.424|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\ImageAdjustment.hlsl
+2026-08-08 00:34:31.424|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Jinc.hlsl
+2026-08-08 00:34:31.424|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Lanczos.hlsl
+2026-08-08 00:34:31.424|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Nearest.hlsl
+2026-08-08 00:34:31.424|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NIS\NIS.hlsl
+2026-08-08 00:34:31.424|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NIS\NVSharpen.hlsl
+2026-08-08 00:34:31.424|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns128_win8x4.hlsl
+2026-08-08 00:34:31.424|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns128_win8x6.hlsl
+2026-08-08 00:34:31.424|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns16_win8x4.hlsl
+2026-08-08 00:34:31.425|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns16_win8x6.hlsl
+2026-08-08 00:34:31.425|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns256_win8x4.hlsl
+2026-08-08 00:34:31.425|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns256_win8x6.hlsl
+2026-08-08 00:34:31.425|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns32_win8x4.hlsl
+2026-08-08 00:34:31.425|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns32_win8x6.hlsl
+2026-08-08 00:34:31.425|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns64_win8x4.hlsl
+2026-08-08 00:34:31.425|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns64_win8x6.hlsl
+2026-08-08 00:34:31.425|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Pixel Art\MMPX.hlsl
+2026-08-08 00:34:31.425|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Pixel Art\Pixellate.hlsl
+2026-08-08 00:34:31.425|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Pixel Art\SharpBilinear.hlsl
+2026-08-08 00:34:31.425|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R2.hlsl
+2026-08-08 00:34:31.425|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R2_RGB.hlsl
+2026-08-08 00:34:31.425|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R3.hlsl
+2026-08-08 00:34:31.425|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R3_RGB.hlsl
+2026-08-08 00:34:31.425|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R4.hlsl
+2026-08-08 00:34:31.425|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R4_RGB.hlsl
+2026-08-08 00:34:31.426|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_AR_R2.hlsl
+2026-08-08 00:34:31.426|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_AR_R3.hlsl
+2026-08-08 00:34:31.426|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_AR_R4.hlsl
+2026-08-08 00:34:31.426|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_R2.hlsl
+2026-08-08 00:34:31.426|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_R3.hlsl
+2026-08-08 00:34:31.426|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_R4.hlsl
+2026-08-08 00:34:31.426|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R2.hlsl
+2026-08-08 00:34:31.426|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R2_RGB.hlsl
+2026-08-08 00:34:31.426|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R3.hlsl
+2026-08-08 00:34:31.426|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R3_RGB.hlsl
+2026-08-08 00:34:31.426|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R4.hlsl
+2026-08-08 00:34:31.426|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R4_RGB.hlsl
+2026-08-08 00:34:31.426|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_AR_R2.hlsl
+2026-08-08 00:34:31.426|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_AR_R2_RGB.hlsl
+2026-08-08 00:34:31.426|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_AR_R3.hlsl
+2026-08-08 00:34:31.426|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_AR_R3_RGB.hlsl
+2026-08-08 00:34:31.426|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_R2.hlsl
+2026-08-08 00:34:31.426|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_R2_RGB.hlsl
+2026-08-08 00:34:31.426|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_R3.hlsl
+2026-08-08 00:34:31.426|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_R3_RGB.hlsl
+2026-08-08 00:34:31.427|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Sharpen\AdaptiveSharpen.hlsl
+2026-08-08 00:34:31.427|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Sharpen\FineSharp.hlsl
+2026-08-08 00:34:31.427|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Sharpen\LCAS.hlsl
+2026-08-08 00:34:31.427|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Sharpen\LumaSharpen.hlsl
+2026-08-08 00:34:31.427|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SMAA\SMAA_High.hlsl
+2026-08-08 00:34:31.427|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SMAA\SMAA_Low.hlsl
+2026-08-08 00:34:31.427|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SMAA\SMAA_Medium.hlsl
+2026-08-08 00:34:31.427|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SMAA\SMAA_Ultra.hlsl
+2026-08-08 00:34:31.427|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SSimDownscaler.hlsl
+2026-08-08 00:34:31.427|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_2x.hlsl
+2026-08-08 00:34:31.427|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_3x.hlsl
+2026-08-08 00:34:31.427|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_4x.hlsl
+2026-08-08 00:34:31.427|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_5x.hlsl
+2026-08-08 00:34:31.427|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_6x.hlsl
+2026-08-08 00:34:31.427|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_Freescale.hlsl
+2026-08-08 00:34:31.476|info|AppSettings.cpp:213|Initialize|便携模式: 是
+2026-08-08 00:34:31.476|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: H:\火影开发项目\Nya-2.1.1-本地一键端-集成微端版本\NyaMicroClient\publish\Runtime\Magpie\config\config.json
+2026-08-08 00:34:33.816|info|ShortcutService.cpp:79|_WndProc|热键 WindowedModeScale 激活（Hotkey）
+2026-08-08 00:34:33.818|info|ScalingOptions.cpp:40|Log|缩放选项
+	IsWindowedMode: true
+	IsDebugMode: false
+	IsBenchmarkMode: false
+	IsFP16Disabled: false
+	IsEffectCacheDisabled: false
+	IsFontCacheDisabled: false
+	IsSaveEffectSources: false
+	IsWarningsAreErrors: false
+	IsStatisticsForDynamicDetectionEnabled: false
+	IsInlineParams: false
+	IsTouchSupportEnabled: false
+	IsAllowScalingMaximized: false
+	IsSimulateExclusiveFullscreen: false
+	Is3DGameMode: false
+	IsCaptureTitleBar: false
+	IsAdjustCursorSpeed: true
+	IsDirectFlipDisabled: false
+	cropping: 0,0,0,0
+	graphicsCardId:
+		idx: -1
+		venderId: 0
+		deviceId: 0
+	minFrameRate: 10
+	maxFrameRate: 60
+	cursorScaling: 1
+	captureMethod: 0
+	multiMonitorUsage: 0
+	cursorInterpolationMode: 0
+	duplicateFrameDetectionMode: 1
+	fullscreenInitialToolbarState: 0
+	windowedInitialToolbarState: 0
+	screenshotsDir: C:\Users\Administrator\Pictures\Screenshots
+	effects: 
+		FSR\FSR_EASU
+			scalingType: 1
+			scale: 1,1
+			parameters: 无
+		FSR\FSR_RCAS
+			scalingType: 0
+			scale: 1,1
+			parameters: 
+				sharpness: 0.85
+2026-08-08 00:34:33.818|info|ScalingWindow.cpp:54|_StartImpl|缩放开始
+	程序版本: v0.12.1
+	OS 版本: 10.0.19045
+	管理员: 是
+2026-08-08 00:34:33.826|info|ScalingWindow.cpp:40|LogRects|源矩形: 504,296,2056,1292 (1552x996)
+2026-08-08 00:34:33.826|info|ScalingWindow.cpp:44|LogRects|渲染矩形: 246,108,2315,1436 (2069x1328)
+2026-08-08 00:34:33.826|info|ScalingWindow.cpp:48|LogRects|缩放窗口矩形: 235,107,2326,1447 (2091x1340)
+2026-08-08 00:34:33.826|info|DeviceResources.cpp:32|Initialize|可变刷新率支持: 是
+2026-08-08 00:34:33.827|info|DeviceResources.cpp:32|Initialize|可变刷新率支持: 是
+2026-08-08 00:34:33.842|info|DeviceResources.cpp:220|_TryCreateD3DDevice|已创建 D3D 设备
+	功能级别: 11.1
+2026-08-08 00:34:33.842|info|DeviceResources.cpp:245|_TryCreateD3DDevice|FP16 支持: 是
+2026-08-08 00:34:33.842|info|Renderer.cpp:61|LogAdapter|当前图形适配器: 
+	VendorId: 0x8086
+	DeviceId: 0xa788
+	Description: Intel(R) UHD Graphics
+2026-08-08 00:34:33.856|info|DeviceResources.cpp:220|_TryCreateD3DDevice|已创建 D3D 设备
+	功能级别: 11.1
+2026-08-08 00:34:33.856|info|DeviceResources.cpp:245|_TryCreateD3DDevice|FP16 支持: 是
+2026-08-08 00:34:33.856|info|Renderer.cpp:415|_InitFrameSource|当前捕获模式: Graphics Capture
+2026-08-08 00:34:33.921|info|GraphicsCaptureFrameSource.cpp:73|_Initialize|GraphicsCaptureFrameSource 初始化完成
+2026-08-08 00:34:33.921|info|Renderer.cpp:426|_InitFrameSource|捕获尺寸: 1552x996
+2026-08-08 00:34:33.921|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSR\FSR_EASU.hlsl
+2026-08-08 00:34:33.921|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSR\FSR_RCAS.hlsl
+2026-08-08 00:34:33.921|info|Win32Helper.cpp:299|ReadFile|读取文件: cache\FSR#FSR_RCAS_0000_144a205358c53429
+2026-08-08 00:34:33.921|info|Win32Helper.cpp:299|ReadFile|读取文件: cache\FSR#FSR_EASU_0000_6110c4251b164378
+2026-08-08 00:34:33.922|info|EffectCacheManager.cpp:203|Load|已读取缓存 cache\FSR#FSR_RCAS_0000_144a205358c53429
+2026-08-08 00:34:33.922|info|EffectCacheManager.cpp:203|Load|已读取缓存 cache\FSR#FSR_EASU_0000_6110c4251b164378
+2026-08-08 00:34:33.922|info|Renderer.cpp:463|CompileEffect|编译 FSR\FSR_RCAS.hlsl 用时 1.0200001 毫秒
+2026-08-08 00:34:33.922|info|Renderer.cpp:463|CompileEffect|编译 FSR\FSR_EASU.hlsl 用时 1.023 毫秒
+2026-08-08 00:34:33.922|info|Renderer.cpp:504|_BuildEffects|编译着色器总计用时 1.0320001 毫秒
+2026-08-08 00:34:33.928|info|Renderer.cpp:122|Initialize|目标矩形: 246,108,2315,1436 (2069x1328)
+2026-08-08 00:34:33.930|info|Win32Helper.cpp:299|ReadFile|读取文件: cache\fonts_zh-hans_144
+2026-08-08 00:53:19.296|info|ShortcutService.cpp:79|_WndProc|热键 WindowedModeScale 激活（Hotkey）
+2026-08-08 00:53:19.300|info|ScalingWindow.cpp:855|_MessageHandler|缩放结束
+2026-08-08 00:53:19.309|info|ScalingWindow.cpp:870|_MessageHandler|CursorManager 已析构
+2026-08-08 00:53:19.344|info|ScalingWindow.cpp:873|_MessageHandler|Renderer 已析构
+2026-08-08 00:53:19.345|info|Win32Helper.cpp:372|WriteTextFile|写入文本文件: H:\火影开发项目\Nya-2.1.1-本地一键端-集成微端版本\NyaMicroClient\publish\Runtime\Magpie\config\config.json
+2026-08-08 00:53:20.334|info|App.cpp:221|Run|程序退出
+2026-08-08 00:55:10.337|info|main.cpp:76|wWinMain|程序启动
+	版本: v0.12.1
+	OS 版本: 10.0.19045
+	管理员: 是
+2026-08-08 00:55:10.357|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\ACNet.hlsl
+2026-08-08 00:55:10.357|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_3D_AA_Upscale_US.hlsl
+2026-08-08 00:55:10.357|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_3D_Upscale_US.hlsl
+2026-08-08 00:55:10.357|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Denoise_Bilateral_Mean.hlsl
+2026-08-08 00:55:10.357|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Denoise_Bilateral_Median.hlsl
+2026-08-08 00:55:10.357|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Denoise_Bilateral_Mode.hlsl
+2026-08-08 00:55:10.357|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_L.hlsl
+2026-08-08 00:55:10.357|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_M.hlsl
+2026-08-08 00:55:10.357|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_S.hlsl
+2026-08-08 00:55:10.357|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_L.hlsl
+2026-08-08 00:55:10.357|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_M.hlsl
+2026-08-08 00:55:10.357|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_S.hlsl
+2026-08-08 00:55:10.357|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_UL.hlsl
+2026-08-08 00:55:10.357|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_Soft_VL.hlsl
+2026-08-08 00:55:10.358|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_UL.hlsl
+2026-08-08 00:55:10.358|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Restore_VL.hlsl
+2026-08-08 00:55:10.358|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Thin_HQ.hlsl
+2026-08-08 00:55:10.358|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_Denoise_L.hlsl
+2026-08-08 00:55:10.358|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_Denoise_S.hlsl
+2026-08-08 00:55:10.358|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_Denoise_UL.hlsl
+2026-08-08 00:55:10.358|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_Denoise_VL.hlsl
+2026-08-08 00:55:10.358|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_GAN_x2_M.hlsl
+2026-08-08 00:55:10.358|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_GAN_x2_S.hlsl
+2026-08-08 00:55:10.358|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_GAN_x3_L.hlsl
+2026-08-08 00:55:10.358|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_L.hlsl
+2026-08-08 00:55:10.358|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_S.hlsl
+2026-08-08 00:55:10.358|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_UL.hlsl
+2026-08-08 00:55:10.358|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Anime4K\Anime4K_Upscale_VL.hlsl
+2026-08-08 00:55:10.358|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Bicubic.hlsl
+2026-08-08 00:55:10.358|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Bilinear.hlsl
+2026-08-08 00:55:10.358|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CAS\CAS.hlsl
+2026-08-08 00:55:10.358|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CAS\CAS_Scaling.hlsl
+2026-08-08 00:55:10.358|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\CRT_Easymode.hlsl
+2026-08-08 00:55:10.358|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\CRT_Geom.hlsl
+2026-08-08 00:55:10.358|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\CRT_Hyllian.hlsl
+2026-08-08 00:55:10.358|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\CRT_Lottes.hlsl
+2026-08-08 00:55:10.358|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CRT\GTU_v050.hlsl
+2026-08-08 00:55:10.358|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-16x16C-NVL-DN.hlsl
+2026-08-08 00:55:10.359|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-16x16C-NVL.hlsl
+2026-08-08 00:55:10.359|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-2x4C-NVL-DN.hlsl
+2026-08-08 00:55:10.359|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-2x4C-NVL.hlsl
+2026-08-08 00:55:10.359|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-3x4C-NVL-DN.hlsl
+2026-08-08 00:55:10.359|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-3x4C-NVL.hlsl
+2026-08-08 00:55:10.359|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x16C-NVL-DN.hlsl
+2026-08-08 00:55:10.359|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x16C-NVL.hlsl
+2026-08-08 00:55:10.359|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x4C-NVL-DN.hlsl
+2026-08-08 00:55:10.359|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x4C-NVL.hlsl
+2026-08-08 00:55:10.359|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x8C-NVL-DN.hlsl
+2026-08-08 00:55:10.359|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-4x8C-NVL.hlsl
+2026-08-08 00:55:10.359|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-6x8C-NVL-DN.hlsl
+2026-08-08 00:55:10.359|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-6x8C-NVL.hlsl
+2026-08-08 00:55:10.359|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x16C-NVL-DN.hlsl
+2026-08-08 00:55:10.359|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x16C-NVL.hlsl
+2026-08-08 00:55:10.359|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x4C-NVL-DN.hlsl
+2026-08-08 00:55:10.359|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x4C-NVL.hlsl
+2026-08-08 00:55:10.359|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x8C-NVL-DN.hlsl
+2026-08-08 00:55:10.359|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy\CuNNy-8x8C-NVL.hlsl
+2026-08-08 00:55:10.360|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-3x12-NVL.hlsl
+2026-08-08 00:55:10.360|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-4x12-NVL.hlsl
+2026-08-08 00:55:10.360|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-4x16-NVL.hlsl
+2026-08-08 00:55:10.360|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-4x24-NVL.hlsl
+2026-08-08 00:55:10.360|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-4x32-NVL.hlsl
+2026-08-08 00:55:10.360|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-8x32-NVL.hlsl
+2026-08-08 00:55:10.360|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-fast-NVL.hlsl
+2026-08-08 00:55:10.360|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-faster-NVL.hlsl
+2026-08-08 00:55:10.360|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\CuNNy2\CuNNy-veryfast-NVL.hlsl
+2026-08-08 00:55:10.360|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Deband.hlsl
+2026-08-08 00:55:10.360|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSR\FSR_EASU.hlsl
+2026-08-08 00:55:10.360|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSRCNNX\FSRCNNX.hlsl
+2026-08-08 00:55:10.360|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSRCNNX\FSRCNNX_LineArt.hlsl
+2026-08-08 00:55:10.360|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FXAA\FXAA_High.hlsl
+2026-08-08 00:55:10.360|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FXAA\FXAA_Medium.hlsl
+2026-08-08 00:55:10.360|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSR\FSR_RCAS.hlsl
+2026-08-08 00:55:10.361|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FXAA\FXAA_Ultra.hlsl
+2026-08-08 00:55:10.361|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\ImageAdjustment.hlsl
+2026-08-08 00:55:10.361|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Jinc.hlsl
+2026-08-08 00:55:10.361|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Lanczos.hlsl
+2026-08-08 00:55:10.361|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Nearest.hlsl
+2026-08-08 00:55:10.361|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NIS\NIS.hlsl
+2026-08-08 00:55:10.361|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NIS\NVSharpen.hlsl
+2026-08-08 00:55:10.361|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns128_win8x4.hlsl
+2026-08-08 00:55:10.361|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns128_win8x6.hlsl
+2026-08-08 00:55:10.361|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns16_win8x4.hlsl
+2026-08-08 00:55:10.361|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns16_win8x6.hlsl
+2026-08-08 00:55:10.361|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns256_win8x4.hlsl
+2026-08-08 00:55:10.361|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns256_win8x6.hlsl
+2026-08-08 00:55:10.361|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns32_win8x6.hlsl
+2026-08-08 00:55:10.361|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns64_win8x4.hlsl
+2026-08-08 00:55:10.361|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns32_win8x4.hlsl
+2026-08-08 00:55:10.361|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\NNEDI3\NNEDI3_nns64_win8x6.hlsl
+2026-08-08 00:55:10.361|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Pixel Art\MMPX.hlsl
+2026-08-08 00:55:10.361|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Pixel Art\Pixellate.hlsl
+2026-08-08 00:55:10.361|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Pixel Art\SharpBilinear.hlsl
+2026-08-08 00:55:10.361|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R2.hlsl
+2026-08-08 00:55:10.361|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R2_RGB.hlsl
+2026-08-08 00:55:10.361|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R3.hlsl
+2026-08-08 00:55:10.361|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R3_RGB.hlsl
+2026-08-08 00:55:10.361|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R4.hlsl
+2026-08-08 00:55:10.361|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_3x_R4_RGB.hlsl
+2026-08-08 00:55:10.361|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_AR_R2.hlsl
+2026-08-08 00:55:10.362|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_AR_R3.hlsl
+2026-08-08 00:55:10.362|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_AR_R4.hlsl
+2026-08-08 00:55:10.362|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_R2.hlsl
+2026-08-08 00:55:10.362|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R2.hlsl
+2026-08-08 00:55:10.362|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R2_RGB.hlsl
+2026-08-08 00:55:10.362|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_R4.hlsl
+2026-08-08 00:55:10.362|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R3.hlsl
+2026-08-08 00:55:10.362|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R3_RGB.hlsl
+2026-08-08 00:55:10.362|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R4.hlsl
+2026-08-08 00:55:10.362|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_R4_RGB.hlsl
+2026-08-08 00:55:10.362|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_AR_R2.hlsl
+2026-08-08 00:55:10.362|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Lite_R3.hlsl
+2026-08-08 00:55:10.362|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_AR_R2_RGB.hlsl
+2026-08-08 00:55:10.362|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_AR_R3.hlsl
+2026-08-08 00:55:10.362|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_AR_R3_RGB.hlsl
+2026-08-08 00:55:10.362|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_R2.hlsl
+2026-08-08 00:55:10.362|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_R2_RGB.hlsl
+2026-08-08 00:55:10.362|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_R3.hlsl
+2026-08-08 00:55:10.362|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\RAVU\RAVU_Zoom_R3_RGB.hlsl
+2026-08-08 00:55:10.362|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Sharpen\AdaptiveSharpen.hlsl
+2026-08-08 00:55:10.362|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Sharpen\FineSharp.hlsl
+2026-08-08 00:55:10.362|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Sharpen\LCAS.hlsl
+2026-08-08 00:55:10.363|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\Sharpen\LumaSharpen.hlsl
+2026-08-08 00:55:10.363|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SMAA\SMAA_High.hlsl
+2026-08-08 00:55:10.363|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SMAA\SMAA_Low.hlsl
+2026-08-08 00:55:10.363|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SMAA\SMAA_Medium.hlsl
+2026-08-08 00:55:10.363|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SMAA\SMAA_Ultra.hlsl
+2026-08-08 00:55:10.363|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\SSimDownscaler.hlsl
+2026-08-08 00:55:10.363|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_2x.hlsl
+2026-08-08 00:55:10.363|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_4x.hlsl
+2026-08-08 00:55:10.363|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_3x.hlsl
+2026-08-08 00:55:10.363|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_5x.hlsl
+2026-08-08 00:55:10.363|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_6x.hlsl
+2026-08-08 00:55:10.363|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\xBRZ\xBRZ_Freescale.hlsl
+2026-08-08 00:55:10.411|info|AppSettings.cpp:213|Initialize|便携模式: 是
+2026-08-08 00:55:10.411|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: H:\火影开发项目\Nya-2.1.1-本地一键端-集成微端版本\NyaMicroClient\publish\Runtime\Magpie\config\config.json
+2026-08-08 00:55:12.754|info|ShortcutService.cpp:79|_WndProc|热键 WindowedModeScale 激活（Hotkey）
+2026-08-08 00:55:12.757|info|ScalingOptions.cpp:40|Log|缩放选项
+	IsWindowedMode: true
+	IsDebugMode: false
+	IsBenchmarkMode: false
+	IsFP16Disabled: false
+	IsEffectCacheDisabled: false
+	IsFontCacheDisabled: false
+	IsSaveEffectSources: false
+	IsWarningsAreErrors: false
+	IsStatisticsForDynamicDetectionEnabled: false
+	IsInlineParams: false
+	IsTouchSupportEnabled: false
+	IsAllowScalingMaximized: false
+	IsSimulateExclusiveFullscreen: false
+	Is3DGameMode: false
+	IsCaptureTitleBar: false
+	IsAdjustCursorSpeed: true
+	IsDirectFlipDisabled: false
+	cropping: 0,0,0,0
+	graphicsCardId:
+		idx: -1
+		venderId: 0
+		deviceId: 0
+	minFrameRate: 10
+	maxFrameRate: 60
+	cursorScaling: 1
+	captureMethod: 0
+	multiMonitorUsage: 0
+	cursorInterpolationMode: 0
+	duplicateFrameDetectionMode: 1
+	fullscreenInitialToolbarState: 0
+	windowedInitialToolbarState: 0
+	screenshotsDir: C:\Users\Administrator\Pictures\Screenshots
+	effects: 
+		FSR\FSR_EASU
+			scalingType: 1
+			scale: 1,1
+			parameters: 无
+		FSR\FSR_RCAS
+			scalingType: 0
+			scale: 1,1
+			parameters: 
+				sharpness: 0.85
+2026-08-08 00:55:12.757|info|ScalingWindow.cpp:54|_StartImpl|缩放开始
+	程序版本: v0.12.1
+	OS 版本: 10.0.19045
+	管理员: 是
+2026-08-08 00:55:12.773|info|ScalingWindow.cpp:40|LogRects|源矩形: 504,296,2056,1292 (1552x996)
+2026-08-08 00:55:12.773|info|ScalingWindow.cpp:44|LogRects|渲染矩形: 246,108,2315,1436 (2069x1328)
+2026-08-08 00:55:12.773|info|ScalingWindow.cpp:48|LogRects|缩放窗口矩形: 235,107,2326,1447 (2091x1340)
+2026-08-08 00:55:12.774|info|DeviceResources.cpp:32|Initialize|可变刷新率支持: 是
+2026-08-08 00:55:12.776|info|DeviceResources.cpp:32|Initialize|可变刷新率支持: 是
+2026-08-08 00:55:12.789|info|DeviceResources.cpp:220|_TryCreateD3DDevice|已创建 D3D 设备
+	功能级别: 11.1
+2026-08-08 00:55:12.789|info|DeviceResources.cpp:245|_TryCreateD3DDevice|FP16 支持: 是
+2026-08-08 00:55:12.789|info|Renderer.cpp:61|LogAdapter|当前图形适配器: 
+	VendorId: 0x8086
+	DeviceId: 0xa788
+	Description: Intel(R) UHD Graphics
+2026-08-08 00:55:12.801|info|DeviceResources.cpp:220|_TryCreateD3DDevice|已创建 D3D 设备
+	功能级别: 11.1
+2026-08-08 00:55:12.801|info|DeviceResources.cpp:245|_TryCreateD3DDevice|FP16 支持: 是
+2026-08-08 00:55:12.801|info|Renderer.cpp:415|_InitFrameSource|当前捕获模式: Graphics Capture
+2026-08-08 00:55:12.866|info|GraphicsCaptureFrameSource.cpp:73|_Initialize|GraphicsCaptureFrameSource 初始化完成
+2026-08-08 00:55:12.866|info|Renderer.cpp:426|_InitFrameSource|捕获尺寸: 1552x996
+2026-08-08 00:55:12.866|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSR\FSR_EASU.hlsl
+2026-08-08 00:55:12.866|info|Win32Helper.cpp:350|ReadTextFile|读取文本文件: effects\FSR\FSR_RCAS.hlsl
+2026-08-08 00:55:12.866|info|Win32Helper.cpp:299|ReadFile|读取文件: cache\FSR#FSR_RCAS_0000_144a205358c53429
+2026-08-08 00:55:12.866|info|Win32Helper.cpp:299|ReadFile|读取文件: cache\FSR#FSR_EASU_0000_6110c4251b164378
+2026-08-08 00:55:12.867|info|EffectCacheManager.cpp:203|Load|已读取缓存 cache\FSR#FSR_RCAS_0000_144a205358c53429
+2026-08-08 00:55:12.867|info|EffectCacheManager.cpp:203|Load|已读取缓存 cache\FSR#FSR_EASU_0000_6110c4251b164378
+2026-08-08 00:55:12.867|info|Renderer.cpp:463|CompileEffect|编译 FSR\FSR_RCAS.hlsl 用时 0.99600005 毫秒
+2026-08-08 00:55:12.867|info|Renderer.cpp:463|CompileEffect|编译 FSR\FSR_EASU.hlsl 用时 1 毫秒
+2026-08-08 00:55:12.867|info|Renderer.cpp:504|_BuildEffects|编译着色器总计用时 1.0070001 毫秒
+2026-08-08 00:55:12.872|info|Renderer.cpp:122|Initialize|目标矩形: 246,108,2315,1436 (2069x1328)
+2026-08-08 00:55:12.873|info|Win32Helper.cpp:299|ReadFile|读取文件: cache\fonts_zh-hans_144
+2026-08-08 00:55:47.351|info|ShortcutService.cpp:79|_WndProc|热键 WindowedModeScale 激活（Hotkey）
+2026-08-08 00:55:47.357|info|ScalingWindow.cpp:855|_MessageHandler|缩放结束
+2026-08-08 00:55:47.366|info|ScalingWindow.cpp:870|_MessageHandler|CursorManager 已析构
+2026-08-08 00:55:47.408|info|ScalingWindow.cpp:873|_MessageHandler|Renderer 已析构
+2026-08-08 00:55:47.408|info|Win32Helper.cpp:372|WriteTextFile|写入文本文件: H:\火影开发项目\Nya-2.1.1-本地一键端-集成微端版本\NyaMicroClient\publish\Runtime\Magpie\config\config.json
+2026-08-08 00:55:49.747|info|App.cpp:221|Run|程序退出

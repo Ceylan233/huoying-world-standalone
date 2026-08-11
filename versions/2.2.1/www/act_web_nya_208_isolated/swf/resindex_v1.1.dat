@@ -1,0 +1,25 @@
+function GetSubTable()
+	local t = {
+		["downloadlist"] = {
+			[1] = {
+				["starttime"] = 1344873600,
+				["endtime"] = 1344960000,
+				["md5"] = "39BF20E96235D58B6B9F102A52549388", 
+				["path"] = "http://cloud.xmp.kankan.xunlei.com/pusher/serialtip_v1.4.dat", 
+				["filesize"] = "147275",
+				["peeridlist"] = {"2", "5", "6"},
+				["dir"] = "Code\\pusher"
+			},
+			[2] = {
+				["starttime"] = 1344960000,
+				["endtime"] = 1345046400,
+				["md5"] = "39BF20E96235D58B6B9F102A52549388", 
+				["path"] = "http://cloud.xmp.kankan.xunlei.com/pusher/serialtip_v1.4.dat", 
+				["filesize"] = "147275",
+				["peeridlist"] = {"7", "8", "9"},
+				["dir"] = "Code\\pusher"
+			},
+		},
+	}
+	return t
+end
